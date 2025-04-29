@@ -1,0 +1,4454 @@
+Source: 4.pdf
+Austral Ecology
+
+ (2002) 
+
+27
+
+, 360–368
+
+Ecophysiology of the Soft Tree Fern, 
+Labill
+
+Dicksonia antarctica
+
+1,3†
+
+ N. J. DAVIDSON,
+
+M. A. HUNT,
+1
+School of Plant Science, University of Tasmania, GPO Box 252-55, Hobart, Tasmania 7001, 
+Australia (Email: neil.davidson@plant.utas.edu.au), 
+Hobart, Tasmania, Australia and 
+Hobart, Tasmania, Australia
+
+Cooperative Research Centre for Sustainable Production Forestry, 
+
+School of Applied Science, University of Tasmania, 
+
+ AND D. C. CLOSE
+
+* G. L.
+----
+Source: 4.pdf
+(Email: neil.davidson@plant.utas.edu.au), 
+Hobart, Tasmania, Australia and 
+Hobart, Tasmania, Australia
+
+Cooperative Research Centre for Sustainable Production Forestry, 
+
+School of Applied Science, University of Tasmania, 
+
+ AND D. C. CLOSE
+
+* G. L. UNWIN
+
+2
+
+3
+
+2,3‡
+
+1,3
+
+3
+
+D. antarctica
+
+Dicksonia  antarctica
+
+,  at  sites  across  its  natural  distribution  and  in  the  glasshouse. 
+
+Environmental constraints on gas exchange, stomatal conductance and water relations were
+----
+Source: 4.pdf
+C. CLOSE
+
+* G. L. UNWIN
+
+2
+
+3
+
+2,3‡
+
+1,3
+
+3
+
+D. antarctica
+
+Dicksonia  antarctica
+
+,  at  sites  across  its  natural  distribution  and  in  the  glasshouse. 
+
+Environmental constraints on gas exchange, stomatal conductance and water relations were investigated
+Abstract
+in  the  Soft Tree  Fern, 
+Dicksonia
+antarctica
+  exhibited  strong  stomatal  response  down  to  a  vapour  pressure  deﬁcit  (VPD)  of  0.25 kPa,  an  unusual
+characteristic  when  compared  with  other  ground  fern
+----
+Source: 4.pdf
+ns were investigated
+Abstract
+in  the  Soft Tree  Fern, 
+Dicksonia
+antarctica
+  exhibited  strong  stomatal  response  down  to  a  vapour  pressure  deﬁcit  (VPD)  of  0.25 kPa,  an  unusual
+characteristic  when  compared  with  other  ground  fern  species.  Net  photosynthetic  rate  may  be  a  response  of  the
+microenvironment prevalent during frond development, reﬂecting acclimatory capacity. Both these ecophysiological
+characteristics are consistent with the ecological niche of 
+, a
+----
+Source: 4.pdf
+fern  species.  Net  photosynthetic  rate  may  be  a  response  of  the
+microenvironment prevalent during frond development, reﬂecting acclimatory capacity. Both these ecophysiological
+characteristics are consistent with the ecological niche of 
+, a long-lived, ﬁre-resistant species that, during
+its  lifetime,  may  be  exposed  to:  (i)  a  humid  environment  beneath  a  rainforest  canopy;  and  (ii)  an  exposed
+environment  following  wildﬁre.  Maximum  net  photosynthesis  and  quantum
+----
+Source: 4.pdf
+a long-lived, ﬁre-resistant species that, during
+its  lifetime,  may  be  exposed  to:  (i)  a  humid  environment  beneath  a  rainforest  canopy;  and  (ii)  an  exposed
+environment  following  wildﬁre.  Maximum  net  photosynthesis  and  quantum  yield  of  photosynthesis  correlated
+strongly with VPD and the maximum net photosynthetic rate of 10.8 
+ was the highest yet recorded for
+a fern. These observations are consistent with the relatively low growth typically observed in 
+ on sunny,
+D.
+----
+Source: 4.pdf
+yield  of  photosynthesis  correlated
+strongly with VPD and the maximum net photosynthetic rate of 10.8 
+ was the highest yet recorded for
+a fern. These observations are consistent with the relatively low growth typically observed in 
+ on sunny,
+D. antarctica
+exposed sites and vice versa on cool, humid sites exposed to sunﬂecks. Favourable water relations maintained under
+conditions of moderate VPD (2.03 kPa) were probably due to stomatal control. However, inadequate rainfall or high
+VPD
+----
+Source: 4.pdf
+ny,
+D. antarctica
+exposed sites and vice versa on cool, humid sites exposed to sunﬂecks. Favourable water relations maintained under
+conditions of moderate VPD (2.03 kPa) were probably due to stomatal control. However, inadequate rainfall or high
+VPD (4.98 kPa) caused water stress, recovery of which was limited by slow water transport through fronds. These
+observations are consistent with the limitation of 
+ distribution to sites sheltered from hot winds and with
+D. antarctica
+reliable water
+----
+Source: 4.pdf
+VPD (4.98 kPa) caused water stress, recovery of which was limited by slow water transport through fronds. These
+observations are consistent with the limitation of 
+ distribution to sites sheltered from hot winds and with
+D. antarctica
+reliable water supply. The funnel-shaped rosette of fronds of 
+ may harvest rainfall and make it accessible
+D. antarctica
+to aerial roots situated at the base of fronds. This process may maintain favourable water relations independently of
+a subterranean root
+----
+Source: 4.pdf
+water supply. The funnel-shaped rosette of fronds of 
+ may harvest rainfall and make it accessible
+D. antarctica
+to aerial roots situated at the base of fronds. This process may maintain favourable water relations independently of
+a subterranean root system. This proposed strategy of water acquisition is unique for a fern species and may eliminate
+a  need  for  soil  moisture  competition  with  surrounding  plant  species.  It  is  suggested  that  the  ecophysiological
+characteristics
+----
+Source: 4.pdf
+ean root system. This proposed strategy of water acquisition is unique for a fern species and may eliminate
+a  need  for  soil  moisture  competition  with  surrounding  plant  species.  It  is  suggested  that  the  ecophysiological
+characteristics  observed  in 
+  in  this  study  may  contribute  to  the  ecological  niche  it  occupies,  which  is
+D.  antarctica
+characterized by a variable environment.
+
+–
+mol m
+
+–
+ s
+
+(cid:2)
+
+2
+
+1
+
+Key words:
+
+ photosynthesis, stomatal conductance, vapour
+----
+Source: 4.pdf
+s  observed  in 
+  in  this  study  may  contribute  to  the  ecological  niche  it  occupies,  which  is
+D.  antarctica
+characterized by a variable environment.
+
+–
+mol m
+
+–
+ s
+
+(cid:2)
+
+2
+
+1
+
+Key words:
+
+ photosynthesis, stomatal conductance, vapour pressure deﬁcit, water relations.
+
+INTRODUCTION
+
+Pteridophytes (ferns) inhabit a wide range of terrestrial
+environments  from  deserts  (Nobel  1978),  to  shaded
+forest  understoreys  (Bannister  & Wildish  1982)  and
+rainforest  canopies  (Hew  &
+----
+Source: 4.pdf
+r pressure deﬁcit, water relations.
+
+INTRODUCTION
+
+Pteridophytes (ferns) inhabit a wide range of terrestrial
+environments  from  deserts  (Nobel  1978),  to  shaded
+forest  understoreys  (Bannister  & Wildish  1982)  and
+rainforest  canopies  (Hew  &  Wong  1974;  Hietz  &
+Briones  1998). Their  ecophysiological  characteristics
+therefore  vary  widely.  Some  ferns  are  tolerant  of
+dehydration. For example, 
+ is not
+damaged following loss of 97% of its water content and
+resurrects  its
+----
+Source: 4.pdf
+Hew  &  Wong  1974;  Hietz  &
+Briones  1998). Their  ecophysiological  characteristics
+therefore  vary  widely.  Some  ferns  are  tolerant  of
+dehydration. For example, 
+ is not
+damaged following loss of 97% of its water content and
+resurrects  its  photosynthetic  activity  30 min  after
+rehydration  (Stuart  1968).  Ferns  that  avoid  dehyd-
+
+Polypodium polypoides
+
+*Corresponding author.
+†
+Present  address:  Queensland  Forestry  Research  Institute,
+
+Gympie, Queensland,
+----
+Source: 4.pdf
+and
+resurrects  its  photosynthetic  activity  30 min  after
+rehydration  (Stuart  1968).  Ferns  that  avoid  dehyd-
+
+Polypodium polypoides
+
+*Corresponding author.
+†
+Present  address:  Queensland  Forestry  Research  Institute,
+
+Gympie, Queensland, Australia.
+
+‡
+Present  address:  School  of  Geography  and  Environmental
+Studies,  University  of  Tasmania,  Launceston,  Tasmania,
+Australia.
+
+Accepted for publication November 2001.
+
+ration  tend  to  have  high  water  storage  capacity
+----
+Source: 4.pdf
+sland, Australia.
+
+‡
+Present  address:  School  of  Geography  and  Environmental
+Studies,  University  of  Tasmania,  Launceston,  Tasmania,
+Australia.
+
+Accepted for publication November 2001.
+
+ration  tend  to  have  high  water  storage  capacity  in
+fronds  and/or  long,  succulent  creeping  rhizomes  with
+fronds spaced widely along the rhizome, a high cutic-
+ular resistance to transpiration, and stomata sensitive to
+water  loss  (Hietz  &  Briones  1998).  Ferns  that  have  a
+low
+----
+Source: 4.pdf
+capacity  in
+fronds  and/or  long,  succulent  creeping  rhizomes  with
+fronds spaced widely along the rhizome, a high cutic-
+ular resistance to transpiration, and stomata sensitive to
+water  loss  (Hietz  &  Briones  1998).  Ferns  that  have  a
+low tolerance to dehydration have high rates of uncon-
+trolled water loss and little or no water storage in leaves
+or  rhizomes,  so  this  restricts  them  to  moist,  humid
+environments (Hietz & Briones 1998).
+
+Ferns inhabiting moist, shaded
+----
+Source: 4.pdf
+ave  a
+low tolerance to dehydration have high rates of uncon-
+trolled water loss and little or no water storage in leaves
+or  rhizomes,  so  this  restricts  them  to  moist,  humid
+environments (Hietz & Briones 1998).
+
+Ferns inhabiting moist, shaded environments tend to
+exhibit  little  or  no  stomatal  response  to  increasing
+vapour pressure deﬁcit (VPD) (Nobel 1978; Hollinger
+1987;  Hietz  &  Briones  1998)  and  low  stomatal
+conductance  at  low  VPD  (Nobel 
+.  1984).  By
+contrast,  in
+----
+Source: 4.pdf
+d environments tend to
+exhibit  little  or  no  stomatal  response  to  increasing
+vapour pressure deﬁcit (VPD) (Nobel 1978; Hollinger
+1987;  Hietz  &  Briones  1998)  and  low  stomatal
+conductance  at  low  VPD  (Nobel 
+.  1984).  By
+contrast,  in  environments  characterized  by  periods  of
+high  incident  photosynthetic  photon  ﬂux  density
+1
+(PPFD > 400 
+) and moderate VPD, ferns
+may exhibit strong stomatal control of water loss, with
+high stomatal conductance under moderate
+----
+Source: 4.pdf
+contrast,  in  environments  characterized  by  periods  of
+high  incident  photosynthetic  photon  ﬂux  density
+1
+(PPFD > 400 
+) and moderate VPD, ferns
+may exhibit strong stomatal control of water loss, with
+high stomatal conductance under moderate evaporative
+demand and pronounced stomatal closure in response
+to high VPD (Nobel 
+. 1984; Hietz & Briones 1998).
+
+–
+mol m
+
+et al
+
+et al
+
+–
+ s
+
+(cid:2)
+
+2
+----
+Source: 4.pdf
+e evaporative
+demand and pronounced stomatal closure in response
+to high VPD (Nobel 
+. 1984; Hietz & Briones 1998).
+
+–
+mol m
+
+et al
+
+et al
+
+–
+ s
+
+(cid:2)
+
+2
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E C O P H Y S I O L O G Y   O F  
+
+D I C K S O N I A  A N TA R C T I C A
+
+3 6 1
+
+et al
+
+The  relationships  between  the  water  potential  of
+ferns  and  factors  such  as  soil  water  status,
+----
+Source: 4.pdf
+E C O P H Y S I O L O G Y   O F  
+
+D I C K S O N I A  A N TA R C T I C A
+
+3 6 1
+
+et al
+
+The  relationships  between  the  water  potential  of
+ferns  and  factors  such  as  soil  water  status,  stomatal
+conductance  (Nobel  1978;  Hollinger  1987),  relative
+water content (RWC) of the foliage and VPD (Tinklin
+&  Bowling  1969;  Roberts 
+.  1984)  are  highly
+et al
+variable  among  species  (Roberts 
+.  1980,  1984).
+This  variation  is
+----
+Source: 4.pdf
+s,  stomatal
+conductance  (Nobel  1978;  Hollinger  1987),  relative
+water content (RWC) of the foliage and VPD (Tinklin
+&  Bowling  1969;  Roberts 
+.  1984)  are  highly
+et al
+variable  among  species  (Roberts 
+.  1980,  1984).
+This  variation  is  accentuated  by  differences  in  the
+degree  of  tolerance  or  avoidance  of  water  stress,
+between  the  efﬁciency  of  the  vascular  systems  (e.g.
+Walter & Stadelmann 1974; Nobel 1978) and in gradi-
+ents  of  water  potential  that  develop
+----
+Source: 4.pdf
+accentuated  by  differences  in  the
+degree  of  tolerance  or  avoidance  of  water  stress,
+between  the  efﬁciency  of  the  vascular  systems  (e.g.
+Walter & Stadelmann 1974; Nobel 1978) and in gradi-
+ents  of  water  potential  that  develop  within  the  plant
+(Nobel  1978).  Direct  absorption  of  water  via  fronds
+can  restore  water  potential  during  the  recovery  of
+desiccation-tolerant  pteridophytes  (Eickmeier  1979;
+Schwab 
+. 1989) and, for some species, is essential
+for
+----
+Source: 4.pdf
+op  within  the  plant
+(Nobel  1978).  Direct  absorption  of  water  via  fronds
+can  restore  water  potential  during  the  recovery  of
+desiccation-tolerant  pteridophytes  (Eickmeier  1979;
+Schwab 
+. 1989) and, for some species, is essential
+for recovery (Stuart 1968). However, water absorption
+for most ferns is thought to occur principally through
+a  subterranean  root  system  or  rhizomatous  mats  in
+epiphytic  ferns  (Andrade  &  Nobel  1997;  Hietz  &
+Briones 1998).
+
+et al
+
+Dicksonia
+----
+Source: 4.pdf
+r recovery (Stuart 1968). However, water absorption
+for most ferns is thought to occur principally through
+a  subterranean  root  system  or  rhizomatous  mats  in
+epiphytic  ferns  (Andrade  &  Nobel  1997;  Hietz  &
+Briones 1998).
+
+et al
+
+Dicksonia antarctica
+
+Although the ecophysiology of epiphytic ferns (Hietz
+&  Briones  1998)  and  some  ground  fern  species  is
+reasonably well known (Nobel 1978; Hollinger 1987),
+few  studies  (Bannister  &  Wildish  1982;  Nobel 
+.
+et al
+1984) have
+----
+Source: 4.pdf
+ksonia antarctica
+
+Although the ecophysiology of epiphytic ferns (Hietz
+&  Briones  1998)  and  some  ground  fern  species  is
+reasonably well known (Nobel 1978; Hollinger 1987),
+few  studies  (Bannister  &  Wildish  1982;  Nobel 
+.
+et al
+1984) have addressed the special case of tree ferns. The
+Soft Tree Fern, 
+, is a characteristic
+understorey  species  of  wet  sclerophyll  and  rainforest
+communities  on  moist,  fertile  soils  in  south-eastern
+Australia and Tasmania within an altitudinal
+----
+Source: 4.pdf
+e addressed the special case of tree ferns. The
+Soft Tree Fern, 
+, is a characteristic
+understorey  species  of  wet  sclerophyll  and  rainforest
+communities  on  moist,  fertile  soils  in  south-eastern
+Australia and Tasmania within an altitudinal range from
+sea  level  to  1000 m  a.s.l.  (Neyland  1986).  Growth  in
+the
+0.5
+antarctica
+stem
+to 8.8 cm
+Maximum
+height can reach 5–6 m with an apical rosette of fronds
+2–6 m
+for
+an
+
+D.
+(Mueck
+
+may
+.
+et
+----
+Source: 4.pdf
+n
+Australia and Tasmania within an altitudinal range from
+sea  level  to  1000 m  a.s.l.  (Neyland  1986).  Growth  in
+the
+0.5
+antarctica
+stem
+to 8.8 cm
+Maximum
+height can reach 5–6 m with an apical rosette of fronds
+2–6 m
+for
+an
+
+D.
+(Mueck
+
+may
+.
+et al
+
+height
+per
+
+individual
+
+diameter,
+
+of
+year
+
+1996).
+
+range
+
+from
+
+may
+
+and
+
+live
+
+in
+
+in
+
+forest
+
+et al
+relatively
+
+500–1000  years  (Mueck 
+.  1996;  Unwin  &  Hunt
+1996).
+long
+its
+During
+with
+(compared
+co-occurring  tree  species)  lifetime,
+----
+Source: 4.pdf
+t al
+
+height
+per
+
+individual
+
+diameter,
+
+of
+year
+
+1996).
+
+range
+
+from
+
+may
+
+and
+
+live
+
+in
+
+in
+
+forest
+
+et al
+relatively
+
+500–1000  years  (Mueck 
+.  1996;  Unwin  &  Hunt
+1996).
+long
+its
+During
+with
+(compared
+co-occurring  tree  species)  lifetime, 
+  may
+D.  antarctica
+be  exposed  to  a  wide  range  of  light  regimes,  from
+shaded  beneath  a  dense  tree  canopy,  to  high  light
+intensities
+growing
+trunk
+apex  of 
+  are  very  resistant  to  damage  by
+ﬁre and the apical rosette of fronds
+----
+Source: 4.pdf
+may
+D.  antarctica
+be  exposed  to  a  wide  range  of  light  regimes,  from
+shaded  beneath  a  dense  tree  canopy,  to  high  light
+intensities
+growing
+trunk
+apex  of 
+  are  very  resistant  to  damage  by
+ﬁre and the apical rosette of fronds rapidly regenerates
+after  intense  wildﬁres  (Hickey  1994).  During  the
+period of regeneration of woody species following ﬁre,
+  may  experience  prolonged  periods  of
+D.  antarctica
+exposure to high light intensities and dry
+----
+Source: 4.pdf
+al rosette of fronds rapidly regenerates
+after  intense  wildﬁres  (Hickey  1994).  During  the
+period of regeneration of woody species following ﬁre,
+  may  experience  prolonged  periods  of
+D.  antarctica
+exposure to high light intensities and dry atmospheric
+conditions.
+
+a
+D.  antarctica
+
+The
+
+gap.
+
+and
+
+This study aimed to identify the environmental con-
+straints  affecting  gas  exchange,  stomatal  conductance
+and water relations in the Soft Tree Fern, 
+.
+D. antarctica
+In  addition,  the
+----
+Source: 4.pdf
+y atmospheric
+conditions.
+
+a
+D.  antarctica
+
+The
+
+gap.
+
+and
+
+This study aimed to identify the environmental con-
+straints  affecting  gas  exchange,  stomatal  conductance
+and water relations in the Soft Tree Fern, 
+.
+D. antarctica
+In  addition,  the  study  describes  how  ecophysiological
+attributes may contribute to the success of 
+D. antarctica
+in  an  environment  highly  variable  in  PPFD,  water
+supply  and  evapotranspirational  demand.  Six  hypo-
+theses  are  proposed  and  tested:
+----
+Source: 4.pdf
+he  study  describes  how  ecophysiological
+attributes may contribute to the success of 
+D. antarctica
+in  an  environment  highly  variable  in  PPFD,  water
+supply  and  evapotranspirational  demand.  Six  hypo-
+theses  are  proposed  and  tested:  (i)  that  the  stomatal
+conductance  of 
+  will  exhibit  a  strong
+D.  antarctica
+response  to  VPD;  (ii)  that 
+increased  VPD  will
+negatively  affect  maximum  net  photosynthesis  and
+quantum  yield  of  photosynthesis;  (iii)  that
+----
+Source: 4.pdf
+tested:  (i)  that  the  stomatal
+conductance  of 
+  will  exhibit  a  strong
+D.  antarctica
+response  to  VPD;  (ii)  that 
+increased  VPD  will
+negatively  affect  maximum  net  photosynthesis  and
+quantum  yield  of  photosynthesis;  (iii)  that  decreased
+stomatal  conductance  will  limit  photosynthesis;  (iv)
+that  photosynthetic  rates  may  be  dependent  on  accli-
+mation  to  microenvironmental  effects  during  frond
+development; (v) that water potential and RWC exhibit
+elasticity
+----
+Source: 4.pdf
+t  decreased
+stomatal  conductance  will  limit  photosynthesis;  (iv)
+that  photosynthetic  rates  may  be  dependent  on  accli-
+mation  to  microenvironmental  effects  during  frond
+development; (v) that water potential and RWC exhibit
+elasticity in response to moisture availability and VPD
+changes;  and  (vi)  that  morphology  of  fronds,  aerial
+stem  and  adventitious  roots  contribute  to  the  main-
+tenance of favourable water relations in 
+
+.
+D. antarctica
+
+METHODS
+
+Stomatal
+----
+Source: 4.pdf
+lasticity in response to moisture availability and VPD
+changes;  and  (vi)  that  morphology  of  fronds,  aerial
+stem  and  adventitious  roots  contribute  to  the  main-
+tenance of favourable water relations in 
+
+.
+D. antarctica
+
+METHODS
+
+Stomatal conductance
+
+Variation within a frond
+
+Within-frond  variation  in  stomatal  conductance  was
+assessed at Liffey Valley (35 km south of Launceston,
+(cid:4)
+(cid:3)
+(cid:4)
+(cid:3)
+Tasmania: 146
+S). Temperature and hum-
+40
+E, 41
+56
+idity  were
+----
+Source: 4.pdf
+matal conductance
+
+Variation within a frond
+
+Within-frond  variation  in  stomatal  conductance  was
+assessed at Liffey Valley (35 km south of Launceston,
+(cid:4)
+(cid:3)
+(cid:4)
+(cid:3)
+Tasmania: 146
+S). Temperature and hum-
+40
+E, 41
+56
+idity  were  measured  by  an  Assman  psychrometer
+(Lambrecht  Instruments,  Göttingen,  Germany)  and
+incident  PPFD  by  a  quantum  sensor  mounted  on  a
+portable  steady-state  porometer  (Licor  1600c,  Licor,
+Nebraska,  USA).  Conductance  was  measured
+----
+Source: 4.pdf
+measured  by  an  Assman  psychrometer
+(Lambrecht  Instruments,  Göttingen,  Germany)  and
+incident  PPFD  by  a  quantum  sensor  mounted  on  a
+portable  steady-state  porometer  (Licor  1600c,  Licor,
+Nebraska,  USA).  Conductance  was  measured  under
+(cid:3)
+conditions  of  low  temperature  (8–14
+C),  low  VPD
+(0.21–0.63 kPa)  and 
+intensity  (100–
+300 
+),  on  a  frond  of  three  randomly
+selected,  1–2 m-tall  sporophytes  on  28  July  1993.
+Measurements
+primary
+of
+pinna
+----
+Source: 4.pdf
+as  measured  under
+(cid:3)
+conditions  of  low  temperature  (8–14
+C),  low  VPD
+(0.21–0.63 kPa)  and 
+intensity  (100–
+300 
+),  on  a  frond  of  three  randomly
+selected,  1–2 m-tall  sporophytes  on  28  July  1993.
+Measurements
+primary
+of
+pinna  positions
+primary  branches  within  a
+frond;  see Fig. 1) evenly spaced down the length of a
+
+were
+(the
+
+–
+mol m
+
+made
+
+light 
+
+each
+
+low 
+
+12
+
+–
+ s
+
+at
+
+(cid:2)
+
+2
+
+1
+
+Fig. 1. Frond of Dicksonia antarctica indicating the primary
+pinnae, secondary
+----
+Source: 4.pdf
+positions
+primary  branches  within  a
+frond;  see Fig. 1) evenly spaced down the length of a
+
+were
+(the
+
+–
+mol m
+
+made
+
+light 
+
+each
+
+low 
+
+12
+
+–
+ s
+
+at
+
+(cid:2)
+
+2
+
+1
+
+Fig. 1. Frond of Dicksonia antarctica indicating the primary
+pinnae, secondary pinnae, and rachis.
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions
+----
+Source: 4.pdf
+innae, secondary pinnae, and rachis.
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+----
+Source: 4.pdf
+s (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+----
+Source: 4.pdf
+3 6 2
+
+M .   A .   H U N T   E T   A L .
+
+single  1.2-m  frond  on  each  sporophyte.  At  each  of
+the  12  pinnae  positions,  four  records  of  stomatal
+conductance  were  made  on  six
+----
+Source: 4.pdf
+3 6 2
+
+M .   A .   H U N T   E T   A L .
+
+single  1.2-m  frond  on  each  sporophyte.  At  each  of
+the  12  pinnae  positions,  four  records  of  stomatal
+conductance  were  made  on  six  occasions  at  approxi-
+mately  1-h  intervals  between  10.00  and  16.00 hours
+Australian Eastern Standard Time (AEST). Measure-
+ments  were  restricted  to  the  abaxial  surface  as  fronds
+were hypostomatous.
+
+Light, temperature and vapour
+----
+Source: 4.pdf
+six  occasions  at  approxi-
+mately  1-h  intervals  between  10.00  and  16.00 hours
+Australian Eastern Standard Time (AEST). Measure-
+ments  were  restricted  to  the  abaxial  surface  as  fronds
+were hypostomatous.
+
+Light, temperature and vapour pressure deﬁcit
+
+The response of stomatal conductance of D. antarctica
+to light, temperature and VPD was studied at two sites.
+Measurements  were  made  on  the  same  sporophytes
+as  those  used  in  the  assessment  of  variation  within
+a
+----
+Source: 4.pdf
+vapour pressure deﬁcit
+
+The response of stomatal conductance of D. antarctica
+to light, temperature and VPD was studied at two sites.
+Measurements  were  made  on  the  same  sporophytes
+as  those  used  in  the  assessment  of  variation  within
+a  frond,  under  the 
+low  ambient  PPFD  (100–
+300 (cid:2)mol m–2 s–1)  conditions  at  Liffey  (a  wet  sclero-
+phyll forest understorey site under a dense tree canopy
+with no exposure to sunﬂecks – deﬁned as a shady site)
+on  13  and  14  August,
+----
+Source: 4.pdf
+frond,  under  the 
+low  ambient  PPFD  (100–
+300 (cid:2)mol m–2 s–1)  conditions  at  Liffey  (a  wet  sclero-
+phyll forest understorey site under a dense tree canopy
+with no exposure to sunﬂecks – deﬁned as a shady site)
+on  13  and  14  August,  1993.  In  the  grounds  of  the
+University  of Tasmania  (Hobart, Tasmania:  147(cid:3)15(cid:4)E,
+42(cid:3)50(cid:4)S), where D. antarctica was present in the under-
+storey of a wet gully dominated by Eucalyptus obliqua
+and  Eucalyptus  globulus,
+----
+Source: 4.pdf
+1993.  In  the  grounds  of  the
+University  of Tasmania  (Hobart, Tasmania:  147(cid:3)15(cid:4)E,
+42(cid:3)50(cid:4)S), where D. antarctica was present in the under-
+storey of a wet gully dominated by Eucalyptus obliqua
+and  Eucalyptus  globulus,  measurements  were  made  on
+28  July  and  6 August,  1993.  In  the  shade  of  the  tree
+canopies,  PPFD  at  the  University  was  comparable  to
+that  at  Liffey  (approximately  200 (cid:2)mol m–2 s–1)  but
+during  sunﬂecks  (that  occurred
+----
+Source: 4.pdf
+,  measurements  were  made  on
+28  July  and  6 August,  1993.  In  the  shade  of  the  tree
+canopies,  PPFD  at  the  University  was  comparable  to
+that  at  Liffey  (approximately  200 (cid:2)mol m–2 s–1)  but
+during  sunﬂecks  (that  occurred  often  through  the
+sparse,  relative  to  Liffey,  canopy)  PPFD  rose  to
+1000 (cid:2)mol m–2 s–1  (this  site  was  deﬁned  as  sunny).
+Stomatal conductance was measured at approximately
+1.5-h intervals between 10.00 and 16.00 hours AEST
+on each
+----
+Source: 4.pdf
+often  through  the
+sparse,  relative  to  Liffey,  canopy)  PPFD  rose  to
+1000 (cid:2)mol m–2 s–1  (this  site  was  deﬁned  as  sunny).
+Stomatal conductance was measured at approximately
+1.5-h intervals between 10.00 and 16.00 hours AEST
+on each day using the porometer. At both sites the VPD
+was  approximately  0.2 kPa  at  10.00 hours  (9(cid:3)C  and
+80% relative humidity RH), and approximately 0.7 kPa
+at 14.00 hours (14(cid:3)C and 55% RH).
+
+To  take  account  of  the  variation  within
+----
+Source: 4.pdf
+h day using the porometer. At both sites the VPD
+was  approximately  0.2 kPa  at  10.00 hours  (9(cid:3)C  and
+80% relative humidity RH), and approximately 0.7 kPa
+at 14.00 hours (14(cid:3)C and 55% RH).
+
+To  take  account  of  the  variation  within  a  frond  at
+each time of measurement, 10–12 records were made
+at  different  primary  pinna  positions  along  each  frond
+over a 5-min period. Although PPFD changed during
+this  5-min  period, VPD  and  temperature  only  varied
+slightly  (by  a
+----
+Source: 4.pdf
+n  a  frond  at
+each time of measurement, 10–12 records were made
+at  different  primary  pinna  positions  along  each  frond
+over a 5-min period. Although PPFD changed during
+this  5-min  period, VPD  and  temperature  only  varied
+slightly  (by  a  maximum  of  0.04 kPa  and  0.5 (cid:3)C). To
+avoid  the  problem  of  multiple  observations  (of VPD)
+for each sample point (Draper & Smith 1981; White &
+Kile  1994),  statistical  analysis  of  temperature  and
+humidity  data  was  conducted
+----
+Source: 4.pdf
+a  maximum  of  0.04 kPa  and  0.5 (cid:3)C). To
+avoid  the  problem  of  multiple  observations  (of VPD)
+for each sample point (Draper & Smith 1981; White &
+Kile  1994),  statistical  analysis  of  temperature  and
+humidity  data  was  conducted  using  mean  frond
+stomatal  conductance  values  (mean  of  the  10–12
+records made at each measurement). All data were used
+in  analysis  of  the  relationship  between  stomatal
+conductance and PPFD.
+
+Photosynthesis
+
+Photosynthetic photon ﬂux
+----
+Source: 4.pdf
+ted  using  mean  frond
+stomatal  conductance  values  (mean  of  the  10–12
+records made at each measurement). All data were used
+in  analysis  of  the  relationship  between  stomatal
+conductance and PPFD.
+
+Photosynthesis
+
+Photosynthetic photon ﬂux density
+
+Photosynthesis  was  measured  using  a  portable  open
+gas analysis system (ADC LCA-2; Analytical Develop-
+
+ment Company, Hoddesdon, England) in conjunction
+with a Parkinson PLC-B leaf chamber. Measurements
+were  made  between  10.00  and
+----
+Source: 4.pdf
+x density
+
+Photosynthesis  was  measured  using  a  portable  open
+gas analysis system (ADC LCA-2; Analytical Develop-
+
+ment Company, Hoddesdon, England) in conjunction
+with a Parkinson PLC-B leaf chamber. Measurements
+were  made  between  10.00  and  16.00 hours  on
+4 days  (29  July,  5  August,  20  September  and  21
+September  1993)  using  the  same  three  sporophytes
+used  in  the  stomatal  conductance  investigation  at
+Liffey.  Measurement  was  conducted  on  4  clear-sky
+days  of
+----
+Source: 4.pdf
+nd  16.00 hours  on
+4 days  (29  July,  5  August,  20  September  and  21
+September  1993)  using  the  same  three  sporophytes
+used  in  the  stomatal  conductance  investigation  at
+Liffey.  Measurement  was  conducted  on  4  clear-sky
+days  of  similar  temperature  and  humidity.  Incident
+PPFD (5–300 (cid:2)mol m–2 s–1) and VPD (0.21–0.75 kPa)
+were low.
+
+At  the  University,  on  12–13  July  1993,  measure-
+ments  of  photosynthesis  were  made  on 
+three
+sporophytes that had been
+----
+Source: 4.pdf
+s  of  similar  temperature  and  humidity.  Incident
+PPFD (5–300 (cid:2)mol m–2 s–1) and VPD (0.21–0.75 kPa)
+were low.
+
+At  the  University,  on  12–13  July  1993,  measure-
+ments  of  photosynthesis  were  made  on 
+three
+sporophytes that had been transplanted into pots three
+months  earlier  and  were  acclimated  to  glasshouse
+conditions.  Levels  of  natural  irradiance  incident  at
+the  frond  surface  were  similar  to  those  at  Liffey.
+Photosynthetic  light  response  curves  were
+----
+Source: 4.pdf
+n transplanted into pots three
+months  earlier  and  were  acclimated  to  glasshouse
+conditions.  Levels  of  natural  irradiance  incident  at
+the  frond  surface  were  similar  to  those  at  Liffey.
+Photosynthetic  light  response  curves  were  generated
+using  a  lamp  comprising  four  150-W  Wotan  xenon
+quartz  globes  attached  to  the  Parkinson  PLC-B  leaf
+chamber.  Incident  photon  ﬂux  densities  less  than
+750 (cid:2)mol m–2 s–1  were  obtained  using  neutral  density
+ﬁlters.
+----
+Source: 4.pdf
+generated
+using  a  lamp  comprising  four  150-W  Wotan  xenon
+quartz  globes  attached  to  the  Parkinson  PLC-B  leaf
+chamber.  Incident  photon  ﬂux  densities  less  than
+750 (cid:2)mol m–2 s–1  were  obtained  using  neutral  density
+ﬁlters.  Photon  ﬂux  densities  (PFD)  greater  than
+750 (cid:2)mol m–2 s–1 were obtained by increasing power to
+the  lamp. The VPD  were  low,  ranging  from  0.34  to
+0.78 kPa.
+
+Vapour pressure deﬁcit
+
+At  Kingston  (12 km  south  of  Hobart,
+----
+Source: 4.pdf
+ity
+ﬁlters.  Photon  ﬂux  densities  (PFD)  greater  than
+750 (cid:2)mol m–2 s–1 were obtained by increasing power to
+the  lamp. The VPD  were  low,  ranging  from  0.34  to
+0.78 kPa.
+
+Vapour pressure deﬁcit
+
+At  Kingston  (12 km  south  of  Hobart,  Tasmania:
+147(cid:3)20(cid:4)E,  49(cid:3)59(cid:4)S),  a  single  D.  antarctica  sporophyte
+growing  in  a  high-light  environment  was  studied  to
+determine  the  photosynthetic  light  response  to VPD.
+Eight  light  response  curves  were
+----
+Source: 4.pdf
+t,  Tasmania:
+147(cid:3)20(cid:4)E,  49(cid:3)59(cid:4)S),  a  single  D.  antarctica  sporophyte
+growing  in  a  high-light  environment  was  studied  to
+determine  the  photosynthetic  light  response  to VPD.
+Eight  light  response  curves  were  obtained  under
+ambient external VPD from 0.9 to 1.5 kPa over 6 days
+(22 March, and 13, 14, 26, 27 and 28 April 1997). All
+measurements  were  made  on  a  single  primary  pinna.
+Resampling  of  a  single  primary  pinna  removed  any
+variation
+----
+Source: 4.pdf
+ere  obtained  under
+ambient external VPD from 0.9 to 1.5 kPa over 6 days
+(22 March, and 13, 14, 26, 27 and 28 April 1997). All
+measurements  were  made  on  a  single  primary  pinna.
+Resampling  of  a  single  primary  pinna  removed  any
+variation attributable to differences between individual
+pinnae,  fronds  and  positions  along  a  frond.  Light
+response  curves  were  generated  as  described  pre-
+viously.  For  each  light  response  curve,  four  to  eight
+measurements  were
+----
+Source: 4.pdf
+variation attributable to differences between individual
+pinnae,  fronds  and  positions  along  a  frond.  Light
+response  curves  were  generated  as  described  pre-
+viously.  For  each  light  response  curve,  four  to  eight
+measurements  were  conducted  at  each  PPFD.  In
+addition  to  the  light  response  curves,  maximum  rates
+of  photosynthesis  (mean  of  four  to  eight  measure-
+ments)  were  recorded  on  the  same  primary  pinna  at
+moderate VPD (0.55–0.9 kPa).
+
+Water
+----
+Source: 4.pdf
+s  were  conducted  at  each  PPFD.  In
+addition  to  the  light  response  curves,  maximum  rates
+of  photosynthesis  (mean  of  four  to  eight  measure-
+ments)  were  recorded  on  the  same  primary  pinna  at
+moderate VPD (0.55–0.9 kPa).
+
+Water relations
+
+At  the  University,  six  sporophytes  were  transplanted
+into pots and transferred to a glasshouse for 3 months
+from  the  beginning  of April  1993. Three  sporophytes
+were allocated to each of two microclimate treatments:
+(i)  low
+----
+Source: 4.pdf
+ter relations
+
+At  the  University,  six  sporophytes  were  transplanted
+into pots and transferred to a glasshouse for 3 months
+from  the  beginning  of April  1993. Three  sporophytes
+were allocated to each of two microclimate treatments:
+(i)  low  VPD = 0.21 kPa,  under  ambient  glasshouse
+conditions (PPFD 100 (cid:2)mol m–2 s–1, relative humidity
+85%  and  temperature  12(cid:3)C);  and  (ii)  moderate
+
+ 14429993, 2002, 4, Downloaded from
+----
+Source: 4.pdf
+ted to each of two microclimate treatments:
+(i)  low  VPD = 0.21 kPa,  under  ambient  glasshouse
+conditions (PPFD 100 (cid:2)mol m–2 s–1, relative humidity
+85%  and  temperature  12(cid:3)C);  and  (ii)  moderate
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online
+----
+Source: 4.pdf
+om https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseE C O P H Y S I O L O G Y   O F   D I C K S O N I A  A N TA R C T I C A
+
+3 6 3
+
+VPD = 2.03 kPa, created using a fan heater and a metal
+halide lamp (PPFD
+----
+Source: 4.pdf
+ine Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseE C O P H Y S I O L O G Y   O F   D I C K S O N I A  A N TA R C T I C A
+
+3 6 3
+
+VPD = 2.03 kPa, created using a fan heater and a metal
+halide lamp (PPFD 1000 (cid:2)mol m–2 s–1, relative humid-
+ity 35% and temperature 25(cid:3)C). Frond RWC and water
+potentials were determined on distal portions of pinnae
+each  hour  for  the  3  h  following VPD  treatment. The
+RWC  were  determined  on  ﬁve
+----
+Source: 4.pdf
+(PPFD 1000 (cid:2)mol m–2 s–1, relative humid-
+ity 35% and temperature 25(cid:3)C). Frond RWC and water
+potentials were determined on distal portions of pinnae
+each  hour  for  the  3  h  following VPD  treatment. The
+RWC  were  determined  on  ﬁve  replicate  secondary
+pinnae (the secondary branchlets within a branch; see
+Fig. 1)  for  each  sporophyte  each  hour  and  calculated
+following Turner (1981) using:
+
+RWC  =  (Wf  –  Wt)/(Wt  –  Wd)  (cid:5)  100
+
+where Wf  is  the  fresh  weight
+----
+Source: 4.pdf
+e  replicate  secondary
+pinnae (the secondary branchlets within a branch; see
+Fig. 1)  for  each  sporophyte  each  hour  and  calculated
+following Turner (1981) using:
+
+RWC  =  (Wf  –  Wt)/(Wt  –  Wd)  (cid:5)  100
+
+where Wf  is  the  fresh  weight  at  the  time  of  sampling;
+Wt is the turgid weight, obtained after pinnae had been
+placed  at  room  temperature  in  a  covered  Petri  dish
+containing  distilled  water  and  illuminated  at  a  PPFD
+equivalent to the light compensation point
+----
+Source: 4.pdf
+ht  at  the  time  of  sampling;
+Wt is the turgid weight, obtained after pinnae had been
+placed  at  room  temperature  in  a  covered  Petri  dish
+containing  distilled  water  and  illuminated  at  a  PPFD
+equivalent to the light compensation point for 24 h and
+blotted  dry;  and Wd  is  the  dry  weight  obtained  after
+oven  drying  for  24 h  at  80(cid:3)C. Water  potentials  were
+measured using a pressure chamber (PMS Instrument
+Co., Corvallis, Oregon; Scholander et al. 1965).
+
+Fronds
+----
+Source: 4.pdf
+oint for 24 h and
+blotted  dry;  and Wd  is  the  dry  weight  obtained  after
+oven  drying  for  24 h  at  80(cid:3)C. Water  potentials  were
+measured using a pressure chamber (PMS Instrument
+Co., Corvallis, Oregon; Scholander et al. 1965).
+
+Fronds from six D. antarctica sporophytes growing in
+a wet gulley at the University (described earlier) were
+assessed on 5 August 1997. Fourteen fronds were cut,
+then  recut  under  water  to  prevent  air  entering  the
+xylem. Fronds varied in length
+----
+Source: 4.pdf
+ronds from six D. antarctica sporophytes growing in
+a wet gulley at the University (described earlier) were
+assessed on 5 August 1997. Fourteen fronds were cut,
+then  recut  under  water  to  prevent  air  entering  the
+xylem. Fronds varied in length from 1.8 to 2.9 m. The
+fronds  were  taken  to  the  laboratory  and  divided
+randomly  into  two  treatments:  (i)  four  fronds  into
+a  low  VPD  treatment  (VPD = 0.59 kPa;  ambient
+laboratory  conditions  of  15(cid:3)C  and  65%  RH);
+----
+Source: 4.pdf
+n length from 1.8 to 2.9 m. The
+fronds  were  taken  to  the  laboratory  and  divided
+randomly  into  two  treatments:  (i)  four  fronds  into
+a  low  VPD  treatment  (VPD = 0.59 kPa;  ambient
+laboratory  conditions  of  15(cid:3)C  and  65%  RH);  and
+(ii)  10 
+treatment
+(VPD = 4.98 kPa;  36(cid:3)C  and  15%  RH  in  a  drying
+room). The PPFD incident at the frond was approxi-
+mately 200 (cid:2)mol m–2 s–1 in both treatments.
+
+into  a  high  VPD 
+
+fronds 
+
+At 
+
+the  start  (10.00 hours
+----
+Source: 4.pdf
+RH);  and
+(ii)  10 
+treatment
+(VPD = 4.98 kPa;  36(cid:3)C  and  15%  RH  in  a  drying
+room). The PPFD incident at the frond was approxi-
+mately 200 (cid:2)mol m–2 s–1 in both treatments.
+
+into  a  high  VPD 
+
+fronds 
+
+At 
+
+the  start  (10.00 hours  AEST)  and  end
+(17.30 hours AEST) of the experiment, measurements
+of water potential and RWC were made as previously
+described  on  two  fronds  in  the  low VPD  treatment.
+At  approximately  11.00,  12.00,  13.00,  14.30  and
+17.30 hours  AEST,
+----
+Source: 4.pdf
+AEST)  and  end
+(17.30 hours AEST) of the experiment, measurements
+of water potential and RWC were made as previously
+described  on  two  fronds  in  the  low VPD  treatment.
+At  approximately  11.00,  12.00,  13.00,  14.30  and
+17.30 hours  AEST,  measurements  of  water  potential
+and  RWC  were  made  on  two  fronds  in  the  high
+VPD  treatment.  Each  was  measured  on  four  primary
+pinnae spaced evenly along the frond. The RWC was
+measured at the closest primary pinna on the
+----
+Source: 4.pdf
+urs  AEST,  measurements  of  water  potential
+and  RWC  were  made  on  two  fronds  in  the  high
+VPD  treatment.  Each  was  measured  on  four  primary
+pinnae spaced evenly along the frond. The RWC was
+measured at the closest primary pinna on the opposite
+side of the frond to that measured for water potentials.
+For  each  of  the  chosen  primary  pinnae,  subsamples
+were taken from the base, middle and apex of the pinna
+for determination of RWC. In addition, at each of the
+positions  where
+----
+Source: 4.pdf
+e opposite
+side of the frond to that measured for water potentials.
+For  each  of  the  chosen  primary  pinnae,  subsamples
+were taken from the base, middle and apex of the pinna
+for determination of RWC. In addition, at each of the
+positions  where  pinnae  were  sampled,  two  segments
+were cut from the rachis of the frond for determination
+of RWC.
+
+stems, and a treatment in which the stems were severed
+near the ground and suspended above ground in their
+natural orientation, using wires
+----
+Source: 4.pdf
+where  pinnae  were  sampled,  two  segments
+were cut from the rachis of the frond for determination
+of RWC.
+
+stems, and a treatment in which the stems were severed
+near the ground and suspended above ground in their
+natural orientation, using wires attached to the roof of
+the  glasshouse.  All  sporophytes  were  watered  daily
+using overhead sprinklers so the stem apex and fronds
+received  water.  The  mean  maximum  and  minimum
+temperatures  in  the  glasshouse  were  15  and
+----
+Source: 4.pdf
+n, using wires attached to the roof of
+the  glasshouse.  All  sporophytes  were  watered  daily
+using overhead sprinklers so the stem apex and fronds
+received  water.  The  mean  maximum  and  minimum
+temperatures  in  the  glasshouse  were  15  and  7(cid:3)C,
+respectively.  The  four  potted  plants  that  remained
+intact were also watered daily at the base to keep the soil
+moist. The  number  of  new  fronds  produced,  and  the
+time taken for fronds to expand fully was recorded for
+all
+----
+Source: 4.pdf
+and  7(cid:3)C,
+respectively.  The  four  potted  plants  that  remained
+intact were also watered daily at the base to keep the soil
+moist. The  number  of  new  fronds  produced,  and  the
+time taken for fronds to expand fully was recorded for
+all plants.
+
+Statistical analysis
+
+Analysis of variance with repeated measures was con-
+ducted  using  the  general  linear  model  (GLM)  pro-
+cedure in SAS (1989) to determine the effect of pinna
+position  on  stomatal  conductance.  Boundary
+----
+Source: 4.pdf
+for
+all plants.
+
+Statistical analysis
+
+Analysis of variance with repeated measures was con-
+ducted  using  the  general  linear  model  (GLM)  pro-
+cedure in SAS (1989) to determine the effect of pinna
+position  on  stomatal  conductance.  Boundary  line
+analysis  (Jarvis  1976)  was  used  to  investigate  the
+relationships  of  stomatal  conductance  and  net  photo-
+synthesis  with  PPFD. The  GLM  procedure  in  SAS
+was  used  to  investigate  the  relationship  of  stomatal
+conductance
+----
+Source: 4.pdf
+ary  line
+analysis  (Jarvis  1976)  was  used  to  investigate  the
+relationships  of  stomatal  conductance  and  net  photo-
+synthesis  with  PPFD. The  GLM  procedure  in  SAS
+was  used  to  investigate  the  relationship  of  stomatal
+conductance with temperature.
+
+Maximum net photosynthesis and quantum yield of
+photosynthesis  were  estimated  by  a  non-rectangular
+hyperbolic  function  that  was  used  to  describe  light
+response curves:
+
+Y  =  2(cid:6)XA(cid:7)/(cid:6)X + sqrt((cid:6)X
+----
+Source: 4.pdf
+e with temperature.
+
+Maximum net photosynthesis and quantum yield of
+photosynthesis  were  estimated  by  a  non-rectangular
+hyperbolic  function  that  was  used  to  describe  light
+response curves:
+
+Y  =  2(cid:6)XA(cid:7)/(cid:6)X + sqrt((cid:6)X  +  A(cid:7))2 – 4(cid:8)X A(cid:7)
+
+where (cid:6) approximates the efﬁciency of photosynthesis
+(quantum yield); A(cid:7) gives the light-saturated value of A
+(maximum  net  photosynthesis);  (cid:8)  describes  the  slope
+of the curve; and Y and X
+----
+Source: 4.pdf
+X  +  A(cid:7))2 – 4(cid:8)X A(cid:7)
+
+where (cid:6) approximates the efﬁciency of photosynthesis
+(quantum yield); A(cid:7) gives the light-saturated value of A
+(maximum  net  photosynthesis);  (cid:8)  describes  the  slope
+of the curve; and Y and X are the assimilation rate (A)
+and PPFD, respectively (Long & Hällgren 1993). The
+relationships  of  maximum  net  photosynthesis  and
+quantum  yield  of  photosynthesis  with  VPD  were
+analysed using the GLM procedure in SAS.
+
+Analysis  of
+----
+Source: 4.pdf
+Y and X are the assimilation rate (A)
+and PPFD, respectively (Long & Hällgren 1993). The
+relationships  of  maximum  net  photosynthesis  and
+quantum  yield  of  photosynthesis  with  VPD  were
+analysed using the GLM procedure in SAS.
+
+Analysis  of  variance  (ANOVA)  with  repeated  meas-
+ures was conducted using the GLM procedure in SAS
+to  determine  the  effect  of  pinna  position  and  time  of
+measurement on the RWC of pinnae and rachis and on
+the  water  potential  of  pinnae.  ANOVA
+----
+Source: 4.pdf
+f  variance  (ANOVA)  with  repeated  meas-
+ures was conducted using the GLM procedure in SAS
+to  determine  the  effect  of  pinna  position  and  time  of
+measurement on the RWC of pinnae and rachis and on
+the  water  potential  of  pinnae.  ANOVA  was  used  to
+compare frond growth between treatments at 4, 8 and
+12 weeks.
+
+RESULTS
+
+Stomatal conductance
+
+Water acquisition
+
+Eight sporophytes were transplanted into pots in April
+1993  and  transferred  into  the  University  glasshouse.
+On
+----
+Source: 4.pdf
+NOVA  was  used  to
+compare frond growth between treatments at 4, 8 and
+12 weeks.
+
+RESULTS
+
+Stomatal conductance
+
+Water acquisition
+
+Eight sporophytes were transplanted into pots in April
+1993  and  transferred  into  the  University  glasshouse.
+On  July  30,  sporophytes  were  randomly  divided  into
+two  treatments,  a  control  in  which  plants  had  intact
+
+Vapour pressure deﬁcit, temperature and photosynthetic 
+photon ﬂux density
+
+Variation  of  stomatal  conductance  along
+----
+Source: 4.pdf
+asshouse.
+On  July  30,  sporophytes  were  randomly  divided  into
+two  treatments,  a  control  in  which  plants  had  intact
+
+Vapour pressure deﬁcit, temperature and photosynthetic 
+photon ﬂux density
+
+Variation  of  stomatal  conductance  along  individual
+fronds was found to be signiﬁcant (P < 0.001). There-
+fore  the  response  of  stomatal  conductance  to  PPFD,
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of
+----
+Source: 4.pdf
+ong  individual
+fronds was found to be signiﬁcant (P < 0.001). There-
+fore  the  response  of  stomatal  conductance  to  PPFD,
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License3 6 4
+
+M .   A .   H U N T  
+
+E T   A L .
+
+VPD  and  temperature  was  averaged  from  measure-
+ments taken at evenly spaced positions along individual
+fronds.
+
+A  signiﬁcant  negative  curvi-linear  relationship
+existed between stomatal
+----
+Source: 4.pdf
+mons License3 6 4
+
+M .   A .   H U N T  
+
+E T   A L .
+
+VPD  and  temperature  was  averaged  from  measure-
+ments taken at evenly spaced positions along individual
+fronds.
+
+A  signiﬁcant  negative  curvi-linear  relationship
+existed between stomatal conductance and VPD at low
+1.307x
+VPD  between  0.2  and  0.9 kPa  (
+,
+2
+r
+ < 0.001;  Fig. 2a).  Extrapolation  of  this
+relationship indicated that stomatal closure might occur
+when VPD was approximately 1.8 kPa.
+
+–
+ = 0.134  e
+
+ = 0.74, 
+
+Y
+
+P
+
+,
+----
+Source: 4.pdf
+l conductance and VPD at low
+1.307x
+VPD  between  0.2  and  0.9 kPa  (
+,
+2
+r
+ < 0.001;  Fig. 2a).  Extrapolation  of  this
+relationship indicated that stomatal closure might occur
+when VPD was approximately 1.8 kPa.
+
+–
+ = 0.134  e
+
+ = 0.74, 
+
+Y
+
+P
+
+, 
+
+P
+
+2
+r
+
+0.085x
+
+ = 0.64, 
+
+ < 0.08; Fig. 2b).
+
+approximately
+2
+–
+mol m
+
+A  non-signiﬁcant  curvi-linear  relationship  existed
+between  stomatal  conductance  and  air  temperature
+(
+Y
+
+–
+ = 0.197 e
+At  Liffey,  the  boundary  between  stomatal
+----
+Source: 4.pdf
+, 
+
+P
+
+2
+r
+
+0.085x
+
+ = 0.64, 
+
+ < 0.08; Fig. 2b).
+
+approximately
+2
+–
+mol m
+
+A  non-signiﬁcant  curvi-linear  relationship  existed
+between  stomatal  conductance  and  air  temperature
+(
+Y
+
+–
+ = 0.197 e
+At  Liffey,  the  boundary  between  stomatal  conduct-
+ance and PPFD increased steeply to a maximum stom-
+1
+–
+atal
+of
+ s
+conductance
+(cid:2)
+–
+at  a  PPFD  of  50 
+ s
+2
+rapidly  to  around  0.05 mol/m
+(cid:2)
+–
+200 
+ s
+University
+a
+exhibited
+stomatal conductance
+but
+2
+approximately  0.12
+----
+Source: 4.pdf
+omatal  conduct-
+ance and PPFD increased steeply to a maximum stom-
+1
+–
+atal
+of
+ s
+conductance
+(cid:2)
+–
+at  a  PPFD  of  50 
+ s
+2
+rapidly  to  around  0.05 mol/m
+(cid:2)
+–
+200 
+ s
+University
+a
+exhibited
+stomatal conductance
+but
+2
+approximately  0.12 mol/m
+(cid:2)
+1
+–
+mately  250 
+mol m
+(cid:2)
+1
+2
+–
+–
+250 
+stomatal  conductance 
+, 
+ s
+mol m
+–
+approximately  0.05 mol m
+declined 
+–
+1000 
+ s
+
+–
+0.18 mol m
+  and  then  declined
+1
+–
+  at  PPFDs  nearing
+  s
+  (Fig. 2c).  In  contrast,  ferns  at
+----
+Source: 4.pdf
+.12 mol/m
+(cid:2)
+1
+–
+mately  250 
+mol m
+(cid:2)
+1
+2
+–
+–
+250 
+stomatal  conductance 
+, 
+ s
+mol m
+–
+approximately  0.05 mol m
+declined 
+–
+1000 
+ s
+
+–
+0.18 mol m
+  and  then  declined
+1
+–
+  at  PPFDs  nearing
+  s
+  (Fig. 2c).  In  contrast,  ferns  at  the
+in
+similar
+a
+to
+of
+–
+  at  PPFD  of  approxi-
+  s
+.  At  PPFD  greater  than
+steadily
+–
+at
+ s
+
+increase
+maximum
+
+to 
+–
+mol m
+
+steep
+lower
+
+ (Fig. 2c).
+
+–
+mol m
+
+–
+ s
+
+(cid:2)
+
+2
+
+1
+
+1
+
+2
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+Photosynthesis
+
+Vapour pressure
+----
+Source: 4.pdf
+rns  at  the
+in
+similar
+a
+to
+of
+–
+  at  PPFD  of  approxi-
+  s
+.  At  PPFD  greater  than
+steadily
+–
+at
+ s
+
+increase
+maximum
+
+to 
+–
+mol m
+
+steep
+lower
+
+ (Fig. 2c).
+
+–
+mol m
+
+–
+ s
+
+(cid:2)
+
+2
+
+1
+
+1
+
+2
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+Photosynthesis
+
+Vapour pressure deﬁcit
+
+D.  antarctica
+Maximum  net  photosynthesis  of 
+2
+ = 0.99,
+decreased  linearly  with  increasing  VPD  (
+r
+P
+ < 0.0001;  Fig. 3).  Extrapolation  of  the  observed
+relationship  indicated  that  net  photosynthesis  would
+approach  zero
+----
+Source: 4.pdf
+ure deﬁcit
+
+D.  antarctica
+Maximum  net  photosynthesis  of 
+2
+ = 0.99,
+decreased  linearly  with  increasing  VPD  (
+r
+P
+ < 0.0001;  Fig. 3).  Extrapolation  of  the  observed
+relationship  indicated  that  net  photosynthesis  would
+approach  zero  at  a  VPD  of  approximately  1.8 kPa.
+Similarly,  quantum  yield  of  photosynthesis  linearly
+2
+decreased with increasing VPD (
+ < 0.0001;
+r
+Fig. 3).
+
+ = 0.87, 
+
+P
+
+Fig. 2.
+Relationships  of  stomatal  conductance  with  (a)
+vapour  pressure
+----
+Source: 4.pdf
+ero  at  a  VPD  of  approximately  1.8 kPa.
+Similarly,  quantum  yield  of  photosynthesis  linearly
+2
+decreased with increasing VPD (
+ < 0.0001;
+r
+Fig. 3).
+
+ = 0.87, 
+
+P
+
+Fig. 2.
+Relationships  of  stomatal  conductance  with  (a)
+vapour  pressure  deﬁcit,  (b)  air  temperature  and  (c)  photo-
+synthetic photon ﬂux density, for 
+ grow-
+ing  in  natural  stands  in  the  ﬁeld  at  Liffey  gulley  and  at  the
+University of Tasmania gulley in July and August 1993. For
+(a)  and  (b),  each
+----
+Source: 4.pdf
+ure  deﬁcit,  (b)  air  temperature  and  (c)  photo-
+synthetic photon ﬂux density, for 
+ grow-
+ing  in  natural  stands  in  the  ﬁeld  at  Liffey  gulley  and  at  the
+University of Tasmania gulley in July and August 1993. For
+(a)  and  (b),  each  point  is  the  mean  of  10–12  replicate
+measurements  made  at  each  PPFD.  For  (c)  all  data  points
+obtained are depicted, (
+), Liffey; (
+
+Dicksonia antarctica
+
+), University.
+
+(cid:2)
+
+(cid:3)
+
+Fig. 3.
+quantum  yield  of  photosynthesis
+----
+Source: 4.pdf
+ch  point  is  the  mean  of  10–12  replicate
+measurements  made  at  each  PPFD.  For  (c)  all  data  points
+obtained are depicted, (
+), Liffey; (
+
+Dicksonia antarctica
+
+), University.
+
+(cid:2)
+
+(cid:3)
+
+Fig. 3.
+quantum  yield  of  photosynthesis  (
+vapour pressure deﬁcit (VPD) of 
+on a sunny, exposed site at Kingston, Tasmania. (
+mum  net  photosynthesis;  (
+synthesis.
+
+Relationship  of  maximum  net  photosynthesis  and
+)  in  response  to
+ situated
+), Maxi-
+),  quantum  yield  of
+----
+Source: 4.pdf
+ynthesis  (
+vapour pressure deﬁcit (VPD) of 
+on a sunny, exposed site at Kingston, Tasmania. (
+mum  net  photosynthesis;  (
+synthesis.
+
+Relationship  of  maximum  net  photosynthesis  and
+)  in  response  to
+ situated
+), Maxi-
+),  quantum  yield  of  photo-
+
+Dicksonia antarctica
+(cid:2)
+
+10
+
+(cid:3)
+
+(cid:3)
+
+–2
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025].
+----
+Source: 4.pdf
+f  photo-
+
+Dicksonia antarctica
+(cid:2)
+
+10
+
+(cid:3)
+
+(cid:3)
+
+–2
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+----
+Source: 4.pdf
+]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+----
+Source: 4.pdf
+E C O P H Y S I O L O G Y   O F   D I C K S O N I A  A N TA R C T I C A
+
+3 6 5
+
+Photosynthetic photon ﬂux density
+
+A  boundary  line  relationship  suggested  that  90%
+light  saturation  of  net  photosynthesis
+----
+Source: 4.pdf
+E C O P H Y S I O L O G Y   O F   D I C K S O N I A  A N TA R C T I C A
+
+3 6 5
+
+Photosynthetic photon ﬂux density
+
+A  boundary  line  relationship  suggested  that  90%
+light  saturation  of  net  photosynthesis  occurred  at
+280 (cid:2)mol m–2 s–1  in  D.  antarctica  at  the  University
+(Fig. 4).  The  maximum  photosynthetic  rate  of
+10.8 (cid:2)mol m–2 s–1  was  reached  at  690 (cid:2)mol m–2 s–1.
+Values of photosynthesis greater than 6 (cid:2)mol m–2
+----
+Source: 4.pdf
+occurred  at
+280 (cid:2)mol m–2 s–1  in  D.  antarctica  at  the  University
+(Fig. 4).  The  maximum  photosynthetic  rate  of
+10.8 (cid:2)mol m–2 s–1  was  reached  at  690 (cid:2)mol m–2 s–1.
+Values of photosynthesis greater than 6 (cid:2)mol m–2 s–1 in
+this relationship invariably coincided with conditions of
+
+Fig. 4. Relationship  between  net  photosynthesis  and
+photosynthetic  photon  ﬂux  density  for  Dicksonia  antarctica
+acclimated to an environment of high natural illumination
+----
+Source: 4.pdf
+l m–2 s–1 in
+this relationship invariably coincided with conditions of
+
+Fig. 4. Relationship  between  net  photosynthesis  and
+photosynthetic  photon  ﬂux  density  for  Dicksonia  antarctica
+acclimated to an environment of high natural illumination in
+a  glasshouse  at  ((cid:3))  the  University  of Tasmania  and  to  an
+environment of low natural illumination at ((cid:2)) Liffey gulley.
+Data  are  pooled  for  2  and  4  days  of  measurement  at  the
+University  glasshouse  and  Liffey
+----
+Source: 4.pdf
+tion in
+a  glasshouse  at  ((cid:3))  the  University  of Tasmania  and  to  an
+environment of low natural illumination at ((cid:2)) Liffey gulley.
+Data  are  pooled  for  2  and  4  days  of  measurement  at  the
+University  glasshouse  and  Liffey  gulley,  respectively.
+Boundary lines are shown (after Jarvis 1976).
+
+low VPD (<0.6 kPa; relative humidity above 77% and
+temperature 15–22(cid:3)C). A different boundary relation-
+ship  existed  at  a  similar VPD  for  D.  antarctica
+----
+Source: 4.pdf
+and  Liffey  gulley,  respectively.
+Boundary lines are shown (after Jarvis 1976).
+
+low VPD (<0.6 kPa; relative humidity above 77% and
+temperature 15–22(cid:3)C). A different boundary relation-
+ship  existed  at  a  similar VPD  for  D.  antarctica  sporo-
+phytes at Liffey. The maximum photosynthetic rate of
+3.2 (cid:2)mol m–2 s–1  was  signiﬁcantly 
+that
+obtained at the University (Fig. 4).
+
+than 
+
+less 
+
+Water relations
+
+In  glasshouse  studies  on  intact,  well-watered  sporo-
+phytes
+----
+Source: 4.pdf
+ctica  sporo-
+phytes at Liffey. The maximum photosynthetic rate of
+3.2 (cid:2)mol m–2 s–1  was  signiﬁcantly 
+that
+obtained at the University (Fig. 4).
+
+than 
+
+less 
+
+Water relations
+
+In  glasshouse  studies  on  intact,  well-watered  sporo-
+phytes  exposed  for  3  h  to  moderate VPD  (2.03 kPa),
+water  potential  and  RWC  remained  close  to  0.0 MPa
+and  100%,  respectively.  However,  when  fronds  were
+exposed 
+to  high  VPD  (4.98 kPa),  a  signiﬁcant
+decline  in  water  status  was
+----
+Source: 4.pdf
+es  exposed  for  3  h  to  moderate VPD  (2.03 kPa),
+water  potential  and  RWC  remained  close  to  0.0 MPa
+and  100%,  respectively.  However,  when  fronds  were
+exposed 
+to  high  VPD  (4.98 kPa),  a  signiﬁcant
+decline  in  water  status  was  observed  (Tables 1,2).
+Exposure  of  fronds  for  6.5  h  at  a VPD  of  4.98 kPa
+caused  RWC  of  pinnae  to  fall  signiﬁcantly.  By
+contrast  the  RWC  of  the  rachis  declined  less  than  in
+pinnae  and  at  the  end  of  the  dehydration
+----
+Source: 4.pdf
+as  observed  (Tables 1,2).
+Exposure  of  fronds  for  6.5  h  at  a VPD  of  4.98 kPa
+caused  RWC  of  pinnae  to  fall  signiﬁcantly.  By
+contrast  the  RWC  of  the  rachis  declined  less  than  in
+pinnae  and  at  the  end  of  the  dehydration  period,  the
+base of the rachis (86%) had a greater RWC than the
+apex (41%). Exposure to 7.5 h at low VPD (0.59 kPa)
+had a similar effect on RWC as 1 h at VPD = 4.98 kPa
+(Table 1).
+
+Initial water potential was –1.8 MPa in D. antarctica
+sporophytes
+----
+Source: 4.pdf
+period,  the
+base of the rachis (86%) had a greater RWC than the
+apex (41%). Exposure to 7.5 h at low VPD (0.59 kPa)
+had a similar effect on RWC as 1 h at VPD = 4.98 kPa
+(Table 1).
+
+Initial water potential was –1.8 MPa in D. antarctica
+sporophytes  in  the  gully  at  the  University  (Table 2).
+Gradients in water potential of approximately 0.3 Mpa
+m–1 existed between the apex and the base of the frond.
+This  was  maintained  for  the  duration  of  the  study
+at  low  VPD  (0.59 kPa).  After
+----
+Source: 4.pdf
+in  the  gully  at  the  University  (Table 2).
+Gradients in water potential of approximately 0.3 Mpa
+m–1 existed between the apex and the base of the frond.
+This  was  maintained  for  the  duration  of  the  study
+at  low  VPD  (0.59 kPa).  After  2 h  at  high  VPD
+(4.98 MPa),  the  water  potential  of  all  pinnae  had
+declined  signiﬁcantly  and  smaller  pinnae  at  the  base
+and apex of the frond had lower water potentials than
+larger pinnae at other positions.
+
+Table 1. Mean
+----
+Source: 4.pdf
+a).  After  2 h  at  high  VPD
+(4.98 MPa),  the  water  potential  of  all  pinnae  had
+declined  signiﬁcantly  and  smaller  pinnae  at  the  base
+and apex of the frond had lower water potentials than
+larger pinnae at other positions.
+
+Table 1. Mean percentage relative water content (± SE) of pinnae and rachis taken from fronds of Dicksonia antarctica exposed
+to two desiccation treatments, low vapour pressure deﬁcit (VPD) (0.59 kPa) and high VPD (4.98 kPa)
+
+Time
+----
+Source: 4.pdf
+t other positions.
+
+Table 1. Mean percentage relative water content (± SE) of pinnae and rachis taken from fronds of Dicksonia antarctica exposed
+to two desiccation treatments, low vapour pressure deﬁcit (VPD) (0.59 kPa) and high VPD (4.98 kPa)
+
+Time (h)
+
+Treatment
+
+0.0
+
+1.0
+
+2.0
+
+3.0
+
+4.5
+
+6.5
+
+7.5
+
+Low
+
+High
+
+High
+
+High
+
+High
+
+High
+
+Low
+
+Position on frond 
+
+Tissue
+
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+
+Apex
+
+98 ± 1
+100 ± 0
+81 ± 2
+84 ± 4
+70
+----
+Source: 4.pdf
+e (h)
+
+Treatment
+
+0.0
+
+1.0
+
+2.0
+
+3.0
+
+4.5
+
+6.5
+
+7.5
+
+Low
+
+High
+
+High
+
+High
+
+High
+
+High
+
+Low
+
+Position on frond 
+
+Tissue
+
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+Pinna
+Rachis
+
+Apex
+
+98 ± 1
+100 ± 0
+81 ± 2
+84 ± 4
+70 ± 0
+80 ± 2
+43 ± 5
+54 ± 10
+38 ± 1
+44 ± 6
+26 ± 3
+41 ± 2
+80 ± 5
+87 ± 7
+
+1/3
+
+98 ± 1
+98 ± 1
+83 ± 2
+90 ± 1
+66 ± 3
+87 ± 3
+52 ± 8
+83 ± 2
+46 ± 5
+78 ± 4
+37 ± 6
+74 ± 2
+87 ± 1
+91 ± 1
+
+2/3
+
+98 ± 1
+97 ± 0
+79 ± 2
+91 ± 1
+59 ± 4
+90 ± 3
+43 ± 10
+90 ± 0
+45 ± 5
+85 ±
+----
+Source: 4.pdf
+70 ± 0
+80 ± 2
+43 ± 5
+54 ± 10
+38 ± 1
+44 ± 6
+26 ± 3
+41 ± 2
+80 ± 5
+87 ± 7
+
+1/3
+
+98 ± 1
+98 ± 1
+83 ± 2
+90 ± 1
+66 ± 3
+87 ± 3
+52 ± 8
+83 ± 2
+46 ± 5
+78 ± 4
+37 ± 6
+74 ± 2
+87 ± 1
+91 ± 1
+
+2/3
+
+98 ± 1
+97 ± 0
+79 ± 2
+91 ± 1
+59 ± 4
+90 ± 3
+43 ± 10
+90 ± 0
+45 ± 5
+85 ± 2
+25 ± 3
+82 ± 0
+82 ± 2
+89 ± 1
+
+Base
+
+96 ± 2
+97 ± 2
+71 ± 2
+94 ± 0
+52 ± 4
+92 ± 2
+37 ± 4
+93 ± 2
+37 ± 3
+91 ± 1
+13 ± 2
+86 ± 2
+73 ± 3
+94 ± 2
+
+Four segments of pinnae and rachis were sampled from positions evenly distributed along two fronds at times 0,
+----
+Source: 4.pdf
+5 ± 2
+25 ± 3
+82 ± 0
+82 ± 2
+89 ± 1
+
+Base
+
+96 ± 2
+97 ± 2
+71 ± 2
+94 ± 0
+52 ± 4
+92 ± 2
+37 ± 4
+93 ± 2
+37 ± 3
+91 ± 1
+13 ± 2
+86 ± 2
+73 ± 3
+94 ± 2
+
+Four segments of pinnae and rachis were sampled from positions evenly distributed along two fronds at times 0, 1, 2, 3, 4.5,
+
+6.5 and 7.5 h.
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions
+----
+Source: 4.pdf
+mes 0, 1, 2, 3, 4.5,
+
+6.5 and 7.5 h.
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License3 6 6
+
+M .   A .   H U N T   E T   A L .
+
+Water acquisition
+
+There  was  no
+----
+Source: 4.pdf
+nditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License3 6 6
+
+M .   A .   H U N T   E T   A L .
+
+Water acquisition
+
+There  was  no  signiﬁcant  difference  in  the  number  of
+fronds produced, or in the average time taken for new
+fronds  to  fully  unfurl,  between  sporophytes  that  were
+intact and growing in pots and those that had been cut
+just above ground level and
+----
+Source: 4.pdf
+was  no  signiﬁcant  difference  in  the  number  of
+fronds produced, or in the average time taken for new
+fronds  to  fully  unfurl,  between  sporophytes  that  were
+intact and growing in pots and those that had been cut
+just above ground level and suspended from the roof of
+the glasshouse.
+
+DISCUSSION
+
+The  results  of  this  study  indicate:  (i)  that  Dicksonia
+antarctica  exhibits  a  strong  response  to VPD;  (ii)  that
+increasing VPD negatively affects maximum net photo-
+synthesis
+----
+Source: 4.pdf
+and suspended from the roof of
+the glasshouse.
+
+DISCUSSION
+
+The  results  of  this  study  indicate:  (i)  that  Dicksonia
+antarctica  exhibits  a  strong  response  to VPD;  (ii)  that
+increasing VPD negatively affects maximum net photo-
+synthesis  and  quantum  yield  of  photosynthesis;  (iii)
+that  low  stomatal  conductance  limits  photosynthesis;
+(iv)  that  photosynthetic  capacity  may  depend  on
+climatic conditions during frond development; (v) that
+water  relations  become
+----
+Source: 4.pdf
+ynthesis  and  quantum  yield  of  photosynthesis;  (iii)
+that  low  stomatal  conductance  limits  photosynthesis;
+(iv)  that  photosynthetic  capacity  may  depend  on
+climatic conditions during frond development; (v) that
+water  relations  become  unfavourable  at  a  VPD  of
+4.98 kPa;  and  (vi)  that  the  morphology  of  fronds
+may provide moisture and maintain water relations in
+D.  antarctica  from  rainfall. The  effects  of  the  various
+environmental variables studied on the
+----
+Source: 4.pdf
+s  become  unfavourable  at  a  VPD  of
+4.98 kPa;  and  (vi)  that  the  morphology  of  fronds
+may provide moisture and maintain water relations in
+D.  antarctica  from  rainfall. The  effects  of  the  various
+environmental variables studied on the photosynthesis
+and the water relations of D. antarctica also indicate a
+capacity  of  the  species  to  inhabit  an  ecological  niche
+characterized  by  a  wide  range  of  light,  moisture  and
+temperature conditions.
+
+Stomatal  conductance  of
+----
+Source: 4.pdf
+he photosynthesis
+and the water relations of D. antarctica also indicate a
+capacity  of  the  species  to  inhabit  an  ecological  niche
+characterized  by  a  wide  range  of  light,  moisture  and
+temperature conditions.
+
+Stomatal  conductance  of  D.  antarctica  was  highly
+responsive to VPD, a curvi-linear decrease occurring at
+VPD  > 0.25 kPa. This  response  is  atypical  of  ground
+ferns and herbaceous understorey plants, which gener-
+ally  exhibit  little  or  no  stomatal  response
+----
+Source: 4.pdf
+of  D.  antarctica  was  highly
+responsive to VPD, a curvi-linear decrease occurring at
+VPD  > 0.25 kPa. This  response  is  atypical  of  ground
+ferns and herbaceous understorey plants, which gener-
+ally  exhibit  little  or  no  stomatal  response  to  VPD
+(Nobel  1978;  Hollinger  1987;  Hietz  &  Briones  1998;
+Franks  &  Farquhar  1999).  For  example,  the  ground
+ferns  Osmunda  regalis  and  Pteridium  esculentum
+exposed to VPD of 1.0 and 2.0 kPa at 30(cid:3)C exhibited
+declines  in
+----
+Source: 4.pdf
+nse  to  VPD
+(Nobel  1978;  Hollinger  1987;  Hietz  &  Briones  1998;
+Franks  &  Farquhar  1999).  For  example,  the  ground
+ferns  Osmunda  regalis  and  Pteridium  esculentum
+exposed to VPD of 1.0 and 2.0 kPa at 30(cid:3)C exhibited
+declines  in  stomatal  conductance  from  0.28  to  0.19
+and  0.31–0.22 mol m–2 s–1,  respectively  (Franks  &
+Farquhar 1999). The strong stomatal response to VPD
+exhibited  by  D.  antarctica  in  this  study  is  more  con-
+sistent with a plant adapted to
+----
+Source: 4.pdf
+in  stomatal  conductance  from  0.28  to  0.19
+and  0.31–0.22 mol m–2 s–1,  respectively  (Franks  &
+Farquhar 1999). The strong stomatal response to VPD
+exhibited  by  D.  antarctica  in  this  study  is  more  con-
+sistent with a plant adapted to exposed, sunny environ-
+ments  (Nobel  et al.  1984;  Hollinger  1987;  Hietz  &
+
+Briones 1998). The relationships of temperature (that
+was not signiﬁcant) and PPFD with stomatal conduct-
+ance observed here may be due to an effect on VPD,
+given
+----
+Source: 4.pdf
+d to exposed, sunny environ-
+ments  (Nobel  et al.  1984;  Hollinger  1987;  Hietz  &
+
+Briones 1998). The relationships of temperature (that
+was not signiﬁcant) and PPFD with stomatal conduct-
+ance observed here may be due to an effect on VPD,
+given  the  sensitivity  of  D.  antarctica  to VPD. Weaker
+relationships of temperature and PPFD with stomatal
+conductance  are  consistent  with  this.  Although  the
+response  of  stomatal  conductance  to  VPD  reported
+here  is  more  typical  of  an
+----
+Source: 4.pdf
+the  sensitivity  of  D.  antarctica  to VPD. Weaker
+relationships of temperature and PPFD with stomatal
+conductance  are  consistent  with  this.  Although  the
+response  of  stomatal  conductance  to  VPD  reported
+here  is  more  typical  of  an  overstorey  than  an  under-
+storey fern (Hollinger 1987; Franks & Farquhar 1999),
+this  is  entirely  consistent  with  the  ecological  niche
+of D. antarctica. Following wildﬁre or when forest gaps
+are formed, D. antarctica may be exposed to
+----
+Source: 4.pdf
+f  an  overstorey  than  an  under-
+storey fern (Hollinger 1987; Franks & Farquhar 1999),
+this  is  entirely  consistent  with  the  ecological  niche
+of D. antarctica. Following wildﬁre or when forest gaps
+are formed, D. antarctica may be exposed to high VPD,
+temperatures and PPFD for prolonged periods before
+successional processes modify the microclimate.
+
+The  decrease  in  maximum  net  photosynthesis  and
+quantum  efﬁciency  with  VPD  may  be  because  of
+stomatal closure, given the
+----
+Source: 4.pdf
+osed to high VPD,
+temperatures and PPFD for prolonged periods before
+successional processes modify the microclimate.
+
+The  decrease  in  maximum  net  photosynthesis  and
+quantum  efﬁciency  with  VPD  may  be  because  of
+stomatal closure, given the strong response of stomatal
+conductance to VPD. The form of the relationship was
+consistent  with  cessation  of  net  photosynthesis  at
+approximately 1.8 kPa, the estimated value of VPD at
+which  stomata  would  close.  A  low
+----
+Source: 4.pdf
+l closure, given the strong response of stomatal
+conductance to VPD. The form of the relationship was
+consistent  with  cessation  of  net  photosynthesis  at
+approximately 1.8 kPa, the estimated value of VPD at
+which  stomata  would  close.  A  low  photosynthetic
+efﬁciency and low photosynthetic rate at high VPD may
+contribute  to  the  low  growth  rates  of  D.  antarctica  in
+sunny exposed conditions relative to that of individuals
+in humid understoreys (Hickey 1994). Conversely, the
+high
+----
+Source: 4.pdf
+w  photosynthetic
+efﬁciency and low photosynthetic rate at high VPD may
+contribute  to  the  low  growth  rates  of  D.  antarctica  in
+sunny exposed conditions relative to that of individuals
+in humid understoreys (Hickey 1994). Conversely, the
+high photosynthetic rates observed in the glasshouse at
+high PPFD and low VPD (analogous to conditions in
+the  understorey  during  periods  of  sunﬂecks;  Pearcy
+1988) demonstrate a high potential capacity for carbon
+assimilation  and  growth  of  D.
+----
+Source: 4.pdf
+gh photosynthetic rates observed in the glasshouse at
+high PPFD and low VPD (analogous to conditions in
+the  understorey  during  periods  of  sunﬂecks;  Pearcy
+1988) demonstrate a high potential capacity for carbon
+assimilation  and  growth  of  D.  antarctica  in  humid
+understoreys.
+
+Net  photosynthesis  of  fronds  developed  under  a
+high-light  environment  was  signiﬁcantly  greater  at
+PPFD >50 (cid:2)mol m–2 s–1 compared with that developed
+under  a  low  light  environment.  This
+----
+Source: 4.pdf
+D.  antarctica  in  humid
+understoreys.
+
+Net  photosynthesis  of  fronds  developed  under  a
+high-light  environment  was  signiﬁcantly  greater  at
+PPFD >50 (cid:2)mol m–2 s–1 compared with that developed
+under  a  low  light  environment.  This  observation  is
+typical of sun versus shade leaves (Demmig-Adams &
+Adams  1992)  and  indicates  a  strong  capacity  of  the
+photosynthetic systems of D. antarctica to acclimate to
+the  prevailing  environmental  conditions.  Acclimation
+of  tree
+----
+Source: 4.pdf
+observation  is
+typical of sun versus shade leaves (Demmig-Adams &
+Adams  1992)  and  indicates  a  strong  capacity  of  the
+photosynthetic systems of D. antarctica to acclimate to
+the  prevailing  environmental  conditions.  Acclimation
+of  tree  ferns  to  light  environment  has  been  reported
+previously (Bannister & Wildish 1982).
+
+The maximum measure of stomatal conductance of
+0.19 mol  m–2 s–1  (at  a VPD  of  0.3 kPa,  80%  relative
+
+Table 2. Mean water potential (MPa; ± SE) were
+----
+Source: 4.pdf
+tree  ferns  to  light  environment  has  been  reported
+previously (Bannister & Wildish 1982).
+
+The maximum measure of stomatal conductance of
+0.19 mol  m–2 s–1  (at  a VPD  of  0.3 kPa,  80%  relative
+
+Table 2. Mean water potential (MPa; ± SE) were measured on pinnae excised from fronds of Dicksonia antarctica exposed to
+two treatments, low vapour pressure deﬁcit (VPD) (0.59 kPa) and high VPD (4.98 kPa)
+
+Time (h)
+
+Treatment
+
+Apex
+
+1/3
+
+2/3
+
+Base
+
+Position on frond
+----
+Source: 4.pdf
+ter potential (MPa; ± SE) were measured on pinnae excised from fronds of Dicksonia antarctica exposed to
+two treatments, low vapour pressure deﬁcit (VPD) (0.59 kPa) and high VPD (4.98 kPa)
+
+Time (h)
+
+Treatment
+
+Apex
+
+1/3
+
+2/3
+
+Base
+
+Position on frond 
+
+0.0
+1.0
+2.0
+4.5
+7.5
+
+Low
+High
+High
+High
+Low
+
+–1.8 ± 0.1
+–2.4 ± 0.2
+–3.0 ± 0.2
+–4.0 ± 0.0
+–1.9 ± 0.1
+
+–1.6 ± 0.1
+–2.6 ± 0.2
+–2.7 ± 0.2
+–2.6 ± 0.5
+–2.0 ± 0.1
+
+–1.4 ± 0.1
+–2.5 ± 0.3
+–2.8 ± 0.1
+–2.5 ± 0.0
+–1.7 ± 0.1
+
+–1.2 ± 0.1
+–1.3 ± 0.1
+–3.1 ±
+----
+Source: 4.pdf
+frond 
+
+0.0
+1.0
+2.0
+4.5
+7.5
+
+Low
+High
+High
+High
+Low
+
+–1.8 ± 0.1
+–2.4 ± 0.2
+–3.0 ± 0.2
+–4.0 ± 0.0
+–1.9 ± 0.1
+
+–1.6 ± 0.1
+–2.6 ± 0.2
+–2.7 ± 0.2
+–2.6 ± 0.5
+–2.0 ± 0.1
+
+–1.4 ± 0.1
+–2.5 ± 0.3
+–2.8 ± 0.1
+–2.5 ± 0.0
+–1.7 ± 0.1
+
+–1.2 ± 0.1
+–1.3 ± 0.1
+–3.1 ± 0.1
+–4.0 ± 0.0
+–1.3 ± 0.1
+
+Four segments of pinnae and rachis were sampled from positions evenly distributed along two fronds at times 0, 1, 2, 3, 4.5, 
+
+6.5 and 7.5 h.
+
+ 14429993, 2002, 4, Downloaded from
+----
+Source: 4.pdf
+0.0
+–1.7 ± 0.1
+
+–1.2 ± 0.1
+–1.3 ± 0.1
+–3.1 ± 0.1
+–4.0 ± 0.0
+–1.3 ± 0.1
+
+Four segments of pinnae and rachis were sampled from positions evenly distributed along two fronds at times 0, 1, 2, 3, 4.5, 
+
+6.5 and 7.5 h.
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online
+----
+Source: 4.pdf
+om https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseE C O P H Y S I O L O G Y   O F   D I C K S O N I A  A N TA R C T I C A
+
+3 6 7
+
+humidity) was almost double that reported for the same
+species at a VPD of
+----
+Source: 4.pdf
+e Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseE C O P H Y S I O L O G Y   O F   D I C K S O N I A  A N TA R C T I C A
+
+3 6 7
+
+humidity) was almost double that reported for the same
+species at a VPD of 0.7 kPa (Nobel et al. 1984). Nobel
+et al.  (1984)  observed  conductances  greater  than
+0.06 mol m–2 s–1  at  a  VPD  of  2.75 kPa,  which,
+according  to  our  results,  caused  stomatal  closure.
+These  apparent  inconsistencies  may  be  because
+----
+Source: 4.pdf
+f 0.7 kPa (Nobel et al. 1984). Nobel
+et al.  (1984)  observed  conductances  greater  than
+0.06 mol m–2 s–1  at  a  VPD  of  2.75 kPa,  which,
+according  to  our  results,  caused  stomatal  closure.
+These  apparent  inconsistencies  may  be  because  of
+different acclimation states of the plant material used.
+Nobel  et al.  (1984)  used  fronds  that  had  developed
+in  a  glasshouse  at  high  PPFD  (approximately
+1000 (cid:2)mol m–2 s–1),  high  temperature  (diurnal  range
+of
+----
+Source: 4.pdf
+may  be  because  of
+different acclimation states of the plant material used.
+Nobel  et al.  (1984)  used  fronds  that  had  developed
+in  a  glasshouse  at  high  PPFD  (approximately
+1000 (cid:2)mol m–2 s–1),  high  temperature  (diurnal  range
+of 20–27(cid:3)C), and moderate humidity (average humid-
+ity  of  55%  during  the  day)  leading  to  comparatively
+high daytime VPD (approximately 2 kPa). These con-
+ditions  are  markedly  different  from  those  reported
+here.  Acclimation  state
+----
+Source: 4.pdf
+f 20–27(cid:3)C), and moderate humidity (average humid-
+ity  of  55%  during  the  day)  leading  to  comparatively
+high daytime VPD (approximately 2 kPa). These con-
+ditions  are  markedly  different  from  those  reported
+here.  Acclimation  state  is  clearly  important  in  deter-
+mining  the  stomatal  (and  thus  photosynthetic  and
+potentially growth) response of D. antarctica.
+
+fronds  can  adjust 
+
+This  capacity  to  acclimate  to  microclimatic  con-
+ditions  may  be  a  selective
+----
+Source: 4.pdf
+te  is  clearly  important  in  deter-
+mining  the  stomatal  (and  thus  photosynthetic  and
+potentially growth) response of D. antarctica.
+
+fronds  can  adjust 
+
+This  capacity  to  acclimate  to  microclimatic  con-
+ditions  may  be  a  selective  advantage  for  D.  antarctica
+following environmental disturbance. Thus, the devel-
+oping 
+their  ecophysiological
+characteristics  to  match  a  new  microenvironment.  In
+this  way,  during  the  lifetime  of  a  single  D.
+----
+Source: 4.pdf
+may  be  a  selective  advantage  for  D.  antarctica
+following environmental disturbance. Thus, the devel-
+oping 
+their  ecophysiological
+characteristics  to  match  a  new  microenvironment.  In
+this  way,  during  the  lifetime  of  a  single  D.  antarctica
+sporophyte (to a maximum of 500–1000 years; Mueck
+et al.  1996),  the  rosette  of  fronds  developed  under
+particular  environmental  conditions  has  the  capacity
+to  function 
+in  either  cool,  humid  and  shaded
+conditions
+----
+Source: 4.pdf
+gle  D.  antarctica
+sporophyte (to a maximum of 500–1000 years; Mueck
+et al.  1996),  the  rosette  of  fronds  developed  under
+particular  environmental  conditions  has  the  capacity
+to  function 
+in  either  cool,  humid  and  shaded
+conditions  beneath a dense tree canopy  or  warm, dry
+and high PPFD conditions in a forest gap or following
+wildﬁre.
+
+The  maximum  photosynthetic  rate  of 10.8 (cid:2)mol
+m–2 s–1  observed  in  D.  antarctica  acclimated  to  high
+PPFD under low VPD
+----
+Source: 4.pdf
+nditions  beneath a dense tree canopy  or  warm, dry
+and high PPFD conditions in a forest gap or following
+wildﬁre.
+
+The  maximum  photosynthetic  rate  of 10.8 (cid:2)mol
+m–2 s–1  observed  in  D.  antarctica  acclimated  to  high
+PPFD under low VPD conditions at the University is
+the  highest  recorded  for  a  pteridophyte.  Previously,
+maxima of 8.3 (cid:2)mol m–2 s–1 (D. antarctica; Nobel et al.
+1984),  9.8 (cid:2)mol m–2 s–1  (Pteridium  aquilinum;  Hollin-
+ger  1987)  and  9.7 (cid:2)mol
+----
+Source: 4.pdf
+D conditions at the University is
+the  highest  recorded  for  a  pteridophyte.  Previously,
+maxima of 8.3 (cid:2)mol m–2 s–1 (D. antarctica; Nobel et al.
+1984),  9.8 (cid:2)mol m–2 s–1  (Pteridium  aquilinum;  Hollin-
+ger  1987)  and  9.7 (cid:2)mol m–2 s–1  (Cheilanthes  persica;
+Granti et al. 1998) have been reported.
+
+The water use of D. antarctica was extremely conser-
+vative,  unlike  that  previously  described  for  some  fern
+species (Franks & Farquhar 1999). The water potential
+and
+----
+Source: 4.pdf
+)mol m–2 s–1  (Cheilanthes  persica;
+Granti et al. 1998) have been reported.
+
+The water use of D. antarctica was extremely conser-
+vative,  unlike  that  previously  described  for  some  fern
+species (Franks & Farquhar 1999). The water potential
+and RWC of fronds of D. antarctica remained close to
+0.0 MPa  and  100%,  respectively,  for  well-watered
+sporophytes  in  the  University  glasshouse  exposed  to
+moderate VPD (2.03 kPa). This high water status was
+probably linked to the strong
+----
+Source: 4.pdf
+ial
+and RWC of fronds of D. antarctica remained close to
+0.0 MPa  and  100%,  respectively,  for  well-watered
+sporophytes  in  the  University  glasshouse  exposed  to
+moderate VPD (2.03 kPa). This high water status was
+probably linked to the strong stomatal response to VPD
+observed in this study. However, sporophytes deprived
+of moisture developed water stress (water potential of
+–1.8 MPa)  and  had  gradients  in  water  potential  of
+approximately 0.3 Mpa m–1. Water gradients
+----
+Source: 4.pdf
+ed to the strong stomatal response to VPD
+observed in this study. However, sporophytes deprived
+of moisture developed water stress (water potential of
+–1.8 MPa)  and  had  gradients  in  water  potential  of
+approximately 0.3 Mpa m–1. Water gradients remained
+despite exposure to low VPD (0.59 kPa) conditions for
+up  to  7.5 h.  Further,  results  of  water  potential  and
+RWC in fronds exposed to high VPD (4.98 kPa) con-
+ditions indicated that water losses exceeded supply and
+that RWC of the
+----
+Source: 4.pdf
+ents remained
+despite exposure to low VPD (0.59 kPa) conditions for
+up  to  7.5 h.  Further,  results  of  water  potential  and
+RWC in fronds exposed to high VPD (4.98 kPa) con-
+ditions indicated that water losses exceeded supply and
+that RWC of the pinnae decreased much more quickly
+than  that  of  the  rachis.  Thus,  while  strong  stomatal
+control maintains favourable water relations under con-
+
+ditions of moderate VPD and adequate moisture avail-
+ability,  limited  moisture  availability
+----
+Source: 4.pdf
+e pinnae decreased much more quickly
+than  that  of  the  rachis.  Thus,  while  strong  stomatal
+control maintains favourable water relations under con-
+
+ditions of moderate VPD and adequate moisture avail-
+ability,  limited  moisture  availability  and/or  high VPD
+lead to water stress and water uptake into fronds occurs
+only slowly. Thus, although D. antarctica may maintain
+favourable  water  relations  during  short  periods  of
+high VPD,  these  ecophysiological  characteristics  may
+limit
+----
+Source: 4.pdf
+and/or  high VPD
+lead to water stress and water uptake into fronds occurs
+only slowly. Thus, although D. antarctica may maintain
+favourable  water  relations  during  short  periods  of
+high VPD,  these  ecophysiological  characteristics  may
+limit  the  distribution  of  the  species  to  sites  sheltered
+from  hot,  dry  winds  and  where  moisture  is  regularly
+available.
+
+their 
+
+Slow  water  transport  has  been  reported  previously
+for  pteridophytes  (Walter  &  Stadelmann  1974).
+----
+Source: 4.pdf
+imit  the  distribution  of  the  species  to  sites  sheltered
+from  hot,  dry  winds  and  where  moisture  is  regularly
+available.
+
+their 
+
+Slow  water  transport  has  been  reported  previously
+for  pteridophytes  (Walter  &  Stadelmann  1974). The
+primitive  anatomy  of 
+tracheid  conductive
+elements  in  vascular  strands  causes  high  hydraulic
+resistance  and  low  rates  of  water  transport  within  the
+fronds.  Nobel  (1978)  reported  a  10-MPa m–1  water
+potential gradient along
+----
+Source: 4.pdf
+. The
+primitive  anatomy  of 
+tracheid  conductive
+elements  in  vascular  strands  causes  high  hydraulic
+resistance  and  low  rates  of  water  transport  within  the
+fronds.  Nobel  (1978)  reported  a  10-MPa m–1  water
+potential gradient along the stipe of Notholaena parryi.
+Great  hydraulic  resistance  was  hypothesized  to  occur
+because  of  the  small  conducting  area  in  the  xylem.
+Further,  Nobel  (1978)  suggested  that  the  production
+of  short  fronds  (<0.6 m)  was  due
+----
+Source: 4.pdf
+ong the stipe of Notholaena parryi.
+Great  hydraulic  resistance  was  hypothesized  to  occur
+because  of  the  small  conducting  area  in  the  xylem.
+Further,  Nobel  (1978)  suggested  that  the  production
+of  short  fronds  (<0.6 m)  was  due  to  a  limitation  to
+water  transfer  against  a  steep  potential  gradient.  In
+contrast  to  N.  parryi,  D.  antarctica  has  long  fronds
+(1–3 m).  Maximum  stomatal  conductance  and  rates
+of  photosynthesis  of  D.  antarctica  occur  only
+----
+Source: 4.pdf
+to  a  limitation  to
+water  transfer  against  a  steep  potential  gradient.  In
+contrast  to  N.  parryi,  D.  antarctica  has  long  fronds
+(1–3 m).  Maximum  stomatal  conductance  and  rates
+of  photosynthesis  of  D.  antarctica  occur  only  under
+conditions  of  low VPD,  conditions  conducive  to  low
+transpiration  rates.  The  strong  response  of  stomatal
+conductance to VPD may therefore operate to maintain
+favourable water relations under the variable environ-
+mental
+----
+Source: 4.pdf
+occur  only  under
+conditions  of  low VPD,  conditions  conducive  to  low
+transpiration  rates.  The  strong  response  of  stomatal
+conductance to VPD may therefore operate to maintain
+favourable water relations under the variable environ-
+mental  conditions  prevalent  across  the  natural  distri-
+bution of D. antarctica.
+
+Growth  processes,  particularly  cellular  expansion,
+require  positive  turgor  (Tyree  &  Jarvis  1982).  The
+water  relations  and  the  initiation  and  unfurling
+----
+Source: 4.pdf
+l  conditions  prevalent  across  the  natural  distri-
+bution of D. antarctica.
+
+Growth  processes,  particularly  cellular  expansion,
+require  positive  turgor  (Tyree  &  Jarvis  1982).  The
+water  relations  and  the  initiation  and  unfurling  of
+fronds  in  the  present  experiment  were  unaffected  by
+severing  the  stem  near  the  ground  and  suspending  it
+above the ground in its natural orientation for 8 weeks,
+provided water was supplied to the apex of the plant.
+Reports  from
+----
+Source: 4.pdf
+g  of
+fronds  in  the  present  experiment  were  unaffected  by
+severing  the  stem  near  the  ground  and  suspending  it
+above the ground in its natural orientation for 8 weeks,
+provided water was supplied to the apex of the plant.
+Reports  from  horticulturalists  (N.  Pike,  pers.  comm.,
+July  1993),  and  observations  of  ferns  cut  during  the
+clearing  of  walking  tracks,  indicate  that  D.  antarctica
+may  survive  for  years  in  this  condition. The  funnel-
+like morphology of
+----
+Source: 4.pdf
+m  horticulturalists  (N.  Pike,  pers.  comm.,
+July  1993),  and  observations  of  ferns  cut  during  the
+clearing  of  walking  tracks,  indicate  that  D.  antarctica
+may  survive  for  years  in  this  condition. The  funnel-
+like morphology of the rosette of fronds may facilitate
+the  harvesting  of  rainfall,  which  collects  in  the  stem
+apex  and  may  hydrate  the  aerial  adventitious  roots
+present at the base of each frond. This characteristic of
+D.  antarctica  is  unusual  as
+----
+Source: 4.pdf
+f the rosette of fronds may facilitate
+the  harvesting  of  rainfall,  which  collects  in  the  stem
+apex  and  may  hydrate  the  aerial  adventitious  roots
+present at the base of each frond. This characteristic of
+D.  antarctica  is  unusual  as  water  absorption  occurs
+mainly through a subterranean root system or rhizoma-
+tous  mat  in  epiphytic  ferns  (Andrade  &  Nobel  1997;
+Hietz & Briones 1998). However, desiccation-tolerant
+pteridophytes have been shown to rehydrate via
+----
+Source: 4.pdf
+nusual  as  water  absorption  occurs
+mainly through a subterranean root system or rhizoma-
+tous  mat  in  epiphytic  ferns  (Andrade  &  Nobel  1997;
+Hietz & Briones 1998). However, desiccation-tolerant
+pteridophytes have been shown to rehydrate via direct
+absorption  of  water  through  the  frond  (Eickmeier
+1979;  Schwab  et al.  1989).  Stuart  (1968)  noted  that
+Polypodium  polypodioides  will  not  rehydrate  without
+direct  application  of  moisture  to  the  fronds.  Thus,
+D.
+----
+Source: 4.pdf
+drate via direct
+absorption  of  water  through  the  frond  (Eickmeier
+1979;  Schwab  et al.  1989).  Stuart  (1968)  noted  that
+Polypodium  polypodioides  will  not  rehydrate  without
+direct  application  of  moisture  to  the  fronds.  Thus,
+D.  antarctica  may  maintain  favourable  water  relations
+for  growth  through  the  interception  of  rainfall  by
+fronds.  This  strategy  may  eliminate  a  need  for  soil
+
+ 14429993, 2002, 4, Downloaded from
+----
+Source: 4.pdf
+moisture  to  the  fronds.  Thus,
+D.  antarctica  may  maintain  favourable  water  relations
+for  growth  through  the  interception  of  rainfall  by
+fronds.  This  strategy  may  eliminate  a  need  for  soil
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online
+----
+Source: 4.pdf
+om https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License3 6 8
+
+M .   A .   H U N T   E T   A L .
+
+moisture competition with surrounding tree species. In
+conclusion,  this  study  has  reported  a  number  of
+----
+Source: 4.pdf
+ine Library for rules of use; OA articles are governed by the applicable Creative Commons License3 6 8
+
+M .   A .   H U N T   E T   A L .
+
+moisture competition with surrounding tree species. In
+conclusion,  this  study  has  reported  a  number  of  eco-
+physiological characteristics that may contribute to the
+success  of  D.  antarctica  in  an  environment  highly
+variable in light, water supply and evapotranspirational
+demand,  allowing  the  species  to  occupy  a  broad  eco-
+logical
+----
+Source: 4.pdf
+r  of  eco-
+physiological characteristics that may contribute to the
+success  of  D.  antarctica  in  an  environment  highly
+variable in light, water supply and evapotranspirational
+demand,  allowing  the  species  to  occupy  a  broad  eco-
+logical niche.
+
+ACKNOWLEDGEMENTS
+
+We  gratefully  acknowledge  the  Cooperative  Research
+Centre  for  Sustainable  Production  Forestry  for  sup-
+porting this research and the Liffey Valley Fernery for
+providing  access  to  experimental  material. We
+----
+Source: 4.pdf
+cal niche.
+
+ACKNOWLEDGEMENTS
+
+We  gratefully  acknowledge  the  Cooperative  Research
+Centre  for  Sustainable  Production  Forestry  for  sup-
+porting this research and the Liffey Valley Fernery for
+providing  access  to  experimental  material. We  would
+also like to thank Chris Beadle for his advice during the
+project and in the preparation of this manuscript, and
+David Hunt for his expert technical assistance during
+the project.
+
+REFERENCES
+
+Andrade  J.  L.  &  Nobel  P.  S.  (1997)
+----
+Source: 4.pdf
+ial. We  would
+also like to thank Chris Beadle for his advice during the
+project and in the preparation of this manuscript, and
+David Hunt for his expert technical assistance during
+the project.
+
+REFERENCES
+
+Andrade  J.  L.  &  Nobel  P.  S.  (1997)  Microhabitats  and  water
+relations of epiphytic cacti and ferns in a lowland neotropical
+forest. Biotropica 28, 261–70.
+
+Bannister P. & Wildish K. L. (1982) Light compensation points
+and speciﬁc leaf areas in some New Zealand tree ferns. NZ
+J Bot.
+----
+Source: 4.pdf
+Microhabitats  and  water
+relations of epiphytic cacti and ferns in a lowland neotropical
+forest. Biotropica 28, 261–70.
+
+Bannister P. & Wildish K. L. (1982) Light compensation points
+and speciﬁc leaf areas in some New Zealand tree ferns. NZ
+J Bot. 20, 421–4.
+
+Demmig-Adams  B.  &  Adams  W.  W.  III.  (1992)  Carotenoid
+composition in sun and shade leaves of plants with different
+life forms. Plant Cell Environ. 15, 411–9.
+
+Draper N. R. & Smith H. (1981) Applied Regression Analysis, 2nd
+
+edn.
+----
+Source: 4.pdf
+t. 20, 421–4.
+
+Demmig-Adams  B.  &  Adams  W.  W.  III.  (1992)  Carotenoid
+composition in sun and shade leaves of plants with different
+life forms. Plant Cell Environ. 15, 411–9.
+
+Draper N. R. & Smith H. (1981) Applied Regression Analysis, 2nd
+
+edn. Wiley, New York.
+
+Eickmeier  W.  H.  (1979)  Photosynthetic  recovery  of  the  resur-
+rection plant Selaginella lepidophylla after wetting. Oecologia
+39, 93–106.
+
+Franks  P.  J.  &  Farquhar  G.  D.  (1999)  A  relationship  between
+humidity
+----
+Source: 4.pdf
+edn. Wiley, New York.
+
+Eickmeier  W.  H.  (1979)  Photosynthetic  recovery  of  the  resur-
+rection plant Selaginella lepidophylla after wetting. Oecologia
+39, 93–106.
+
+Franks  P.  J.  &  Farquhar  G.  D.  (1999)  A  relationship  between
+humidity  response,  growth  form  and  photosynthetic  oper-
+ating point in C3 plants. Plant Cell Environ. 22, 1337–49.
+Granti  L.,  Crescente  M.  F.  &  Rossi  G.  (1998)  Photosynthetic
+performance and water use efﬁciency of the fern Cheilanthes
+persica.
+----
+Source: 4.pdf
+response,  growth  form  and  photosynthetic  oper-
+ating point in C3 plants. Plant Cell Environ. 22, 1337–49.
+Granti  L.,  Crescente  M.  F.  &  Rossi  G.  (1998)  Photosynthetic
+performance and water use efﬁciency of the fern Cheilanthes
+persica. Photosynthetica 35, 517–6.
+
+Hew C. S. & Wong Y. S. (1974) Photosynthesis and respiration
+of ferns in relation to their habitat. Am. Fern J. 64, 40–8.
+Hickey J. E. (1994) A ﬂoristic comparison of vascular species in
+Tasmanian  oldgrowth  mixed
+----
+Source: 4.pdf
+rsica. Photosynthetica 35, 517–6.
+
+Hew C. S. & Wong Y. S. (1974) Photosynthesis and respiration
+of ferns in relation to their habitat. Am. Fern J. 64, 40–8.
+Hickey J. E. (1994) A ﬂoristic comparison of vascular species in
+Tasmanian  oldgrowth  mixed  forest  with  regeneration
+resulting  from  logging  and  wildﬁre.  Aust.  J.  Bot.  42,
+383–404.
+
+Hietz P. & Briones O. (1998) Correlation between water relations
+and  within-canopy  distribution  of  epiphytic  ferns  in  a
+Mexican cloud forest.
+----
+Source: 4.pdf
+d  forest  with  regeneration
+resulting  from  logging  and  wildﬁre.  Aust.  J.  Bot.  42,
+383–404.
+
+Hietz P. & Briones O. (1998) Correlation between water relations
+and  within-canopy  distribution  of  epiphytic  ferns  in  a
+Mexican cloud forest. Oecologia 114, 305–16.
+
+Hollinger D. Y. (1987) Photosynthesis and stomatal conductance
+patterns  of  two  fern  species  from  different  forest  under-
+storeys. J. Ecol. 75, 925–35.
+
+Jarvis  P.  G.  (1976)  The  interpretation  of  the  variations
+----
+Source: 4.pdf
+. Oecologia 114, 305–16.
+
+Hollinger D. Y. (1987) Photosynthesis and stomatal conductance
+patterns  of  two  fern  species  from  different  forest  under-
+storeys. J. Ecol. 75, 925–35.
+
+Jarvis  P.  G.  (1976)  The  interpretation  of  the  variations  in  leaf
+water potential and stomatal conductance found in canopies
+
+in  the  ﬁeld.  Phil.  Trans.  Roy.  Soc.  Lond.  Series  B  273,
+593–610.
+
+Long  S.  P.  &  Hällgren  J.  (1993)  Measurement  of  CO2  assimil-
+ation by plants in the ﬁeld and
+----
+Source: 4.pdf
+ns  in  leaf
+water potential and stomatal conductance found in canopies
+
+in  the  ﬁeld.  Phil.  Trans.  Roy.  Soc.  Lond.  Series  B  273,
+593–610.
+
+Long  S.  P.  &  Hällgren  J.  (1993)  Measurement  of  CO2  assimil-
+ation by plants in the ﬁeld and laboratory. In: Photosynthesis
+and  Production  in  a  Changing  Environment.  A  Field  and
+Laboratory  Manual.  (eds  D.  O.  Hall,  J.  M.  O.  Scurlock,
+H.  R.  Bolhàr-Nordenkampf,  R.  C.  Leegood,  S.  P.  Long)
+pp. 129–65. Chapman & Hall,
+----
+Source: 4.pdf
+and laboratory. In: Photosynthesis
+and  Production  in  a  Changing  Environment.  A  Field  and
+Laboratory  Manual.  (eds  D.  O.  Hall,  J.  M.  O.  Scurlock,
+H.  R.  Bolhàr-Nordenkampf,  R.  C.  Leegood,  S.  P.  Long)
+pp. 129–65. Chapman & Hall, London.
+
+Mueck S. G., Ough K. & Banks C. G. (1996) How old are wet
+
+understories? Aust. J. Ecol. 21, 345–8.
+
+Neyland M. (1986) Conservation and management of tree ferns
+in Tasmania. Wildlife Division Technical Report 86/1. National
+Parks and
+----
+Source: 4.pdf
+& Hall, London.
+
+Mueck S. G., Ough K. & Banks C. G. (1996) How old are wet
+
+understories? Aust. J. Ecol. 21, 345–8.
+
+Neyland M. (1986) Conservation and management of tree ferns
+in Tasmania. Wildlife Division Technical Report 86/1. National
+Parks and Wildlife Service, Hobart.
+
+Nobel  P.  S.  (1978)  Microhabitat,  water  relations,  and  photo-
+synthesis  of  a  desert  fern  Notholaena  parryi.  Oecologia  8,
+296–309.
+
+Nobel P. S., Calkin H. W. & Gibson A. C. (1984) Inﬂuences of
+PPFD,
+----
+Source: 4.pdf
+Parks and Wildlife Service, Hobart.
+
+Nobel  P.  S.  (1978)  Microhabitat,  water  relations,  and  photo-
+synthesis  of  a  desert  fern  Notholaena  parryi.  Oecologia  8,
+296–309.
+
+Nobel P. S., Calkin H. W. & Gibson A. C. (1984) Inﬂuences of
+PPFD, temperature and water vapour concentration on gas
+exchange by ferns. Physiol. Plant. 62, 527–34.
+
+Pearcy R. W. (1988) Photosynthetic utilisation of lightﬂecks by
+understorey plants. Aust. J. Plant Physiol. 156, 223–8.
+Roberts  J.,  Pymer  C.  F.,
+----
+Source: 4.pdf
+D, temperature and water vapour concentration on gas
+exchange by ferns. Physiol. Plant. 62, 527–34.
+
+Pearcy R. W. (1988) Photosynthetic utilisation of lightﬂecks by
+understorey plants. Aust. J. Plant Physiol. 156, 223–8.
+Roberts  J.,  Pymer  C.  F.,  Wallace  J.  S.  &  Pitman  R.  M.  (1980)
+Seasonal  changes  in  leaf  area,  stomatal  and  canopy  con-
+ductance  and  transpiration  from  bracken  below  a  forest
+canopy. J. App. Ecol. 17, 409–22.
+
+Roberts J., Wallace J. S. & Pitman R. M.
+----
+Source: 4.pdf
+F.,  Wallace  J.  S.  &  Pitman  R.  M.  (1980)
+Seasonal  changes  in  leaf  area,  stomatal  and  canopy  con-
+ductance  and  transpiration  from  bracken  below  a  forest
+canopy. J. App. Ecol. 17, 409–22.
+
+Roberts J., Wallace J. S. & Pitman R. M. (1984) Factors affecting
+stomatal  conductance  of  bracken  below  a  forest  canopy.
+J. App. Ecol. 21, 643–55.
+
+SAS  Institute  Inc  (1989)  User’s  Guide, Version  6,  4th  edn.  SAS
+
+Institute, Cary, NC, USA.
+
+Scholander  P.  F.,  Hammel  H.
+----
+Source: 4.pdf
+M. (1984) Factors affecting
+stomatal  conductance  of  bracken  below  a  forest  canopy.
+J. App. Ecol. 21, 643–55.
+
+SAS  Institute  Inc  (1989)  User’s  Guide, Version  6,  4th  edn.  SAS
+
+Institute, Cary, NC, USA.
+
+Scholander  P.  F.,  Hammel  H.  T.,  Bradstreet  E.  D.  &
+Hemmingsen  E.  A.  (1965)  Sap  pressure  in  vascular
+plants. Science 148, 339–45.
+
+Schwab  K.  B.,  Schreiber  U.  &  Heber  U.  (1989)  Response  of
+photosynthesis  and  respiration  of  resurrection  plants
+----
+Source: 4.pdf
+ammel  H.  T.,  Bradstreet  E.  D.  &
+Hemmingsen  E.  A.  (1965)  Sap  pressure  in  vascular
+plants. Science 148, 339–45.
+
+Schwab  K.  B.,  Schreiber  U.  &  Heber  U.  (1989)  Response  of
+photosynthesis  and  respiration  of  resurrection  plants  to
+desiccation and rehydration. Planta 117, 217–27.
+
+Stuart T. S. (1968) Revival of respiration and photosynthesis of
+dried leaves of Polypodium polypodioides. Planta 83, 185–206.
+Tinklin  R.  &  Bowling  D.  J.  F.  (1969)  The  water  relations
+----
+Source: 4.pdf
+s  to
+desiccation and rehydration. Planta 117, 217–27.
+
+Stuart T. S. (1968) Revival of respiration and photosynthesis of
+dried leaves of Polypodium polypodioides. Planta 83, 185–206.
+Tinklin  R.  &  Bowling  D.  J.  F.  (1969)  The  water  relations  of
+bracken: A preliminary study. J. App. Ecol. 6, 669–71.
+Turner  N.  C.  (1981)  Techniques  and  experimental  approaches
+for  the  measurement  of  plant  water  status.  Plant  Soil  58,
+339–66.
+
+Tyree M. T. & Jarvis P. G. (1982) Water in
+----
+Source: 4.pdf
+ations  of
+bracken: A preliminary study. J. App. Ecol. 6, 669–71.
+Turner  N.  C.  (1981)  Techniques  and  experimental  approaches
+for  the  measurement  of  plant  water  status.  Plant  Soil  58,
+339–66.
+
+Tyree M. T. & Jarvis P. G. (1982) Water in tissues and cells. In:
+Physiological  Plant  Ecology 
+II,  Encyclopedia  of  Plant
+Physiology,  New  Series,  Vol.  12B  (eds  O.  L.  Lange,  P.  S.
+Nobel,  C.  B.  Osmond,  &  H.  Zeigler)  pp.  36–77.  Springer-
+Verlag, Berlin.
+
+Unwin G. L. &
+----
+Source: 4.pdf
+r in tissues and cells. In:
+Physiological  Plant  Ecology 
+II,  Encyclopedia  of  Plant
+Physiology,  New  Series,  Vol.  12B  (eds  O.  L.  Lange,  P.  S.
+Nobel,  C.  B.  Osmond,  &  H.  Zeigler)  pp.  36–77.  Springer-
+Verlag, Berlin.
+
+Unwin G. L. & Hunt M. A. (1996) Conservation and manage-
+ment  of  soft  tree  fern  Dicksonia  antarctica  in  relation  to
+commercial  forestry  and  horticulture.  In:  Pteridology  in
+Perspective  (ed.  J.  M.  Cammus,  M.  Gibby  &  R.  J.  Johns)
+pp.
+----
+Source: 4.pdf
+G. L. & Hunt M. A. (1996) Conservation and manage-
+ment  of  soft  tree  fern  Dicksonia  antarctica  in  relation  to
+commercial  forestry  and  horticulture.  In:  Pteridology  in
+Perspective  (ed.  J.  M.  Cammus,  M.  Gibby  &  R.  J.  Johns)
+pp. 125–37. Royal Botanical Gardens, Melbourne.
+
+Walter H. & Stadelmann E. (1974) A new approach to the water
+relations  of  desert  plants.  In:  Desert  Biology,  Vol.  2.  (ed.
+G. W. Brown Jr) pp. 213–310. Academic Press, New York.
+
+White D. A. &
+----
+Source: 4.pdf
+pp. 125–37. Royal Botanical Gardens, Melbourne.
+
+Walter H. & Stadelmann E. (1974) A new approach to the water
+relations  of  desert  plants.  In:  Desert  Biology,  Vol.  2.  (ed.
+G. W. Brown Jr) pp. 213–310. Academic Press, New York.
+
+White D. A. & Kile G. A. (1994) Breakdown of barrier zones and
+prediction  of  the  spread  of  discolouration  and  decay
+resulting  from  stem  wounds  in  Eucalyptus  regnans  and
+E. obliqua. Europ. J. For. Path. 24, 71–8.
+
+ 14429993, 2002, 4, Downloaded from
+----
+Source: 4.pdf
+& Kile G. A. (1994) Breakdown of barrier zones and
+prediction  of  the  spread  of  discolouration  and  decay
+resulting  from  stem  wounds  in  Eucalyptus  regnans  and
+E. obliqua. Europ. J. For. Path. 24, 71–8.
+
+ 14429993, 2002, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online
+----
+Source: 4.pdf
+om https://onlinelibrary.wiley.com/doi/10.1046/j.1442-9993.2002.01190.x by University Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Of Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+f Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Edinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+dinburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+inburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+nburgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+burgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+urgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rgh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+gh Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+h Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Main Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ain Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+in Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+n Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Library, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ibrary, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+brary, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rary, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ary, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ry, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+y, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+, Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Wiley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+iley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ley Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ey Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+y Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Online Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+nline Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+line Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ine Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ne Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+e Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Library on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ibrary on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+brary on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rary on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ary on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ry on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+y on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+on [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+n [11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+[11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+[11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+11/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+1/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+3/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+25]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+5]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ee the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+e the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+he Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+e Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+erms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+s and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+nd Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+d Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+onditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+nditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+itions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+tions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ons (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ns (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+s (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+(https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+(https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ttps://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+tps://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ps://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+s://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+//onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+/onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+nlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+linelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+inelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+nelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+elibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+library.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+brary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ry.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+y.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+iley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ey.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+y.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+om/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+m/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+erms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+s-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+d-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+onditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+nditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+itions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+tions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ons) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ns) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+s) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+n Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+iley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ley Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ey Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+y Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Online Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+nline Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+line Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ine Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ne Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+e Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+Library for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ibrary for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+brary for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rary for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ary for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ry for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+y for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+for rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+or rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+r rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ules of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+les of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+es of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+s of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+of use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+f use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+use; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+se; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+e; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+; OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+OA articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+A articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+articles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+rticles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+ticles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+icles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+cles are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+les are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+es are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+s are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+are governed by the applicable Creative Commons
+----
+Source: 4.pdf
+re governed by the applicable Creative Commons
+----
+Source: 4.pdf
+e governed by the applicable Creative Commons
+----
+Source: 4.pdf
+governed by the applicable Creative Commons
+----
+Source: 4.pdf
+governed by the applicable Creative Commons
+----
+Source: 4.pdf
+overned by the applicable Creative Commons
+----
+Source: 4.pdf
+verned by the applicable Creative Commons
+----
+Source: 4.pdf
+erned by the applicable Creative Commons
+----
+Source: 4.pdf
+rned by the applicable Creative Commons
+----
+Source: 4.pdf
+ned by the applicable Creative Commons
+----
+Source: 4.pdf
+ed by the applicable Creative Commons
+----
+Source: 4.pdf
+d by the applicable Creative Commons
+----
+Source: 4.pdf
+by the applicable Creative Commons
+----
+Source: 4.pdf
+by the applicable Creative Commons
+----
+Source: 4.pdf
+y the applicable Creative Commons
+----
+Source: 4.pdf
+the applicable Creative Commons
+----
+Source: 4.pdf
+the applicable Creative Commons
+----
+Source: 4.pdf
+he applicable Creative Commons
+----
+Source: 4.pdf
+e applicable Creative Commons
+----
+Source: 4.pdf
+applicable Creative Commons
+----
+Source: 4.pdf
+applicable Creative Commons
+----
+Source: 4.pdf
+pplicable Creative Commons
+----
+Source: 4.pdf
+plicable Creative Commons
+----
+Source: 4.pdf
+licable Creative Commons
+----
+Source: 4.pdf
+icable Creative Commons
+----
+Source: 4.pdf
+cable Creative Commons
+----
+Source: 4.pdf
+able Creative Commons
+----
+Source: 4.pdf
+ble Creative Commons
+----
+Source: 4.pdf
+le Creative Commons
+----
+Source: 4.pdf
+e Creative Commons
+----
+Source: 4.pdf
+Creative Commons
+----
+Source: 4.pdf
+Creative Commons
+----
+Source: 4.pdf
+reative Commons
+----
+Source: 4.pdf
+eative Commons
+----
+Source: 4.pdf
+ative Commons
+----
+Source: 4.pdf
+tive Commons
+----
+Source: 4.pdf
+ive Commons
+----
+Source: 4.pdf
+ve Commons
+----
+Source: 4.pdf
+e Commons
+----
+Source: 4.pdf
+Commons
+----
+Source: 4.pdf
+Commons
+----
+Source: 4.pdf
+ommons
+----
+Source: 4.pdf
+mmons
+----
+Source: 4.pdf
+mons
+----
+Source: 4.pdf
+ons
+----
+Source: 4.pdf
+ns
+----
+Source: 4.pdf
+s
+----
+Source: 4.pdf
+License
+----
+Source: 4.pdf
+License
+----
+Source: 4.pdf
+icense
+----
+Source: 4.pdf
+cense
+----
+Source: 4.pdf
+ense
+----
+Source: 4.pdf
+nse
+----
+Source: 4.pdf
+se
+----
+Source: 4.pdf
+e
+----

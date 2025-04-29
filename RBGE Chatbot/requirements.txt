@@ -1,0 +1,4 @@
+flask
+openai
+faiss-cpu
+pdfminer.six

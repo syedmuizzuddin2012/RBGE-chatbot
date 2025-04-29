@@ -1,0 +1,4639 @@
+Source: 2.pdf
+Forest Ecology and Management 199 (2004) 153–163
+
+Decline in tree-fern abundance after clearfell harvesting
+Keely Ough*, Anna Murphy
+Department of Sustainability and Environment, Arthur Rylah Institute for Environmental Research,
+PO Box 137, Heidelberg 3084, Vic., Australia
+
+Received 23 February 2004; received in revised form 14 May 2004; accepted 14 May 2004
+
+Abstract
+
+Common and widespread plant species can change in abundance as a result of timber harvesting practices, with potentially
+broad
+----
+Source: 2.pdf
+erg 3084, Vic., Australia
+
+Received 23 February 2004; received in revised form 14 May 2004; accepted 14 May 2004
+
+Abstract
+
+Common and widespread plant species can change in abundance as a result of timber harvesting practices, with potentially
+broad effects on an ecosystem. Yet few studies have quantiﬁed such changes and their effects and as a result, subsequent
+management can be poorly deﬁned. Tree-ferns are among a number of vegetative resprouters that have been shown to decline in
+abundance
+----
+Source: 2.pdf
+d effects on an ecosystem. Yet few studies have quantiﬁed such changes and their effects and as a result, subsequent
+management can be poorly deﬁned. Tree-ferns are among a number of vegetative resprouters that have been shown to decline in
+abundance after clearfelling in Victorian Wet Forest. This study quantiﬁes the initial survival of two common species of tree fern,
+Dicksonia antarctica and Cyathea australis, on six Wet Forest coupes in the Victorian Central Highlands,
+----
+Source: 2.pdf
+to decline in
+abundance after clearfelling in Victorian Wet Forest. This study quantiﬁes the initial survival of two common species of tree fern,
+Dicksonia antarctica and Cyathea australis, on six Wet Forest coupes in the Victorian Central Highlands, south-eastern
+Australia. Sixteen percent of the 2391 tree-ferns monitored remained alive 1 year after clearfelling and seedbed preparation, with
+only 5% remaining in an upright position. Mortality was still increasing up to 6 years after clearfell
+----
+Source: 2.pdf
+s, south-eastern
+Australia. Sixteen percent of the 2391 tree-ferns monitored remained alive 1 year after clearfelling and seedbed preparation, with
+only 5% remaining in an upright position. Mortality was still increasing up to 6 years after clearfell harvesting, particularly for C.
+australis. Sixty-seven percent of D. antarctica surviving to 1 year post-harvest were still alive after 4 or 6 years, whereas only
+35% of C. australis survived this period. Low tree-fern survival is likely to result
+----
+Source: 2.pdf
+ll harvesting, particularly for C.
+australis. Sixty-seven percent of D. antarctica surviving to 1 year post-harvest were still alive after 4 or 6 years, whereas only
+35% of C. australis survived this period. Low tree-fern survival is likely to result in declines in the abundance of other species
+that rely directly on tree-ferns for habitat. The altered forest structure resulting from reduced tree-fern numbers will affect local
+microclimates and forest processes. As tree-fern recruitment is low
+----
+Source: 2.pdf
+lt in declines in the abundance of other species
+that rely directly on tree-ferns for habitat. The altered forest structure resulting from reduced tree-fern numbers will affect local
+microclimates and forest processes. As tree-fern recruitment is low and growth rates are slow, these changes are likely to be long
+term. Survival of individuals through harvesting operations is crucial to the maintenance of the role of tree-ferns as a keystone
+species in Wet Forests and simple modiﬁcations to
+----
+Source: 2.pdf
+is low and growth rates are slow, these changes are likely to be long
+term. Survival of individuals through harvesting operations is crucial to the maintenance of the role of tree-ferns as a keystone
+species in Wet Forests and simple modiﬁcations to current practices could increase the survival of tree-ferns in clearfelled areas.
+# 2004 Elsevier B.V. All rights reserved.
+
+Keywords: Tree-ferns; Dicksonia antarctica; Cyathea australis; Clearfelling; Sustainable forest management
+
+1.
+----
+Source: 2.pdf
+odiﬁcations to current practices could increase the survival of tree-ferns in clearfelled areas.
+# 2004 Elsevier B.V. All rights reserved.
+
+Keywords: Tree-ferns; Dicksonia antarctica; Cyathea australis; Clearfelling; Sustainable forest management
+
+1. Introduction
+
+The change in abundance of a common plant spe-
+cies can potentially have a more serious effect on an
+ecosystem than the change in abundance of a spor-
+adically occurring or rare species. Flow-on effects are
+likely to be numerous (Ough
+----
+Source: 2.pdf
+. Introduction
+
+The change in abundance of a common plant spe-
+cies can potentially have a more serious effect on an
+ecosystem than the change in abundance of a spor-
+adically occurring or rare species. Flow-on effects are
+likely to be numerous (Ough and Murphy, 1996), and
+ecosystem functions may change over a wide area. At
+present, the management of rare or threatened species
+in Victorian forests is addressed in policy documents
+
+* Corresponding author. Tel.: þ61-3-9450-8631;
+
+fax:
+----
+Source: 2.pdf
+umerous (Ough and Murphy, 1996), and
+ecosystem functions may change over a wide area. At
+present, the management of rare or threatened species
+in Victorian forests is addressed in policy documents
+
+* Corresponding author. Tel.: þ61-3-9450-8631;
+
+fax: þ61-3-9450-8799.
+E-mail address: keely.ough@dse.vic.gov.au (K. Ough).
+
+and legislation such as the Flora and Fauna Guarantee
+Act (1988) and associated Action Statements, the
+Code of Forest Practices for Timber Production
+(NRE, 1996), and regional
+----
+Source: 2.pdf
+ax: þ61-3-9450-8799.
+E-mail address: keely.ough@dse.vic.gov.au (K. Ough).
+
+and legislation such as the Flora and Fauna Guarantee
+Act (1988) and associated Action Statements, the
+Code of Forest Practices for Timber Production
+(NRE, 1996), and regional Forest Management Plans.
+Change in abundance of common species is less well
+studied, hence the consequences are less well under-
+stood, and the management of such changes is less
+well deﬁned.
+
+In Australian timber production forests, the
+----
+Source: 2.pdf
+and regional Forest Management Plans.
+Change in abundance of common species is less well
+studied, hence the consequences are less well under-
+stood, and the management of such changes is less
+well deﬁned.
+
+In Australian timber production forests, the require-
+ment to manage in an ecologically sustainable manner
+is becoming increasingly important. Policy statements
+such as the Regional Forest Agreements (e.g. DPIE,
+1998), the National Forest Policy Statement (Com-
+monwealth of Australia, 1992a),
+----
+Source: 2.pdf
+e require-
+ment to manage in an ecologically sustainable manner
+is becoming increasingly important. Policy statements
+such as the Regional Forest Agreements (e.g. DPIE,
+1998), the National Forest Policy Statement (Com-
+monwealth of Australia, 1992a), the National Strategy
+
+0378-1127/$ – see front matter # 2004 Elsevier B.V. All rights reserved.
+doi:10.1016/j.foreco.2004.05.030
+
+154
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+for Ecologically Sustainable Development
+----
+Source: 2.pdf
+), the National Strategy
+
+0378-1127/$ – see front matter # 2004 Elsevier B.V. All rights reserved.
+doi:10.1016/j.foreco.2004.05.030
+
+154
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+for Ecologically Sustainable Development (Common-
+wealth of Australia, 1992b), and the National Strategy
+for the Conservation of Australia’s Biological Diver-
+sity (Commonwealth of Australia, 1996) commit for-
+est managers
+to ensuring biodiversity, genetic
+diversity, ecosystem processes
+----
+Source: 2.pdf
+ent (Common-
+wealth of Australia, 1992b), and the National Strategy
+for the Conservation of Australia’s Biological Diver-
+sity (Commonwealth of Australia, 1996) commit for-
+est managers
+to ensuring biodiversity, genetic
+diversity, ecosystem processes and ecosystem health
+are maintained within the native forest estate. Whether
+or not widespread changes in abundance of species can
+be tolerated within these policies has not been speci-
+ﬁcally addressed.
+
+In Wet Forests (sensu Woodgate et al.,
+----
+Source: 2.pdf
+cesses and ecosystem health
+are maintained within the native forest estate. Whether
+or not widespread changes in abundance of species can
+be tolerated within these policies has not been speci-
+ﬁcally addressed.
+
+In Wet Forests (sensu Woodgate et al., 1994) of the
+Victorian Central Highlands, south-eastern Australia,
+the tree-fern species Dicksonia antarctica (Soft tree-
+fern) and Cyathea australis (Rough tree-fern) are
+common and widespread. These ﬁre-tolerant species
+are characteristic of Wet
+----
+Source: 2.pdf
+., 1994) of the
+Victorian Central Highlands, south-eastern Australia,
+the tree-fern species Dicksonia antarctica (Soft tree-
+fern) and Cyathea australis (Rough tree-fern) are
+common and widespread. These ﬁre-tolerant species
+are characteristic of Wet Forest understoreys, often
+forming a dominant component (Ough and Ross,
+1992; Ashton and Attiwill, 1994; Walsh and Entwisle,
+1994; Ough and Murphy, 1996). Life spans of several
+centuries appear to be common for these slow growing
+plants (Cremer and
+----
+Source: 2.pdf
+t Forest understoreys, often
+forming a dominant component (Ough and Ross,
+1992; Ashton and Attiwill, 1994; Walsh and Entwisle,
+1994; Ough and Murphy, 1996). Life spans of several
+centuries appear to be common for these slow growing
+plants (Cremer and Mount, 1965; Mueck et al., 1996;
+Ashton and Bassett, 1997), and a variety of epiphytes
+often inhabit the trunks of the taller tree-ferns (Ough
+and Ross, 1992; Chesterﬁeld, 1996; Ough and Mur-
+phy, 1996; Ashton and Chinner, 1999; Ashton,
+----
+Source: 2.pdf
+s (Cremer and Mount, 1965; Mueck et al., 1996;
+Ashton and Bassett, 1997), and a variety of epiphytes
+often inhabit the trunks of the taller tree-ferns (Ough
+and Ross, 1992; Chesterﬁeld, 1996; Ough and Mur-
+phy, 1996; Ashton and Chinner, 1999; Ashton, 2000).
+Ashton (2000) also observed tree-fern trunks to be
+especially favourable establishment sites for almost all
+woody species in the forest. A decline in tree-fern
+numbers will therefore impact on a great many other
+species (Ough and Murphy,
+----
+Source: 2.pdf
+hton, 2000).
+Ashton (2000) also observed tree-fern trunks to be
+especially favourable establishment sites for almost all
+woody species in the forest. A decline in tree-fern
+numbers will therefore impact on a great many other
+species (Ough and Murphy, 1996).
+
+of
+
+the
+
+Victorian Wet Forests produce timber of high com-
+mercial value, and large areas are managed for timber
+approximately
+production. Currently,
+110,000 ha of Wet Forest in the Central Highlands,
+about 40% is available for timber
+----
+Source: 2.pdf
+Murphy, 1996).
+
+of
+
+the
+
+Victorian Wet Forests produce timber of high com-
+mercial value, and large areas are managed for timber
+approximately
+production. Currently,
+110,000 ha of Wet Forest in the Central Highlands,
+about 40% is available for timber harvesting (NRE,
+1998), principally by clearfelling (Squire et al., 1991).
+Low tree-fern numbers in Wet Forest regenerating
+after clearfelling has been reported in south-eastern
+Australia for several years (e.g. Harris, 1989; Mueck
+and Peacock,
+----
+Source: 2.pdf
+imber harvesting (NRE,
+1998), principally by clearfelling (Squire et al., 1991).
+Low tree-fern numbers in Wet Forest regenerating
+after clearfelling has been reported in south-eastern
+Australia for several years (e.g. Harris, 1989; Mueck
+and Peacock, 1992; Ough and Ross, 1992; Chester-
+ﬁeld, 1996; Murphy and Ough, 1997; Ough and
+Murphy, 1999; Ough, 2001). For the otherwise gen-
+erally common species D. antarctica and C. australis,
+this is likely to represent a considerable decline in
+localised
+----
+Source: 2.pdf
+k, 1992; Ough and Ross, 1992; Chester-
+ﬁeld, 1996; Murphy and Ough, 1997; Ough and
+Murphy, 1999; Ough, 2001). For the otherwise gen-
+erally common species D. antarctica and C. australis,
+this is likely to represent a considerable decline in
+localised abundance.
+
+decline in the number of tree-ferns within a single
+coupe (Spraggs) in Toolangi State Forest: 18% of the
+563 monitored tree-ferns survived to 1 year after
+harvesting, 14% survived to 2.5 years after harvesting,
+and 6% remained upright.
+----
+Source: 2.pdf
+ed abundance.
+
+decline in the number of tree-ferns within a single
+coupe (Spraggs) in Toolangi State Forest: 18% of the
+563 monitored tree-ferns survived to 1 year after
+harvesting, 14% survived to 2.5 years after harvesting,
+and 6% remained upright. The mechanical disturbance
+associated with clearfelling, and perhaps the high
+intensity slash-burn, appeared to be lethal
+to the
+majority of tree-ferns. Similar studies were subse-
+quently undertaken on a further ﬁve coupes, encom-
+passing a range
+----
+Source: 2.pdf
+t. The mechanical disturbance
+associated with clearfelling, and perhaps the high
+intensity slash-burn, appeared to be lethal
+to the
+majority of tree-ferns. Similar studies were subse-
+quently undertaken on a further ﬁve coupes, encom-
+passing a range of topographies, seasons and logging
+contractors. Here, we quantify the initial survival of
+tree-ferns on all six coupes.
+
+2. Methods
+
+2.1. The study area
+
+The study area is located between 50 and 80 km
+north east of Melbourne, in the Victorian
+----
+Source: 2.pdf
+range of topographies, seasons and logging
+contractors. Here, we quantify the initial survival of
+tree-ferns on all six coupes.
+
+2. Methods
+
+2.1. The study area
+
+The study area is located between 50 and 80 km
+north east of Melbourne, in the Victorian Central
+Highlands, south-eastern Australia (Fig. 1). A high
+proportion of this mountainous area supports Wet
+Forest, dominated by Eucalyptus regnans (Mountain
+Ash). The area experiences a cool temperate climate
+with mild summers and cool winters.
+----
+Source: 2.pdf
+ian Central
+Highlands, south-eastern Australia (Fig. 1). A high
+proportion of this mountainous area supports Wet
+Forest, dominated by Eucalyptus regnans (Mountain
+Ash). The area experiences a cool temperate climate
+with mild summers and cool winters. Average annual
+rainfall exceeds 1200 mm over most of the area. Soils
+are free draining, friable, brown gradational, have high
+water holding capacities, and have developed on a
+variety of volcanic parent rock materials.
+
+Fire is the major natural
+----
+Source: 2.pdf
+ers. Average annual
+rainfall exceeds 1200 mm over most of the area. Soils
+are free draining, friable, brown gradational, have high
+water holding capacities, and have developed on a
+variety of volcanic parent rock materials.
+
+Fire is the major natural disturbance associated with
+the study area. Several ﬁres have occurred within the
+study area over the past 150 years, the most extensive
+being in 1926 and 1939 (McHugh, 1991; Jeremiah and
+Roob, 1992).
+
+The study area is subject to intensive
+----
+Source: 2.pdf
+r natural disturbance associated with
+the study area. Several ﬁres have occurred within the
+study area over the past 150 years, the most extensive
+being in 1926 and 1939 (McHugh, 1991; Jeremiah and
+Roob, 1992).
+
+The study area is subject to intensive hardwood
+timber harvesting. Large-scale timber cutting, gener-
+ally selective harvesting, and sawmilling occurred in
+these forests in the latter part of the nineteenth and
+early twentieth centuries. Massive salvage operations
+followed major
+----
+Source: 2.pdf
+intensive hardwood
+timber harvesting. Large-scale timber cutting, gener-
+ally selective harvesting, and sawmilling occurred in
+these forests in the latter part of the nineteenth and
+early twentieth centuries. Massive salvage operations
+followed major wildﬁres, particularly the extensive
+1939 ﬁres. Since the 1960s, clearfelling has been the
+major silvicultural system practised (Squire et al.,
+1991).
+
+2.2. The study sites
+
+In the ﬁrst quantiﬁed study of tree-fern survival
+after clearfelling in
+----
+Source: 2.pdf
+ajor wildﬁres, particularly the extensive
+1939 ﬁres. Since the 1960s, clearfelling has been the
+major silvicultural system practised (Squire et al.,
+1991).
+
+2.2. The study sites
+
+In the ﬁrst quantiﬁed study of tree-fern survival
+after clearfelling in the Victorian Central Highlands,
+Ough and Murphy (1996) reported a substantial
+
+Tree-fern survival was monitored within six coupes
+(Fig. 1, Table 1). The vegetation prior to clearfelling
+
+K. Ough, A. Murphy / Forest Ecology and Management 199
+----
+Source: 2.pdf
+ing in the Victorian Central Highlands,
+Ough and Murphy (1996) reported a substantial
+
+Tree-fern survival was monitored within six coupes
+(Fig. 1, Table 1). The vegetation prior to clearfelling
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+155
+
+Fig. 1. Location of study coupes within the Victorian Central Highlands.
+
+was similar in structure and composition within all
+coupes. All sites were dominated by E. regnans
+(Mountain Ash), with a tall understorey tree
+----
+Source: 2.pdf
+agement 199 (2004) 153–163
+
+155
+
+Fig. 1. Location of study coupes within the Victorian Central Highlands.
+
+was similar in structure and composition within all
+coupes. All sites were dominated by E. regnans
+(Mountain Ash), with a tall understorey tree stratum
+of Acacia dealbata (Silver Wattle), Acacia frigescens
+(Frosted Wattle) or Acacia melanoxylon (Blackwood).
+Understorey shrubs included combinations of Poma-
+derris aspera (Hazel Pomaderris), Olearia argophylla
+(Musk Daisy-bush), Olearia
+----
+Source: 2.pdf
+y tree stratum
+of Acacia dealbata (Silver Wattle), Acacia frigescens
+(Frosted Wattle) or Acacia melanoxylon (Blackwood).
+Understorey shrubs included combinations of Poma-
+derris aspera (Hazel Pomaderris), Olearia argophylla
+(Musk Daisy-bush), Olearia phlogopappa (Dusty
+Daisy-bush), Bedfordia arborescens (Blanket-leaf),
+Cassinia aculeata (Common Cassinia), Hedycarya
+
+angustifolia (Austral Mulberry), Polyscias sambuci-
+folia (Elderberry Panax), Coprosma quadriﬁda
+(Prickly Currant-bush), Correa
+----
+Source: 2.pdf
+aria phlogopappa (Dusty
+Daisy-bush), Bedfordia arborescens (Blanket-leaf),
+Cassinia aculeata (Common Cassinia), Hedycarya
+
+angustifolia (Austral Mulberry), Polyscias sambuci-
+folia (Elderberry Panax), Coprosma quadriﬁda
+(Prickly Currant-bush), Correa lawrenciana (Moun-
+tain Correa) and Zieria arborescens (Stinkwood). All
+coupes supported a low to moderate cover of the tree-
+ferns D. antarctica and C. australis (canopy cover of
+5–50%, which is typical for this region). The ground
+stratum
+----
+Source: 2.pdf
+), Correa lawrenciana (Moun-
+tain Correa) and Zieria arborescens (Stinkwood). All
+coupes supported a low to moderate cover of the tree-
+ferns D. antarctica and C. australis (canopy cover of
+5–50%, which is typical for this region). The ground
+stratum consisted of varying proportions of Histiop-
+teris incisa (Bat’s Wing Fern), Polystichum proliferum
+(Mother Shield-fern), Blechnum spp. (Water-ferns),
+
+Table 1
+Site characteristics for coupes assessed for tree-fern survival after
+----
+Source: 2.pdf
+. The ground
+stratum consisted of varying proportions of Histiop-
+teris incisa (Bat’s Wing Fern), Polystichum proliferum
+(Mother Shield-fern), Blechnum spp. (Water-ferns),
+
+Table 1
+Site characteristics for coupes assessed for tree-fern survival after clearfelling
+
+Coupe
+
+State forest
+
+Elevation (m)
+
+Spraggs
+Sylvia Ck
+Hardys Ck
+Olsens Rd East
+Block 4
+Midway Knob
+
+Toolangi
+Toolangi
+Toolangi
+Marysville
+Toolangi
+Toolangi
+
+600
+650
+800
+870
+780
+800
+
+Aspect
+
+S
+SW
+E
+NW
+E
+NW–NE
+
+Slope
+
+No. of
+----
+Source: 2.pdf
+urvival after clearfelling
+
+Coupe
+
+State forest
+
+Elevation (m)
+
+Spraggs
+Sylvia Ck
+Hardys Ck
+Olsens Rd East
+Block 4
+Midway Knob
+
+Toolangi
+Toolangi
+Toolangi
+Marysville
+Toolangi
+Toolangi
+
+600
+650
+800
+870
+780
+800
+
+Aspect
+
+S
+SW
+E
+NW
+E
+NW–NE
+
+Slope
+
+No. of plots
+
+Gentle
+Gentle
+Moderate to steep
+Gentle
+Moderate
+Moderate to steep
+
+5
+4
+3
+4
+4
+3
+
+156
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+Table 2
+Harvesting information for coupes assessed for tree-fern
+----
+Source: 2.pdf
+NW–NE
+
+Slope
+
+No. of plots
+
+Gentle
+Gentle
+Moderate to steep
+Gentle
+Moderate
+Moderate to steep
+
+5
+4
+3
+4
+4
+3
+
+156
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+Table 2
+Harvesting information for coupes assessed for tree-fern survival
+
+Coupe
+
+Spraggs
+Sylvia Ck
+
+Hardys Ck
+Olsens Rd East
+Block 4
+Midway Knob
+
+Coupe size (ha)
+
+Harvesting dates
+
+Seedbed preparation type
+
+Seedbed preparation date
+
+12
+12
+
+25
+8
+18
+20
+
+October 1991–January 1992
+December 1992–November
+----
+Source: 2.pdf
+for tree-fern survival
+
+Coupe
+
+Spraggs
+Sylvia Ck
+
+Hardys Ck
+Olsens Rd East
+Block 4
+Midway Knob
+
+Coupe size (ha)
+
+Harvesting dates
+
+Seedbed preparation type
+
+Seedbed preparation date
+
+12
+12
+
+25
+8
+18
+20
+
+October 1991–January 1992
+December 1992–November 1993
+
+January 1992–March 1995
+March 1994–January 1995
+March 1994–March 1996
+January 1996–January 1997
+
+Slash-burn
+Part slash-burn,
+part mechanical disturbance
+Slash-burn
+Slash-burn
+Slash-burn
+Slash-burn
+
+20/03/1992
+14/03/1993 (SB), 05/1993
+----
+Source: 2.pdf
+2–November 1993
+
+January 1992–March 1995
+March 1994–January 1995
+March 1994–March 1996
+January 1996–January 1997
+
+Slash-burn
+Part slash-burn,
+part mechanical disturbance
+Slash-burn
+Slash-burn
+Slash-burn
+Slash-burn
+
+20/03/1992
+14/03/1993 (SB), 05/1993 and
+11/1993 (MD)
+17/03/1995
+23/03/1995
+27/03/1996
+27/03/1996 and 18/03/1997
+
+Pteridium esculentum (Austral Bracken), Dianella
+tasmanica (Tasman Flax-lily), Lepidosperma elatius
+(Tall Sword-sedge) and Tetrarrhena juncea (Forest
+Wire-grass), usually
+----
+Source: 2.pdf
+93 and
+11/1993 (MD)
+17/03/1995
+23/03/1995
+27/03/1996
+27/03/1996 and 18/03/1997
+
+Pteridium esculentum (Austral Bracken), Dianella
+tasmanica (Tasman Flax-lily), Lepidosperma elatius
+(Tall Sword-sedge) and Tetrarrhena juncea (Forest
+Wire-grass), usually forming a moderate to dense
+cover.
+
+All study coupes had been burned in the 1939
+wildﬁres, and the majority of eucalypts present origi-
+nated from that time. Widespread salvage logging
+during the 10 years following these ﬁres may have
+modiﬁed the
+----
+Source: 2.pdf
+lly forming a moderate to dense
+cover.
+
+All study coupes had been burned in the 1939
+wildﬁres, and the majority of eucalypts present origi-
+nated from that time. Widespread salvage logging
+during the 10 years following these ﬁres may have
+modiﬁed the understorey.
+
+The study coupes were clearfell harvested between
+1991 and 1997 (Table 2), using standard clearfelling
+procedures for this area. Generally, ﬁxed track D6
+bulldozers were used for main snig track and landing
+construction, and clearing
+----
+Source: 2.pdf
+he understorey.
+
+The study coupes were clearfell harvested between
+1991 and 1997 (Table 2), using standard clearfelling
+procedures for this area. Generally, ﬁxed track D6
+bulldozers were used for main snig track and landing
+construction, and clearing understorey surrounding
+eucalypts that were to be manually felled. Rubber-
+tyred skidders were used for snigging logs and exca-
+vators debarked, stacked and loaded logs on the land-
+ing. After harvesting was completed, logging slash
+was burnt and
+----
+Source: 2.pdf
+ing understorey surrounding
+eucalypts that were to be manually felled. Rubber-
+tyred skidders were used for snigging logs and exca-
+vators debarked, stacked and loaded logs on the land-
+ing. After harvesting was completed, logging slash
+was burnt and eucalypt seed sown soon after.
+
+Mechanical soil disturbance is used as an alternative
+to slash-burning in Victorian Wet Forest (CNR, 1994),
+and a large proportion of the seedbed at Sylvia Ck was
+prepared using mechanical soil disturbance
+----
+Source: 2.pdf
+as burnt and eucalypt seed sown soon after.
+
+Mechanical soil disturbance is used as an alternative
+to slash-burning in Victorian Wet Forest (CNR, 1994),
+and a large proportion of the seedbed at Sylvia Ck was
+prepared using mechanical soil disturbance between
+burnt windrows. Three of the four plots at Sylvia Ck
+were seedbed prepared in this way; the remaining plot
+was slash-burnt.
+
+Four logging contractor teams were involved. Spraggs
+and Sylvia Ck were harvested by the same contractor,
+Hardys Ck
+----
+Source: 2.pdf
+e between
+burnt windrows. Three of the four plots at Sylvia Ck
+were seedbed prepared in this way; the remaining plot
+was slash-burnt.
+
+Four logging contractor teams were involved. Spraggs
+and Sylvia Ck were harvested by the same contractor,
+Hardys Ck and Midway Knob by another, and Olsens Rd
+East and Block 4 by a further two teams.
+
+2.3. Tree-fern survival
+
+2.3.1. Pre-harvest
+
+recorded before clearfelling. Young ferns with frond
+length less than 15 cm were not included. Tree-fern
+heights were
+----
+Source: 2.pdf
+Ck and Midway Knob by another, and Olsens Rd
+East and Block 4 by a further two teams.
+
+2.3. Tree-fern survival
+
+2.3.1. Pre-harvest
+
+recorded before clearfelling. Young ferns with frond
+length less than 15 cm were not included. Tree-fern
+heights were assigned to one of the following eight
+height-class categories: no trunk, 0–19 cm, 20–49 cm,
+50–99 cm, 100–149 cm, 150–199 cm, >200 cm and
+prostrate.
+
+2.3.2. Survival 1 year after harvest
+
+Survival of tree-ferns on all plots was assessed 1
+year
+----
+Source: 2.pdf
+were assigned to one of the following eight
+height-class categories: no trunk, 0–19 cm, 20–49 cm,
+50–99 cm, 100–149 cm, 150–199 cm, >200 cm and
+prostrate.
+
+2.3.2. Survival 1 year after harvest
+
+Survival of tree-ferns on all plots was assessed 1
+year after clearfelling and seedbed preparation (here-
+after referred to as 1-year post-harvest). A tree-fern
+was judged as living if at least one of its fronds was
+alive, or if there were signs of new frond formation
+within the apex.
+
+2.3.3.
+----
+Source: 2.pdf
+essed 1
+year after clearfelling and seedbed preparation (here-
+after referred to as 1-year post-harvest). A tree-fern
+was judged as living if at least one of its fronds was
+alive, or if there were signs of new frond formation
+within the apex.
+
+2.3.3. Height-class vulnerability
+
+To indicate whether a particular size of tree-fern
+was particularly vulnerable to clearfelling, heights of
+tree-ferns which survived the harvest were assigned to
+height-class categories (as in pre-harvest assessment).
+A
+----
+Source: 2.pdf
+3. Height-class vulnerability
+
+To indicate whether a particular size of tree-fern
+was particularly vulnerable to clearfelling, heights of
+tree-ferns which survived the harvest were assigned to
+height-class categories (as in pre-harvest assessment).
+A ‘buried trunk’ category was added.
+
+2.3.4. Survival up to 6 years after harvesting
+
+As tree-fern death is often slow (Neyland, 1986),
+characterised by ever decreasing frond length and
+stem diameter (Seiler, 1981; Robin, 1985), the survi-
+val of
+----
+Source: 2.pdf
+t).
+A ‘buried trunk’ category was added.
+
+2.3.4. Survival up to 6 years after harvesting
+
+As tree-fern death is often slow (Neyland, 1986),
+characterised by ever decreasing frond length and
+stem diameter (Seiler, 1981; Robin, 1985), the survi-
+val of tree-ferns on each of the plots on two coupes
+(Spraggs and Sylvia Ck) was monitored for 6 and 4
+years, respectively, after clearfelling. Tree-ferns were
+individually tagged and their locations mapped after
+clearfelling to ensure accurate monitoring
+----
+Source: 2.pdf
+f tree-ferns on each of the plots on two coupes
+(Spraggs and Sylvia Ck) was monitored for 6 and 4
+years, respectively, after clearfelling. Tree-ferns were
+individually tagged and their locations mapped after
+clearfelling to ensure accurate monitoring in the dense
+forest regeneration.
+
+2.4. Trunk area
+
+The species and heights of
+
+tree-ferns within
+30 m (cid:2) 30 m plots located on study coupes were
+
+Prior to clearfelling, all tree-fern height and girth
+trunk dimensions were recorded within the
+----
+Source: 2.pdf
+ng in the dense
+forest regeneration.
+
+2.4. Trunk area
+
+The species and heights of
+
+tree-ferns within
+30 m (cid:2) 30 m plots located on study coupes were
+
+Prior to clearfelling, all tree-fern height and girth
+trunk dimensions were recorded within the plots at
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+157
+
+four coupes (Spraggs, Sylvia Ck, Hardys and Block 4)
+to give an indication of the extent of this substrate
+potentially available to epiphytes. Measurements
+----
+Source: 2.pdf
+hin the plots at
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+157
+
+four coupes (Spraggs, Sylvia Ck, Hardys and Block 4)
+to give an indication of the extent of this substrate
+potentially available to epiphytes. Measurements were
+recorded to the nearest centimetre. Girths were mea-
+sured at a height of 1 m or, for tree-ferns less than 1 m
+in height, at the apex of the caudex immediately below
+the living fronds. Trunks were approximated as cylin-
+ders and the total
+----
+Source: 2.pdf
+ements were
+recorded to the nearest centimetre. Girths were mea-
+sured at a height of 1 m or, for tree-ferns less than 1 m
+in height, at the apex of the caudex immediately below
+the living fronds. Trunks were approximated as cylin-
+ders and the total trunk surface area calculated for
+each plot.
+
+One year after clearfelling the trunk dimensions of
+all surviving tree-ferns were recorded and trunk sur-
+face areas were calculated. Trunks which had been
+buried during harvesting or lay on the ground
+----
+Source: 2.pdf
+al trunk surface area calculated for
+each plot.
+
+One year after clearfelling the trunk dimensions of
+all surviving tree-ferns were recorded and trunk sur-
+face areas were calculated. Trunks which had been
+buried during harvesting or lay on the ground were
+recorded as buried or prostrate, respectively. If trunks
+lay partly buried and partly prostrate they were cate-
+gorised according to the position of the majority of the
+trunk. All prostrate trunks were measured and
+included in calculations of
+----
+Source: 2.pdf
+nd were
+recorded as buried or prostrate, respectively. If trunks
+lay partly buried and partly prostrate they were cate-
+gorised according to the position of the majority of the
+trunk. All prostrate trunks were measured and
+included in calculations of total trunk surface area.
+Buried trunks were excluded from these calculations
+as they were considered no longer suitable as sub-
+strates for epiphytes.
+
+2.5. Analyses
+
+Tree-fern survival and trunk surface area data
+were analysed using Two-way
+----
+Source: 2.pdf
+ions of total trunk surface area.
+Buried trunks were excluded from these calculations
+as they were considered no longer suitable as sub-
+strates for epiphytes.
+
+2.5. Analyses
+
+Tree-fern survival and trunk surface area data
+were analysed using Two-way Repeated Measures
+Analysis of Variance (e.g. Looney and Stanley,
+1989). Abundance data were transformed to square
+root to conform with the assumptions of the analysis.
+For analysis of survival from year 1 to year 4 or 6 on
+
+Sylvia Ck and Spraggs, P
+----
+Source: 2.pdf
+y Repeated Measures
+Analysis of Variance (e.g. Looney and Stanley,
+1989). Abundance data were transformed to square
+root to conform with the assumptions of the analysis.
+For analysis of survival from year 1 to year 4 or 6 on
+
+Sylvia Ck and Spraggs, P values were Greenhouse-
+Geisser adjusted.
+
+3. Results
+
+3.1. Tree-fern survival
+
+3.1.1. Survival 1 year after clearfelling
+
+The number of tree-ferns on all 23 plots decreased
+from pre-harvest to 1-year post-harvest. Overall, 16%
+of the 2391
+----
+Source: 2.pdf
+Spraggs, P values were Greenhouse-
+Geisser adjusted.
+
+3. Results
+
+3.1. Tree-fern survival
+
+3.1.1. Survival 1 year after clearfelling
+
+The number of tree-ferns on all 23 plots decreased
+from pre-harvest to 1-year post-harvest. Overall, 16%
+of the 2391 tree-ferns monitored remained alive 1 year
+after the coupes were clearfelled (Table 3). The
+decline was signiﬁcant on all coupes (P < 0:001 for
+D. antarctica, C. australis and combined tree-ferns).
+For D. antarctica and tree-fern species combined,
+----
+Source: 2.pdf
+91 tree-ferns monitored remained alive 1 year
+after the coupes were clearfelled (Table 3). The
+decline was signiﬁcant on all coupes (P < 0:001 for
+D. antarctica, C. australis and combined tree-ferns).
+For D. antarctica and tree-fern species combined, this
+pre-post-harvest difference was consistent between
+coupes. For C. australis, the pre-post-harvest differ-
+ences were
+coupes
+consistent
+(P < 0:001), but still signiﬁcant overall.
+
+between
+
+not
+
+Survival of D. antarctica on individual plots to
+----
+Source: 2.pdf
+ed, this
+pre-post-harvest difference was consistent between
+coupes. For C. australis, the pre-post-harvest differ-
+ences were
+coupes
+consistent
+(P < 0:001), but still signiﬁcant overall.
+
+between
+
+not
+
+Survival of D. antarctica on individual plots to 1
+year after clearfelling ranged from no survivors
+to 42% survival. Survival also varied between coupes:
+combined plots
+indicated
+10% survival, on Hardys Ck 23% survival (Table 3).
+Overall, D. antarctica survival averaged 17% after 1
+year.
+
+at
+----
+Source: 2.pdf
+ots to 1
+year after clearfelling ranged from no survivors
+to 42% survival. Survival also varied between coupes:
+combined plots
+indicated
+10% survival, on Hardys Ck 23% survival (Table 3).
+Overall, D. antarctica survival averaged 17% after 1
+year.
+
+at Olsens Rd East
+
+C. australis occurred less commonly at the study
+sites, with substantial numbers only at Spraggs and
+Sylvia Ck. Survival of C. australis at these two sites 1
+
+Table 3
+Survival of tree-ferns from pre-harvest to 1 year post-harvest
+----
+Source: 2.pdf
+at Olsens Rd East
+
+C. australis occurred less commonly at the study
+sites, with substantial numbers only at Spraggs and
+Sylvia Ck. Survival of C. australis at these two sites 1
+
+Table 3
+Survival of tree-ferns from pre-harvest to 1 year post-harvest (plots combined for each coupe)
+
+Coupe
+
+Number of individuals
+
+D. antarctica
+
+C. australis
+
+Total tree-ferns
+
+Pre-harvest
+
+Post-harvest %a
+
+Pre-harvest
+
+Post-harvest %a
+
+Pre-harvest
+
+Post-harvest %a
+
+Spraggs
+Sylvia Ckb
+Sylvia Ckc
+Hardys Ck
+Olsens
+----
+Source: 2.pdf
+est (plots combined for each coupe)
+
+Coupe
+
+Number of individuals
+
+D. antarctica
+
+C. australis
+
+Total tree-ferns
+
+Pre-harvest
+
+Post-harvest %a
+
+Pre-harvest
+
+Post-harvest %a
+
+Pre-harvest
+
+Post-harvest %a
+
+Spraggs
+Sylvia Ckb
+Sylvia Ckc
+Hardys Ck
+Olsens Rd East
+Block 4
+Midway Knob
+
+343
+147
+100
+381
+362
+369
+193
+
+59
+34
+3
+88
+37
+62
+35
+
+Total
+
+1895
+
+320
+
+a Percent remaining post-harvesting.
+b Slash-burnt plot.
+c Mechanically seedbed prepared
+----
+Source: 2.pdf
+Post-harvest %a
+
+Spraggs
+Sylvia Ckb
+Sylvia Ckc
+Hardys Ck
+Olsens Rd East
+Block 4
+Midway Knob
+
+343
+147
+100
+381
+362
+369
+193
+
+59
+34
+3
+88
+37
+62
+35
+
+Total
+
+1895
+
+320
+
+a Percent remaining post-harvesting.
+b Slash-burnt plot.
+c Mechanically seedbed prepared plots.
+
+17
+23
+3
+23
+10
+17
+18
+
+17
+
+220
+42
+210
+8
+0
+8
+8
+
+496
+
+42
+8
+1
+0
+0
+0
+1
+
+52
+
+19
+19
+
+0.5
+0
+
+0
+13
+
+11
+
+563
+189
+310
+389
+362
+377
+201
+
+2391
+
+101
+42
+4
+88
+37
+62
+36
+
+372
+
+18
+22
+1
+23
+10
+16
+18
+
+16
+
+158
+
+K. Ough, A. Murphy / Forest Ecology and Management
+----
+Source: 2.pdf
+ared plots.
+
+17
+23
+3
+23
+10
+17
+18
+
+17
+
+220
+42
+210
+8
+0
+8
+8
+
+496
+
+42
+8
+1
+0
+0
+0
+1
+
+52
+
+19
+19
+
+0.5
+0
+
+0
+13
+
+11
+
+563
+189
+310
+389
+362
+377
+201
+
+2391
+
+101
+42
+4
+88
+37
+62
+36
+
+372
+
+18
+22
+1
+23
+10
+16
+18
+
+16
+
+158
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+year after clearfelling was 19 and 4%, respectively.
+Overall 11% of C. australis survived to 1 year after
+harvest, a slightly lower rate than the survival of D.
+antarctica.
+
+The survival rates of tree-ferns on the three plots
+----
+Source: 2.pdf
+ment 199 (2004) 153–163
+
+year after clearfelling was 19 and 4%, respectively.
+Overall 11% of C. australis survived to 1 year after
+harvest, a slightly lower rate than the survival of D.
+antarctica.
+
+The survival rates of tree-ferns on the three plots at
+Sylvia Ck subjected to mechanical seedbed prepara-
+tion were very low: 0, 1 and 2% of tree-ferns survived
+to 1-year after clearfelling. These were amongst the
+lowest rates recorded. Two slash-burnt plots, both on
+different coupes, recorded
+----
+Source: 2.pdf
+e plots at
+Sylvia Ck subjected to mechanical seedbed prepara-
+tion were very low: 0, 1 and 2% of tree-ferns survived
+to 1-year after clearfelling. These were amongst the
+lowest rates recorded. Two slash-burnt plots, both on
+different coupes, recorded survival rates of 3% or
+lower.
+
+Although young tree-ferns of frond length less than
+15 cm were not monitored for survival, none were
+observed to survive clearfelling operations.
+
+3.1.2. Height-class vulnerability
+
+The number of tree-ferns in all
+----
+Source: 2.pdf
+rded survival rates of 3% or
+lower.
+
+Although young tree-ferns of frond length less than
+15 cm were not monitored for survival, none were
+observed to survive clearfelling operations.
+
+3.1.2. Height-class vulnerability
+
+The number of tree-ferns in all upright height
+classes declined after clearfelling (Fig. 2). Decline
+in number was proportionally greatest
+in height
+classes above 150 cm (99% for
+tree-ferns 150–
+200 cm tall and taller than 200 cm), although the
+decline was greater than 90% in all
+----
+Source: 2.pdf
+l upright height
+classes declined after clearfelling (Fig. 2). Decline
+in number was proportionally greatest
+in height
+classes above 150 cm (99% for
+tree-ferns 150–
+200 cm tall and taller than 200 cm), although the
+decline was greater than 90% in all height classes.
+
+Overall, 5% of tree-ferns in plots pre-harvest remained
+in an upright position 1-year post-harvest. The number
+of prostrate and buried living tree-fern trunks
+increased substantially after clearfelling.
+
+3.1.3. Survival up to 6
+----
+Source: 2.pdf
+n all height classes.
+
+Overall, 5% of tree-ferns in plots pre-harvest remained
+in an upright position 1-year post-harvest. The number
+of prostrate and buried living tree-fern trunks
+increased substantially after clearfelling.
+
+3.1.3. Survival up to 6 years after harvesting
+
+Of the tree-ferns that initially survived clearfelling,
+many did not survive the following few years. Survival
+rates at Spraggs fell from 17% for D. antarctica 1-year
+post-harvest, to 10% 6 years after harvesting. At
+Sylvia
+----
+Source: 2.pdf
+6 years after harvesting
+
+Of the tree-ferns that initially survived clearfelling,
+many did not survive the following few years. Survival
+rates at Spraggs fell from 17% for D. antarctica 1-year
+post-harvest, to 10% 6 years after harvesting. At
+Sylvia Ck survival rates for D. antarctica fell from
+15 to 12% after 4 years. A greater decline was
+observed for C. australis: at Spraggs survival fell from
+19 to 7% from 1 to 6 years after clearfelling, and from
+4 to 1% from 1 to 4 years after
+----
+Source: 2.pdf
+g. At
+Sylvia Ck survival rates for D. antarctica fell from
+15 to 12% after 4 years. A greater decline was
+observed for C. australis: at Spraggs survival fell from
+19 to 7% from 1 to 6 years after clearfelling, and from
+4 to 1% from 1 to 4 years after clearfelling at Sylvia
+Ck. This decline in survivors from 1 year to 4 or 6
+years was signiﬁcant for C. australis (P ¼ 0:007) and
+combined tree-ferns (P ¼ 0:002), but not signiﬁcant
+for D. antarctica (P ¼ 0:177).
+
+Overall, 67% of D. antarctica
+----
+Source: 2.pdf
+s after clearfelling at Sylvia
+Ck. This decline in survivors from 1 year to 4 or 6
+years was signiﬁcant for C. australis (P ¼ 0:007) and
+combined tree-ferns (P ¼ 0:002), but not signiﬁcant
+for D. antarctica (P ¼ 0:177).
+
+Overall, 67% of D. antarctica surviving to 1-year
+post-harvest were still alive after 4 or 6 years, whereas
+only 35% of C. australis survived this period (Fig. 3).
+
+Fig. 2. Total number of tree-ferns in each height-class pre-harvest and 1 year post-harvest (23 plots across 6
+----
+Source: 2.pdf
+tica surviving to 1-year
+post-harvest were still alive after 4 or 6 years, whereas
+only 35% of C. australis survived this period (Fig. 3).
+
+Fig. 2. Total number of tree-ferns in each height-class pre-harvest and 1 year post-harvest (23 plots across 6 coupes combined, although it
+should be noted that the original population demography varied between plots and between coupes).
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+159
+
+Fig. 3. Number of tree-ferns alive on
+----
+Source: 2.pdf
+cross 6 coupes combined, although it
+should be noted that the original population demography varied between plots and between coupes).
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+159
+
+Fig. 3. Number of tree-ferns alive on combined plots at Spraggs and Sylvia Ck pre-harvest, 1 year and 4 or 6 years after harvest (4 years at
+Sylvia Ck, 6 years at Spraggs).
+
+In total, 56% of tree-ferns surviving to 1 year after
+harvesting survived the next few years.
+
+This additional
+----
+Source: 2.pdf
+on combined plots at Spraggs and Sylvia Ck pre-harvest, 1 year and 4 or 6 years after harvest (4 years at
+Sylvia Ck, 6 years at Spraggs).
+
+In total, 56% of tree-ferns surviving to 1 year after
+harvesting survived the next few years.
+
+This additional mortality was spread across upright,
+prostrate and buried tree-ferns (Table 4). Buried tree-
+ferns, despite a slightly higher survival rate than either
+upright or prostrate tree-ferns, were in the poorest
+health, with many producing only one or two
+----
+Source: 2.pdf
+l mortality was spread across upright,
+prostrate and buried tree-ferns (Table 4). Buried tree-
+ferns, despite a slightly higher survival rate than either
+upright or prostrate tree-ferns, were in the poorest
+health, with many producing only one or two very
+short fronds which decreased in size annually.
+
+3.2. Trunk area
+
+The surface area of tree-fern trunks decreased sig-
+niﬁcantly after clearfelling on all coupes (P < 0:001
+for D. antarctica and for C. australis; Table 5). The
+decline within
+----
+Source: 2.pdf
+r two very
+short fronds which decreased in size annually.
+
+3.2. Trunk area
+
+The surface area of tree-fern trunks decreased sig-
+niﬁcantly after clearfelling on all coupes (P < 0:001
+for D. antarctica and for C. australis; Table 5). The
+decline within individual plots ranged from 74 to
+100% loss. Combined plots within coupes revealed
+losses of 87–96% of the original trunk surface area
+
+Table 4
+Trunk orientation of live tree-ferns on Spraggs and Sylvia Ck pre-harvest, 1 year and 4 or 6 yearsa
+----
+Source: 2.pdf
+ithin individual plots ranged from 74 to
+100% loss. Combined plots within coupes revealed
+losses of 87–96% of the original trunk surface area
+
+Table 4
+Trunk orientation of live tree-ferns on Spraggs and Sylvia Ck pre-harvest, 1 year and 4 or 6 yearsa after harvest (plots and coupes combined)
+
+Trunk orientation
+
+Number of tree-ferns
+
+Pre-harvest
+
+Post-harvest (year 1)
+
+Post-harvest (year 4 or 6)a
+
+Survival (year 1 to year 4 or 6)a (%)
+
+Upright
+Prostrate
+Buried
+
+1060
+2
+0
+
+35
+42
+70
+
+a Four years
+----
+Source: 2.pdf
+rsa after harvest (plots and coupes combined)
+
+Trunk orientation
+
+Number of tree-ferns
+
+Pre-harvest
+
+Post-harvest (year 1)
+
+Post-harvest (year 4 or 6)a
+
+Survival (year 1 to year 4 or 6)a (%)
+
+Upright
+Prostrate
+Buried
+
+1060
+2
+0
+
+35
+42
+70
+
+a Four years at Sylvia Ck, 6 years at Spraggs.
+
+19
+21
+42
+
+54
+50
+60
+
+Table 5
+Tree-fern trunk surface area (m2) pre-harvest and 1 year post-harvest (plots combined for each coupe)
+
+Coupe
+
+D. antarctica
+
+C. australis
+
+Total
+----
+Source: 2.pdf
+e
+Buried
+
+1060
+2
+0
+
+35
+42
+70
+
+a Four years at Sylvia Ck, 6 years at Spraggs.
+
+19
+21
+42
+
+54
+50
+60
+
+Table 5
+Tree-fern trunk surface area (m2) pre-harvest and 1 year post-harvest (plots combined for each coupe)
+
+Coupe
+
+D. antarctica
+
+C. australis
+
+Total tree-ferns
+
+Pre-harvest
+
+Post-harvest
+
+Spraggs
+Sylvia Ck
+Hardys Ck
+Block 4
+
+Total
+
+106
+80
+133
+99
+
+418
+
+13
+6
+18
+11
+
+48
+
+a Percent remaining
+----
+Source: 2.pdf
+pre-harvest and 1 year post-harvest (plots combined for each coupe)
+
+Coupe
+
+D. antarctica
+
+C. australis
+
+Total tree-ferns
+
+Pre-harvest
+
+Post-harvest
+
+Spraggs
+Sylvia Ck
+Hardys Ck
+Block 4
+
+Total
+
+106
+80
+133
+99
+
+418
+
+13
+6
+18
+11
+
+48
+
+a Percent remaining post-harvest.
+
+%a
+
+12
+8
+13
+11
+
+12
+
+Pre-harvest
+
+Post-harvest
+
+%a
+
+Pre-harvest
+
+Post-harvest
+
+116
+118
+1
+2
+
+237
+
+11
+2
+0
+0
+
+13
+
+9
+2
+0
+0
+
+5
+
+222
+198
+134
+101
+
+655
+
+24
+8
+18
+11
+
+61
+
+%a
+
+11
+4
+13
+11
+
+9
+
+160
+
+K. Ough, A. Murphy / Forest Ecology and
+----
+Source: 2.pdf
+remaining post-harvest.
+
+%a
+
+12
+8
+13
+11
+
+12
+
+Pre-harvest
+
+Post-harvest
+
+%a
+
+Pre-harvest
+
+Post-harvest
+
+116
+118
+1
+2
+
+237
+
+11
+2
+0
+0
+
+13
+
+9
+2
+0
+0
+
+5
+
+222
+198
+134
+101
+
+655
+
+24
+8
+18
+11
+
+61
+
+%a
+
+11
+4
+13
+11
+
+9
+
+160
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+(Table 5). Overall, 9% of the pre-harvest trunk surface
+area remained on the plots after clearfelling.
+
+4. Discussion
+
+Tree-ferns declined signiﬁcantly in abundance after
+clearfell harvesting operations. Across the
+----
+Source: 2.pdf
+and Management 199 (2004) 153–163
+
+(Table 5). Overall, 9% of the pre-harvest trunk surface
+area remained on the plots after clearfelling.
+
+4. Discussion
+
+Tree-ferns declined signiﬁcantly in abundance after
+clearfell harvesting operations. Across the six study
+coupes, 16% of the tree-ferns on 23 monitored plots
+remained alive 1 year after seedbed preparation. The
+survival rate was slightly higher for D. antarctica
+(17%) than for C. australis (11%). Only 5% of the
+monitored trunked tree-ferns
+----
+Source: 2.pdf
+the six study
+coupes, 16% of the tree-ferns on 23 monitored plots
+remained alive 1 year after seedbed preparation. The
+survival rate was slightly higher for D. antarctica
+(17%) than for C. australis (11%). Only 5% of the
+monitored trunked tree-ferns remained upright; other
+survivors had trunks buried or lying prostrate. In
+contrast, in adjacent unharvested forest no tree-fern
+mortality was observed (personal observations), and
+Ough and Murphy (1996) recorded no natural mor-
+tality in monitored
+----
+Source: 2.pdf
+s remained upright; other
+survivors had trunks buried or lying prostrate. In
+contrast, in adjacent unharvested forest no tree-fern
+mortality was observed (personal observations), and
+Ough and Murphy (1996) recorded no natural mor-
+tality in monitored tree-ferns over a 2.5-year period.
+Tree-fern mortality was still increasing up to 6 years
+after clearfell harvesting, particularly for C. australis.
+Almost 65% of the individuals of C. australis remain-
+ing alive 1 year after clearfelling died
+----
+Source: 2.pdf
+itored tree-ferns over a 2.5-year period.
+Tree-fern mortality was still increasing up to 6 years
+after clearfell harvesting, particularly for C. australis.
+Almost 65% of the individuals of C. australis remain-
+ing alive 1 year after clearfelling died within the
+following 3–5 years. Thirty-three percent of surviving
+D. antarctica died within the same period. For some
+the observed combination of
+surviving tree-ferns,
+declining annual frond production (down to 1–3
+fronds) and decreasing frond
+----
+Source: 2.pdf
+g died within the
+following 3–5 years. Thirty-three percent of surviving
+D. antarctica died within the same period. For some
+the observed combination of
+surviving tree-ferns,
+declining annual frond production (down to 1–3
+fronds) and decreasing frond length (to less than
+10 cm; Ough and Murphy, unpublished data), suggests
+that mortality will continue to increase, even now that
+the canopy has closed. A slow death is characteristic of
+tree-ferns (Robin, 1985; Neyland, 1986) and high-
+lights the
+----
+Source: 2.pdf
+ond length (to less than
+10 cm; Ough and Murphy, unpublished data), suggests
+that mortality will continue to increase, even now that
+the canopy has closed. A slow death is characteristic of
+tree-ferns (Robin, 1985; Neyland, 1986) and high-
+lights the need for longer term monitoring to deter-
+mine the true impacts of disturbance. In the case of
+tree-ferns,
+initial survival rates are not a reliable
+indication of the full impact of timber harvesting.
+
+These results indicate that the post-harvest
+----
+Source: 2.pdf
+the need for longer term monitoring to deter-
+mine the true impacts of disturbance. In the case of
+tree-ferns,
+initial survival rates are not a reliable
+indication of the full impact of timber harvesting.
+
+These results indicate that the post-harvest survival
+of tree-ferns on Spraggs coupe, reported by Ough and
+Murphy (1996), was typical of the impact of clearfell
+harvesting and slash-burning on tree-ferns in this
+region. Results are likely to vary to some degree with
+factors such as
+----
+Source: 2.pdf
+post-harvest survival
+of tree-ferns on Spraggs coupe, reported by Ough and
+Murphy (1996), was typical of the impact of clearfell
+harvesting and slash-burning on tree-ferns in this
+region. Results are likely to vary to some degree with
+factors such as topography, understorey and eucalypt
+density, and the methods of individual logging con-
+tractors. Survival rates at the Sylvia Ck plots, which
+were subjected to mechanical seedbed preparation,
+were particularly low (1% one year after
+----
+Source: 2.pdf
+factors such as topography, understorey and eucalypt
+density, and the methods of individual logging con-
+tractors. Survival rates at the Sylvia Ck plots, which
+were subjected to mechanical seedbed preparation,
+were particularly low (1% one year after harvesting),
+and may be attributable to the more severe physical
+disturbance in this area of the coupe. Further inves-
+tigation is required to conﬁrm the correlation between
+
+higher mortality and mechanical seedbed preparation,
+but it is likely
+----
+Source: 2.pdf
+after harvesting),
+and may be attributable to the more severe physical
+disturbance in this area of the coupe. Further inves-
+tigation is required to conﬁrm the correlation between
+
+higher mortality and mechanical seedbed preparation,
+but it is likely that any additional physical disturbance
+will disadvantage vegetatively resprouting species.
+
+Persistence of a species after disturbance relies
+upon survival or recruitment. Many Wet Forest under-
+storey species have no individuals that survive
+----
+Source: 2.pdf
+ikely that any additional physical disturbance
+will disadvantage vegetatively resprouting species.
+
+Persistence of a species after disturbance relies
+upon survival or recruitment. Many Wet Forest under-
+storey species have no individuals that survive clear-
+fell harvesting or high intensity wildﬁre (e.g. A.
+dealbata, P. aspera, Prostanthera lasianthos, C. acu-
+leata, personal observation). These species
+rely
+entirely on recruitment by seed germination. Other
+species rely heavily on resprouting
+----
+Source: 2.pdf
+ve clear-
+fell harvesting or high intensity wildﬁre (e.g. A.
+dealbata, P. aspera, Prostanthera lasianthos, C. acu-
+leata, personal observation). These species
+rely
+entirely on recruitment by seed germination. Other
+species rely heavily on resprouting vegetatively from
+propagules such as lignotubers or rhizomes, a very
+widespread trait in the plant kingdom (Wells, 1969;
+Keeley, 1991). Resprouting is an adaptation to wildﬁre
+and is common in naturally disturbed Wet Forest.
+Tree-ferns regenerate
+----
+Source: 2.pdf
+ing vegetatively from
+propagules such as lignotubers or rhizomes, a very
+widespread trait in the plant kingdom (Wells, 1969;
+Keeley, 1991). Resprouting is an adaptation to wildﬁre
+and is common in naturally disturbed Wet Forest.
+Tree-ferns regenerate after ﬁre by resprouting from
+a terminal bud within the ﬁbrous trunk. However,
+organs such as lignotubers, tree-fern trunks and rhi-
+zomes are frequently destroyed during clearfelling,
+often resulting in a lower abundance of the species
+adapted to
+----
+Source: 2.pdf
+te after ﬁre by resprouting from
+a terminal bud within the ﬁbrous trunk. However,
+organs such as lignotubers, tree-fern trunks and rhi-
+zomes are frequently destroyed during clearfelling,
+often resulting in a lower abundance of the species
+adapted to survive, rather than germinate following,
+natural disturbance (Harris, 1989; Ough and Ross,
+1992; Murphy and Ough, 1997; Ough and Murphy,
+1999; Ough, 2001). Hence resprouting species like
+tree-ferns are often much more common in
+----
+Source: 2.pdf
+he species
+adapted to survive, rather than germinate following,
+natural disturbance (Harris, 1989; Ough and Ross,
+1992; Murphy and Ough, 1997; Ough and Murphy,
+1999; Ough, 2001). Hence resprouting species like
+tree-ferns are often much more common in wildﬁre
+regeneration than in clearfell regrowth (Ough and
+Ross, 1992; Ough and Murphy, 1999; Ough, 2001).
+The distinction between post-ﬁre regenerative stra-
+tegies is an important one. A community consisting of
+mainly obligate seed regenerating
+----
+Source: 2.pdf
+n in wildﬁre
+regeneration than in clearfell regrowth (Ough and
+Ross, 1992; Ough and Murphy, 1999; Ough, 2001).
+The distinction between post-ﬁre regenerative stra-
+tegies is an important one. A community consisting of
+mainly obligate seed regenerating species may be
+expected to ﬂuctuate greatly in relative population sizes
+after ﬁre. By comparison, communities consisting of
+mainly resprouters will tend to remain quite constant
+(Lamont et al., 1999). For resprouting species, the rate
+----
+Source: 2.pdf
+d regenerating species may be
+expected to ﬂuctuate greatly in relative population sizes
+after ﬁre. By comparison, communities consisting of
+mainly resprouters will tend to remain quite constant
+(Lamont et al., 1999). For resprouting species, the rate of
+successful seedling recruitment into the population is
+often low (Keeley, 1986) and if populations of resprou-
+ters have been reduced in an area, for example, on a
+recently clearfelled coupe, their re-occupation of the site
+may be very slow.
+----
+Source: 2.pdf
+rate of
+successful seedling recruitment into the population is
+often low (Keeley, 1986) and if populations of resprou-
+ters have been reduced in an area, for example, on a
+recently clearfelled coupe, their re-occupation of the site
+may be very slow. Life-history characteristics of long
+life, slow growth and low rates of sexual recruitment are
+likely to lead to very long recovery periods, if recovery
+occurs at all (Meier et al., 1995).
+
+Although this study did not address recruitment
+----
+Source: 2.pdf
+e very slow. Life-history characteristics of long
+life, slow growth and low rates of sexual recruitment are
+likely to lead to very long recovery periods, if recovery
+occurs at all (Meier et al., 1995).
+
+Although this study did not address recruitment of
+tree-ferns post-harvesting, germination appears to be
+uncommon on clearfelled coupes in the Central High-
+lands of Victoria for at least a couple of decades
+(personal observation). Low rates of
+recruitment
+may reﬂect a combination of narrow
+----
+Source: 2.pdf
+itment of
+tree-ferns post-harvesting, germination appears to be
+uncommon on clearfelled coupes in the Central High-
+lands of Victoria for at least a couple of decades
+(personal observation). Low rates of
+recruitment
+may reﬂect a combination of narrow substrate or
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+161
+
+microclimatic requirements, limited dispersal capabil-
+ities and high mortality (Ashton, 1976; Peck et al.,
+1990; Unwin and Hunt, 1996). Additional studies
+----
+Source: 2.pdf
+row substrate or
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+161
+
+microclimatic requirements, limited dispersal capabil-
+ities and high mortality (Ashton, 1976; Peck et al.,
+1990; Unwin and Hunt, 1996). Additional studies are
+needed to assess whether, and why, the apparently low
+recruitment rate of tree-ferns in stands regenerating
+after clearfelling differs from recruitment rates in
+naturally disturbed forest.
+
+4.1. Implications of tree-fern decline for
+----
+Source: 2.pdf
+ional studies are
+needed to assess whether, and why, the apparently low
+recruitment rate of tree-ferns in stands regenerating
+after clearfelling differs from recruitment rates in
+naturally disturbed forest.
+
+4.1. Implications of tree-fern decline for other
+species
+
+An important implication of tree-fern decline is the
+impact on the many other species that rely on tree-fern
+trunks as substrate for germination or growth (see
+Ough and Murphy, 1996; Ashton, 2000). Several
+authors have reported
+----
+Source: 2.pdf
+ine for other
+species
+
+An important implication of tree-fern decline is the
+impact on the many other species that rely on tree-fern
+trunks as substrate for germination or growth (see
+Ough and Murphy, 1996; Ashton, 2000). Several
+authors have reported reduced occurrence or absence
+of epiphytic ferns after harvesting (e.g. Harris, 1989;
+Ough and Ross, 1992; Hickey, 1994). Tree-ferns
+greater than 1.5 m tall support epiphytic species much
+more commonly than smaller tree-ferns
+----
+Source: 2.pdf
+al
+authors have reported reduced occurrence or absence
+of epiphytic ferns after harvesting (e.g. Harris, 1989;
+Ough and Ross, 1992; Hickey, 1994). Tree-ferns
+greater than 1.5 m tall support epiphytic species much
+more commonly than smaller tree-ferns (personal
+observation). This study indicates that tree-ferns of
+this height were least likely to remain upright after
+clearfelling, with only 1% of individuals in height
+classes 150–199 cm and >200 cm remaining in an
+upright position. The greatest
+----
+Source: 2.pdf
+ns (personal
+observation). This study indicates that tree-ferns of
+this height were least likely to remain upright after
+clearfelling, with only 1% of individuals in height
+classes 150–199 cm and >200 cm remaining in an
+upright position. The greatest proportion of tree-ferns
+remaining upright were between 50 and 150 cm tall
+(approximately 8% of the original number). Monitor-
+ing is required to determine whether the current rota-
+tion length is sufﬁcient to allow these ferns to reach a
+size
+----
+Source: 2.pdf
+eatest proportion of tree-ferns
+remaining upright were between 50 and 150 cm tall
+(approximately 8% of the original number). Monitor-
+ing is required to determine whether the current rota-
+tion length is sufﬁcient to allow these ferns to reach a
+size suitable for colonisation by epiphytes. When
+considering strategies for maintaining populations
+of tree-ferns and epiphytic species on clearfelled
+tree-ferns remaining
+areas,
+upright should be a high priority.
+
+increased number of
+
+Other species
+----
+Source: 2.pdf
+size suitable for colonisation by epiphytes. When
+considering strategies for maintaining populations
+of tree-ferns and epiphytic species on clearfelled
+tree-ferns remaining
+areas,
+upright should be a high priority.
+
+increased number of
+
+Other species utilise tree-ferns for food or nest sites
+(see Ough and Murphy, 1996), or ﬁnd the moist,
+sheltered environment beneath the tree-fern canopy
+a suitable microclimate in which to reside. Studies are
+yet to establish whether populations of such
+----
+Source: 2.pdf
+r species utilise tree-ferns for food or nest sites
+(see Ough and Murphy, 1996), or ﬁnd the moist,
+sheltered environment beneath the tree-fern canopy
+a suitable microclimate in which to reside. Studies are
+yet to establish whether populations of such species,
+many of which are likely to be poorly studied inverte-
+brates and non-vascular plants, can be sustained in
+harvested areas after substantial declines in tree-fern
+abundance.
+
+In addition to the abundance of individual associated
+species,
+----
+Source: 2.pdf
+uch species,
+many of which are likely to be poorly studied inverte-
+brates and non-vascular plants, can be sustained in
+harvested areas after substantial declines in tree-fern
+abundance.
+
+In addition to the abundance of individual associated
+species, the functioning of ecosystems will undoubt-
+edly change with the decrease in abundance of tree-
+ferns. No other Wet Forest plants are physiognomically
+similar to tree-ferns. Moisture and temperature within
+
+the lower strata (including soil), light
+----
+Source: 2.pdf
+s, the functioning of ecosystems will undoubt-
+edly change with the decrease in abundance of tree-
+ferns. No other Wet Forest plants are physiognomically
+similar to tree-ferns. Moisture and temperature within
+
+the lower strata (including soil), light regimes, litter
+type and associated organisms and processes will
+inevitably alter. The maintenance of structural elements
+is fundamental to the maintenance of ecosystem pro-
+cesses (Lindenmayer and Franklin, 1997) and thus to
+ecologically
+----
+Source: 2.pdf
+oil), light regimes, litter
+type and associated organisms and processes will
+inevitably alter. The maintenance of structural elements
+is fundamental to the maintenance of ecosystem pro-
+cesses (Lindenmayer and Franklin, 1997) and thus to
+ecologically sustainable forest management.
+
+4.1.1. Implications for forest management
+
+Clearfell harvesting is common and widespread in
+in Victoria. For example, 60% of E.
+Wet Forest
+regnans dominated Wet Forest within central Victoria
+occurs in State forest,
+----
+Source: 2.pdf
+ly sustainable forest management.
+
+4.1.1. Implications for forest management
+
+Clearfell harvesting is common and widespread in
+in Victoria. For example, 60% of E.
+Wet Forest
+regnans dominated Wet Forest within central Victoria
+occurs in State forest, two-third of which is available
+for clearfell harvesting (NRE, 1998). Therefore, in
+intensively harvested areas, over time (say an 80-year
+rotation), the area modiﬁed by clearfelling will be
+substantial (up to 40% of this forest type), resulting
+----
+Source: 2.pdf
+est, two-third of which is available
+for clearfell harvesting (NRE, 1998). Therefore, in
+intensively harvested areas, over time (say an 80-year
+rotation), the area modiﬁed by clearfelling will be
+substantial (up to 40% of this forest type), resulting in
+a reduction in tree-fern populations and decline in the
+number of tall trunked tree-ferns available as substrate
+for other species. Given the long-lived, slow-growing
+nature of tree-ferns, and the apparently low recruit-
+ment rates, a major
+----
+Source: 2.pdf
+ulting in
+a reduction in tree-fern populations and decline in the
+number of tall trunked tree-ferns available as substrate
+for other species. Given the long-lived, slow-growing
+nature of tree-ferns, and the apparently low recruit-
+ment rates, a major structural change will occur in
+forests subject to this treatment.
+
+While tree-ferns are unlikely to become extinct in
+forests subjected to timber harvesting, it is clear that
+forestry operations have lead to changes in tree-fern
+abundance. Forest
+----
+Source: 2.pdf
+or structural change will occur in
+forests subject to this treatment.
+
+While tree-ferns are unlikely to become extinct in
+forests subjected to timber harvesting, it is clear that
+forestry operations have lead to changes in tree-fern
+abundance. Forest structure, especially in terms of the
+horizontal and vertical distribution of tree-ferns, and
+tree-fern size and age distribution, has also been
+changed. Such changes, if shown to be persistent,
+may contravene State and Federal strategies and
+----
+Source: 2.pdf
+Forest structure, especially in terms of the
+horizontal and vertical distribution of tree-ferns, and
+tree-fern size and age distribution, has also been
+changed. Such changes, if shown to be persistent,
+may contravene State and Federal strategies and poli-
+cies (e.g. Commonwealth of Australia, 1992a; Tech-
+nical Working Group on Forest Use and Management,
+1995; State of Victoria, 1997; DPIE, 1998). This is an
+interesting test case for ecologically sustainable forest
+management, in particular
+----
+Source: 2.pdf
+and poli-
+cies (e.g. Commonwealth of Australia, 1992a; Tech-
+nical Working Group on Forest Use and Management,
+1995; State of Victoria, 1997; DPIE, 1998). This is an
+interesting test case for ecologically sustainable forest
+management, in particular with respect to temporal
+and spatial scales over which policies should operate:
+what degree of change is acceptable, over what area,
+and for how long?
+
+Functionally, large-scale changes in common plant
+species are a cause for considerable concern
+----
+Source: 2.pdf
+lar with respect to temporal
+and spatial scales over which policies should operate:
+what degree of change is acceptable, over what area,
+and for how long?
+
+Functionally, large-scale changes in common plant
+species are a cause for considerable concern to forest
+managers because:
+
+(1) the impacts on a range of other biota are
+potentially extensive (particularly when the
+species is known as a source of food and habitat
+for many other species),
+
+(2) the effects of successive harvesting events may
+----
+Source: 2.pdf
+ern to forest
+managers because:
+
+(1) the impacts on a range of other biota are
+potentially extensive (particularly when the
+species is known as a source of food and habitat
+for many other species),
+
+(2) the effects of successive harvesting events may be
+cumulative (especially for slow-growing species),
+
+162
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+(3) there may be associated losses in genetic
+
+diversity, and
+
+(4) the functioning and health of the ecosystem
+----
+Source: 2.pdf
+ents may be
+cumulative (especially for slow-growing species),
+
+162
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+(3) there may be associated losses in genetic
+
+diversity, and
+
+(4) the functioning and health of the ecosystem may
+
+inevitably have been altered.
+
+Consequently,
+
+is desirable that management
+should ensure that common species remain common
+across their natural range (Loyn, 1985).
+
+it
+
+Modiﬁcations to clearfelling practices can be imple-
+mented that
+----
+Source: 2.pdf
+e ecosystem may
+
+inevitably have been altered.
+
+Consequently,
+
+is desirable that management
+should ensure that common species remain common
+across their natural range (Loyn, 1985).
+
+it
+
+Modiﬁcations to clearfelling practices can be imple-
+mented that ameliorate the decline in tree-fern popula-
+tions. Ough and Murphy (1996, 1998)
+suggest
+measures such as tree-fern reserves within coupes
+(‘Understorey Islands’), reducing the mechanically
+disturbed area within coupes, reducing the heaping
+of
+----
+Source: 2.pdf
+ed that ameliorate the decline in tree-fern popula-
+tions. Ough and Murphy (1996, 1998)
+suggest
+measures such as tree-fern reserves within coupes
+(‘Understorey Islands’), reducing the mechanically
+disturbed area within coupes, reducing the heaping
+of slash, reducing the intensity of slash-burns, and
+longer rotation periods to allow for trunk height growth
+to be sufﬁcient for epiphyte establishment. Franklin
+et al. (1997) suggest that in order to best conserve
+species, forest structure, age
+----
+Source: 2.pdf
+ing
+of slash, reducing the intensity of slash-burns, and
+longer rotation periods to allow for trunk height growth
+to be sufﬁcient for epiphyte establishment. Franklin
+et al. (1997) suggest that in order to best conserve
+species, forest structure, age structure and genetic
+diversity, a mix of dispersed and aggregated retention
+of vegetation be incorporated into forest management
+practices. Reserved tree-ferns could be aggregated (e.g.
+in Understorey Islands), with additional
+----
+Source: 2.pdf
+forest structure, age structure and genetic
+diversity, a mix of dispersed and aggregated retention
+of vegetation be incorporated into forest management
+practices. Reserved tree-ferns could be aggregated (e.g.
+in Understorey Islands), with additional individuals
+dispersed throughout
+the coupe. Similar guidelines
+for the retention of vegetation (usually including over-
+storey) are recommended in a variety of forests in
+North America (Franklin et al., 1997).
+
+While the primary focus of achieving
+----
+Source: 2.pdf
+al individuals
+dispersed throughout
+the coupe. Similar guidelines
+for the retention of vegetation (usually including over-
+storey) are recommended in a variety of forests in
+North America (Franklin et al., 1997).
+
+While the primary focus of achieving ecologically
+sustainable forest management is at the landscape or
+ecosystem level, modifying silvicultural practices at
+the coupe or stand level may help meet objectives at
+these broader scales (Roberts and Gilliam, 1995;
+Spies, 1997). Reducing
+----
+Source: 2.pdf
+eving ecologically
+sustainable forest management is at the landscape or
+ecosystem level, modifying silvicultural practices at
+the coupe or stand level may help meet objectives at
+these broader scales (Roberts and Gilliam, 1995;
+Spies, 1997). Reducing mortality of tree-ferns through
+the preservation of some populations within coupes,
+and lengthening rotations in some areas, is compatible
+with the maintenance of populations of species which
+are slow-growing or slow to recolonise. In the case
+----
+Source: 2.pdf
+ducing mortality of tree-ferns through
+the preservation of some populations within coupes,
+and lengthening rotations in some areas, is compatible
+with the maintenance of populations of species which
+are slow-growing or slow to recolonise. In the case of
+tree-fern decline, prevention is likely to be more
+effective as a management tool than cure.
+
+Acknowledgements
+
+We wish to thank Department of Sustainability and
+Environment (DSE) at Toolangi and Marysville for
+their co-operation. Michelle
+----
+Source: 2.pdf
+he case of
+tree-fern decline, prevention is likely to be more
+effective as a management tool than cure.
+
+Acknowledgements
+
+We wish to thank Department of Sustainability and
+Environment (DSE) at Toolangi and Marysville for
+their co-operation. Michelle Tumino assisted with
+the collection of ﬁeld data. Gerry Quinn (Monash
+University) gave statistical advice and performed
+
+statistical tests. Richard Loyn, Simon Murphy, Jenny
+Nelson, Mark Neyland, Ross Penny and Vivienne
+Turner provided valuable
+----
+Source: 2.pdf
+helle Tumino assisted with
+the collection of ﬁeld data. Gerry Quinn (Monash
+University) gave statistical advice and performed
+
+statistical tests. Richard Loyn, Simon Murphy, Jenny
+Nelson, Mark Neyland, Ross Penny and Vivienne
+Turner provided valuable comments on earlier drafts
+of this manuscript. This project was funded by Forests
+Service (DSE) Native Forest Research and Develop-
+ment program.
+
+References
+
+Ashton, D.H., 1976. The development of even-aged stands of
+Eucalyptus regnans F. Muell.
+----
+Source: 2.pdf
+ble comments on earlier drafts
+of this manuscript. This project was funded by Forests
+Service (DSE) Native Forest Research and Develop-
+ment program.
+
+References
+
+Ashton, D.H., 1976. The development of even-aged stands of
+Eucalyptus regnans F. Muell. in Central Victoria. Aust. J. Bot.
+24, 397–414.
+
+Ashton, D.H., 2000. The Big Ash forest, Wallaby Creek, Victoria:
+
+changes during one lifetime. Aust. J. Bot. 48, 1–26.
+
+Ashton, D.H., Attiwill, P.M., 1994. Tall open forests. In: Groves,
+R.H. (Ed.),
+----
+Source: 2.pdf
+l. in Central Victoria. Aust. J. Bot.
+24, 397–414.
+
+Ashton, D.H., 2000. The Big Ash forest, Wallaby Creek, Victoria:
+
+changes during one lifetime. Aust. J. Bot. 48, 1–26.
+
+Ashton, D.H., Attiwill, P.M., 1994. Tall open forests. In: Groves,
+R.H. (Ed.), Australian Vegetation. Cambridge University Press,
+Cambridge, pp. 157–196.
+
+Ashton, D.H., Bassett, O.D., 1997. The effects of foraging by the
+suberb lyrebird (Menura novae-hollandiae)
+in Eucalyptus
+regnans forests at Beenak, Victoria. Aust. J.
+----
+Source: 2.pdf
+(Ed.), Australian Vegetation. Cambridge University Press,
+Cambridge, pp. 157–196.
+
+Ashton, D.H., Bassett, O.D., 1997. The effects of foraging by the
+suberb lyrebird (Menura novae-hollandiae)
+in Eucalyptus
+regnans forests at Beenak, Victoria. Aust. J. Ecol. 22, 383–394.
+Ashton, D.H., Chinner, J.H., 1999. Problems of regeneration of the
+mature Eucalyptus regnans F. Muell (The Big Ash) forest, in
+the absence of ﬁre at Wallaby Creek, Victoria, Australia. Aust.
+For. 62, 265–280.
+
+Chesterﬁeld, E.A.,
+----
+Source: 2.pdf
+J. Ecol. 22, 383–394.
+Ashton, D.H., Chinner, J.H., 1999. Problems of regeneration of the
+mature Eucalyptus regnans F. Muell (The Big Ash) forest, in
+the absence of ﬁre at Wallaby Creek, Victoria, Australia. Aust.
+For. 62, 265–280.
+
+Chesterﬁeld, E.A., 1996. Changes in mixed forest after ﬁre and
+after clearfelling silviculture on the Errinundra Plateau. Flora
+and Fauna Technical Report No. 142. Department of Natural
+Resources and Environment, Victoria.
+
+CNR, 1994. Mechanical seedbed preparation
+----
+Source: 2.pdf
+A., 1996. Changes in mixed forest after ﬁre and
+after clearfelling silviculture on the Errinundra Plateau. Flora
+and Fauna Technical Report No. 142. Department of Natural
+Resources and Environment, Victoria.
+
+CNR, 1994. Mechanical seedbed preparation of logging coupes.
+Operational Guideline No. 2.3. MARDAG, Department of
+Conservation and Natural Resources, Victoria.
+
+Commonwealth of Australia, 1992a. National Forest Policy
+Statement: A New Focus for Australia’s Forests. Government
+Printer,
+----
+Source: 2.pdf
+ration of logging coupes.
+Operational Guideline No. 2.3. MARDAG, Department of
+Conservation and Natural Resources, Victoria.
+
+Commonwealth of Australia, 1992a. National Forest Policy
+Statement: A New Focus for Australia’s Forests. Government
+Printer, Canberra.
+
+Commonwealth of Australia, 1992b. National Strategy for
+Ecologically Sustainable Development. Commonwealth De-
+partment of Environment, Sport and Territories. Government
+Printer, Canberra.
+
+Commonwealth of Australia, 1996. The National
+----
+Source: 2.pdf
+er, Canberra.
+
+Commonwealth of Australia, 1992b. National Strategy for
+Ecologically Sustainable Development. Commonwealth De-
+partment of Environment, Sport and Territories. Government
+Printer, Canberra.
+
+Commonwealth of Australia, 1996. The National Strategy for the
+Conservation of Australia’s Biological Diversity. Common-
+wealth Department of Environment, Sport and Territories.
+Government Printer, Canberra.
+
+Cremer, K.W., Mount, A.B., 1965. Early stages of plant succession
+following the
+----
+Source: 2.pdf
+ational Strategy for the
+Conservation of Australia’s Biological Diversity. Common-
+wealth Department of Environment, Sport and Territories.
+Government Printer, Canberra.
+
+Cremer, K.W., Mount, A.B., 1965. Early stages of plant succession
+following the complete felling and burning of Eucalyptus
+regnans forest in the Florentine Valley, Tasmania. Aust. J. Bot.
+13, 303–322.
+
+DPIE, 1998. Central Highlands Regional Forest Agreement.
+Department of Primary Industries and Energy, Australia,
+----
+Source: 2.pdf
+n
+following the complete felling and burning of Eucalyptus
+regnans forest in the Florentine Valley, Tasmania. Aust. J. Bot.
+13, 303–322.
+
+DPIE, 1998. Central Highlands Regional Forest Agreement.
+Department of Primary Industries and Energy, Australia, and
+Department of Natural Resources and Environment, Victoria.
+Government Printer, Canberra.
+
+Franklin, J.F., Berg, D.R., Thornburgh, D.A., Tappeiner, J.C., 1997.
+to timber harvesting:
+Alternative silvicultural approaches
+variable retention harvest
+----
+Source: 2.pdf
+, and
+Department of Natural Resources and Environment, Victoria.
+Government Printer, Canberra.
+
+Franklin, J.F., Berg, D.R., Thornburgh, D.A., Tappeiner, J.C., 1997.
+to timber harvesting:
+Alternative silvicultural approaches
+variable retention harvest systems. In: Kohm, K.A., Franklin,
+J.F. (Eds.), Creating a Forestry for the 21st Century. Island
+Press, Washington, pp. 111–140.
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+163
+
+Harris, S.G., 1989. Early stages of plant
+----
+Source: 2.pdf
+t systems. In: Kohm, K.A., Franklin,
+J.F. (Eds.), Creating a Forestry for the 21st Century. Island
+Press, Washington, pp. 111–140.
+
+K. Ough, A. Murphy / Forest Ecology and Management 199 (2004) 153–163
+
+163
+
+Harris, S.G., 1989. Early stages of plant succession following
+timber harvesting in the West Bartham Catchment of the Otway
+ranges. Research Report 339. Research and Development
+Section, Department of Conservation Forests and Lands,
+Victoria.
+
+Hickey, J.E., 1994. A ﬂoristic comparison of
+----
+Source: 2.pdf
+ant succession following
+timber harvesting in the West Bartham Catchment of the Otway
+ranges. Research Report 339. Research and Development
+Section, Department of Conservation Forests and Lands,
+Victoria.
+
+Hickey, J.E., 1994. A ﬂoristic comparison of vascular species in
+Tasmanian oldgrowth mixed forest with regeneration resulting
+from logging and wildﬁre. Aust. J. Bot. 42, 383–404.
+
+Jeremiah, L., Roob, R., 1992. Statement of resources, uses and
+values for the Central FMA. Department of
+----
+Source: 2.pdf
+parison of vascular species in
+Tasmanian oldgrowth mixed forest with regeneration resulting
+from logging and wildﬁre. Aust. J. Bot. 42, 383–404.
+
+Jeremiah, L., Roob, R., 1992. Statement of resources, uses and
+values for the Central FMA. Department of Conservation and
+Environment, Victoria.
+
+Keeley, J.E., 1986. Resilience in Mediterranean shrub communities
+to ﬁres. In: Dell, B., Hopkins, A.J.M., Lamont, B.B. (Eds.),
+Resilience in Mediterranean-type Ecosystems. Dr. W. Junk
+Publishers, Dordrecht,
+----
+Source: 2.pdf
+of Conservation and
+Environment, Victoria.
+
+Keeley, J.E., 1986. Resilience in Mediterranean shrub communities
+to ﬁres. In: Dell, B., Hopkins, A.J.M., Lamont, B.B. (Eds.),
+Resilience in Mediterranean-type Ecosystems. Dr. W. Junk
+Publishers, Dordrecht, pp. 95–112.
+
+Keeley, J.E., 1991. Seed germination and life history syndromes in
+
+the California Chaparral. Bot. Rev. 57, 81–116.
+
+Lamont, B.B., Groom, P.K., Richards, M.B., Witkowski, E.T.F.,
+1999. Recovery of Banksia and Hakea communities after
+----
+Source: 2.pdf
+cht, pp. 95–112.
+
+Keeley, J.E., 1991. Seed germination and life history syndromes in
+
+the California Chaparral. Bot. Rev. 57, 81–116.
+
+Lamont, B.B., Groom, P.K., Richards, M.B., Witkowski, E.T.F.,
+1999. Recovery of Banksia and Hakea communities after ﬁre in
+Mediterranean Australia—the role of species identity and
+functional attributes. Divers. Distrib. 5, 15–26.
+
+Lindenmayer, D.B., Franklin, J.F., 1997. Forest structure and
+sustainable temperate forestry: a case study from Australia.
+Cons.
+----
+Source: 2.pdf
+after ﬁre in
+Mediterranean Australia—the role of species identity and
+functional attributes. Divers. Distrib. 5, 15–26.
+
+Lindenmayer, D.B., Franklin, J.F., 1997. Forest structure and
+sustainable temperate forestry: a case study from Australia.
+Cons. Biol. 11, 1053–1068.
+
+Looney, S.W., Stanley, W.B., 1989. Exploratory repeated measures
+analysis for two or more groups. Am. Statist. 43, 220–225.
+Loyn, R.H., 1985. Strategies for conserving wildlife in commer-
+
+cially productive eucalypt forest.
+----
+Source: 2.pdf
+ons. Biol. 11, 1053–1068.
+
+Looney, S.W., Stanley, W.B., 1989. Exploratory repeated measures
+analysis for two or more groups. Am. Statist. 43, 220–225.
+Loyn, R.H., 1985. Strategies for conserving wildlife in commer-
+
+cially productive eucalypt forest. Aust. For. 48, 95–101.
+
+McHugh, P.J., 1991. Statement of resources, uses and values for the
+Dandenong Forest Management Area (Yarra Forests). Depart-
+ment of Conservation and Environment, Victoria.
+
+Meier, A.J., Bratton, S.P., Duffy, D.C., 1995.
+----
+Source: 2.pdf
+est. Aust. For. 48, 95–101.
+
+McHugh, P.J., 1991. Statement of resources, uses and values for the
+Dandenong Forest Management Area (Yarra Forests). Depart-
+ment of Conservation and Environment, Victoria.
+
+Meier, A.J., Bratton, S.P., Duffy, D.C., 1995. Possible ecological
+mechanisms for loss of vernal-herb diversity in logged eastern
+deciduous forests. Ecol. Appl. 5, 935–946.
+
+Mueck, S.G., Peacock, R.J., 1992. Impacts of intensive timber
+harvesting on the forests of East Gippsland, Victoria.
+----
+Source: 2.pdf
+1995. Possible ecological
+mechanisms for loss of vernal-herb diversity in logged eastern
+deciduous forests. Ecol. Appl. 5, 935–946.
+
+Mueck, S.G., Peacock, R.J., 1992. Impacts of intensive timber
+harvesting on the forests of East Gippsland, Victoria. VSP
+Technical Report No. 15. Department of Conservation and
+Natural Resources, Victoria.
+
+Mueck, S.G., Ough, K., Banks, J.C.G., 1996. How old are Wet
+
+Forest understories? Aust. J. Ecol. 21, 345–348.
+
+Murphy, A., Ough, K., 1997. Regenerative
+----
+Source: 2.pdf
+ictoria. VSP
+Technical Report No. 15. Department of Conservation and
+Natural Resources, Victoria.
+
+Mueck, S.G., Ough, K., Banks, J.C.G., 1996. How old are Wet
+
+Forest understories? Aust. J. Ecol. 21, 345–348.
+
+Murphy, A., Ough, K., 1997. Regenerative strategies of understorey
+ﬂora following logging in the Central Highlands, Victoria.
+Aust. For. 60, 90–98.
+
+Neyland, M.G., 1986. Conservation and management of tree-ferns
+in Tasmania. Wildlife Division Technical Report 86/1. National
+Parks and
+----
+Source: 2.pdf
+rative strategies of understorey
+ﬂora following logging in the Central Highlands, Victoria.
+Aust. For. 60, 90–98.
+
+Neyland, M.G., 1986. Conservation and management of tree-ferns
+in Tasmania. Wildlife Division Technical Report 86/1. National
+Parks and Wildlife Service, Tasmania.
+
+NRE, 1996. Code of practice: code of forest practices for timber
+production. Revision No. 2. Department of Natural Resources
+and Environment, Melbourne, Victoria.
+
+NRE, 1998. Forest management plan for the Central
+----
+Source: 2.pdf
+rks and Wildlife Service, Tasmania.
+
+NRE, 1996. Code of practice: code of forest practices for timber
+production. Revision No. 2. Department of Natural Resources
+and Environment, Melbourne, Victoria.
+
+NRE, 1998. Forest management plan for the Central Highlands.
+Department of Natural Resources and Environment, Mel-
+bourne, Victoria.
+
+Ough, K., 2001. Regeneration of Wet Forest ﬂora a decade after
+clear-felling or wildﬁre—is there a difference? Aust. J. Bot. 49,
+645–664.
+
+Ough, K., Murphy, A.,
+----
+Source: 2.pdf
+ntral Highlands.
+Department of Natural Resources and Environment, Mel-
+bourne, Victoria.
+
+Ough, K., 2001. Regeneration of Wet Forest ﬂora a decade after
+clear-felling or wildﬁre—is there a difference? Aust. J. Bot. 49,
+645–664.
+
+Ough, K., Murphy, A., 1996. The effect of clearfell logging on tree-
+
+ferns in Victorian Wet Forest. Aust. For. 59, 178–188.
+
+Ough, K., Murphy, A., 1999. Differences in understorey ﬂoristics
+between clearfell and wildﬁre regeneration in Victorian Wet
+Internal Report No
+----
+Source: 2.pdf
+., 1996. The effect of clearfell logging on tree-
+
+ferns in Victorian Wet Forest. Aust. For. 59, 178–188.
+
+Ough, K., Murphy, A., 1999. Differences in understorey ﬂoristics
+between clearfell and wildﬁre regeneration in Victorian Wet
+Internal Report No 31. Department of Natural
+Forest.
+Resources and Environment, Victoria.
+
+Ough, K., Murphy, A., 1998. Understorey islands: a method of
+protecting understorey ﬂora during clearfelling operations.
+Internal Report No. 29. Department of Natural Resources
+----
+Source: 2.pdf
+o 31. Department of Natural
+Forest.
+Resources and Environment, Victoria.
+
+Ough, K., Murphy, A., 1998. Understorey islands: a method of
+protecting understorey ﬂora during clearfelling operations.
+Internal Report No. 29. Department of Natural Resources and
+Environment, Victoria.
+
+Ough, K., Ross, J., 1992. Floristics, ﬁre and clearfelling in wet
+forests of the Central Highlands, Victoria. VSP Technical
+Report No. 11. Department of Conservation and Environment,
+Victoria.
+
+Peck, J.H., Peck, C.J.,
+----
+Source: 2.pdf
+rces and
+Environment, Victoria.
+
+Ough, K., Ross, J., 1992. Floristics, ﬁre and clearfelling in wet
+forests of the Central Highlands, Victoria. VSP Technical
+Report No. 11. Department of Conservation and Environment,
+Victoria.
+
+Peck, J.H., Peck, C.J., Farrar, D.R., 1990. Inﬂuences of life history
+attributes on formation of local and distant fern populations.
+Am. Fern J. 80, 126–142.
+
+Roberts, M.R., Gilliam, F.S., 1995. Patterns and mechanisms of
+plant diversity in forested ecosystems:
+----
+Source: 2.pdf
+Peck, C.J., Farrar, D.R., 1990. Inﬂuences of life history
+attributes on formation of local and distant fern populations.
+Am. Fern J. 80, 126–142.
+
+Roberts, M.R., Gilliam, F.S., 1995. Patterns and mechanisms of
+plant diversity in forested ecosystems: implications for forest
+management. Ecol. Appl. 5, 969–977.
+
+Robin, J.M., 1985. Tree-ferns: Are we running out? Aust. Hort. 83,
+
+86–91.
+
+Seiler, R.L., 1981. Leaf turnover rates and natural history of the
+Central American tree fern Alsophila
+----
+Source: 2.pdf
+osystems: implications for forest
+management. Ecol. Appl. 5, 969–977.
+
+Robin, J.M., 1985. Tree-ferns: Are we running out? Aust. Hort. 83,
+
+86–91.
+
+Seiler, R.L., 1981. Leaf turnover rates and natural history of the
+Central American tree fern Alsophila salvinii. Am. Fern J. 71,
+75–81.
+
+Spies, T., 1997. Forest stand structure, composition, and function.
+In: Kohm, K.A., Franklin, J.F. (Eds.), Creating a Forestry for
+the 21st Century. Island Press, Washington, pp. 11–30.
+
+Squire, R.O., Campbell,
+----
+Source: 2.pdf
+phila salvinii. Am. Fern J. 71,
+75–81.
+
+Spies, T., 1997. Forest stand structure, composition, and function.
+In: Kohm, K.A., Franklin, J.F. (Eds.), Creating a Forestry for
+the 21st Century. Island Press, Washington, pp. 11–30.
+
+Squire, R.O., Campbell, R.G., Wareing, K.J., Featherston, G.R.,
+1991. The mountain ash forests of Victoria: ecology, silvicul-
+ture and management for wood production. In: McKinnell,
+F.H., Hopkins, E.R., Fox, J.E.D. (Eds.), Forest Management in
+Australia. Surrey Beatty
+----
+Source: 2.pdf
+ell, R.G., Wareing, K.J., Featherston, G.R.,
+1991. The mountain ash forests of Victoria: ecology, silvicul-
+ture and management for wood production. In: McKinnell,
+F.H., Hopkins, E.R., Fox, J.E.D. (Eds.), Forest Management in
+Australia. Surrey Beatty and Sons, Chipping Norton, pp. 38–57.
+State of Victoria, 1997. Victoria’s Biodiversity: Directions in
+Management. Natural Resources and Environment, Melbourne,
+Victoria.
+
+Technical Working Group on Forest Use and Management, 1995.
+The development
+----
+Source: 2.pdf
+tty and Sons, Chipping Norton, pp. 38–57.
+State of Victoria, 1997. Victoria’s Biodiversity: Directions in
+Management. Natural Resources and Environment, Melbourne,
+Victoria.
+
+Technical Working Group on Forest Use and Management, 1995.
+The development of consistent nationwide baseline environ-
+mental
+Joint
+ANZECC-MCFFA National Policy Statement Implementation
+Sub-committee.
+
+for native forests. Draft Report.
+
+standards
+
+Unwin, G.L., Hunt, M.A., 1996. Conservation and management of
+soft tree fern
+----
+Source: 2.pdf
+t of consistent nationwide baseline environ-
+mental
+Joint
+ANZECC-MCFFA National Policy Statement Implementation
+Sub-committee.
+
+for native forests. Draft Report.
+
+standards
+
+Unwin, G.L., Hunt, M.A., 1996. Conservation and management of
+soft tree fern Dicksonia antarctica in relation to commercial
+forestry and horticulture. In: Camus, J.M., Gibby, M., Johns,
+R.J. (Eds.), Pteridology in Perspective. Royal Botanic Gardens,
+Kew, pp. 125–137.
+
+Walsh, N.G., Entwisle, T.J. (Eds.), 1994. Flora of
+----
+Source: 2.pdf
+ee fern Dicksonia antarctica in relation to commercial
+forestry and horticulture. In: Camus, J.M., Gibby, M., Johns,
+R.J. (Eds.), Pteridology in Perspective. Royal Botanic Gardens,
+Kew, pp. 125–137.
+
+Walsh, N.G., Entwisle, T.J. (Eds.), 1994. Flora of Victoria, vol. 2.
+
+Inkata Press, Melbourne, Victoria.
+
+Wells, P.V., 1969. The relation between mode of reproduction and
+the Californian
+
+extent of speciation in woody genera of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman,
+----
+Source: 2.pdf
+of Victoria, vol. 2.
+
+Inkata Press, Melbourne, Victoria.
+
+Wells, P.V., 1969. The relation between mode of reproduction and
+the Californian
+
+extent of speciation in woody genera of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ody genera of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+dy genera of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+y genera of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+genera of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+genera of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+enera of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+nera of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+era of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ra of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+a of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+of
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+f
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Chaparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+haparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+aparral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+parral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+arral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+rral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ral. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+al. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+l. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+. Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Evolution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+volution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+olution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+lution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ution 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+tion 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ion 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+on 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+n 23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+23, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+3, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, 264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+264–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+64–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+4–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+–267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+267.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+67.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+7.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+.
+
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Woodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+oodgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+odgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+dgate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+gate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ate, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+te, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+e, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+P.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+.W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+W., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+., Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Peel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+eel, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+el, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+l, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+W.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+.D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+D., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+., Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Ritman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+itman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+tman, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+man, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+an, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+n, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+K.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+.T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+T., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+., Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Coram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+oram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ram, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+am, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+m, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+J.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+.E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+E., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+., Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Brady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+rady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ady, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+dy, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+y, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+A.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+.,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+,
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Rule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ule, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+le, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+e, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+A.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+.J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+J., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+., Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Banks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+anks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+nks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ks, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+s, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+J.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+.C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+C.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+.G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+G., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+., 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+, 1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+1994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+994. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+94. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+4. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+. A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+A study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+study of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+tudy of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+udy of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+dy of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+y of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+of the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+f the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+the old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+he old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+e old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+old-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ld-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+d-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+-growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+growth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+rowth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+owth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+wth
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+th
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+h
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+forests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+orests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+rests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ests of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+sts of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ts of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+s of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+of East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+f East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+East Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ast Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+st Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+t Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Gippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ippsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ppsland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+psland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+sland. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+land. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+and. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+nd. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+d. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+. Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Department of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+epartment of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+partment of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+artment of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+rtment of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+tment of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ment of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+ent of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+nt of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+t of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+of Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+f Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+Conservation and
+Natural Resources,
+----
+Source: 2.pdf
+onservation and
+Natural Resources,
+----
+Source: 2.pdf
+nservation and
+Natural Resources,
+----
+Source: 2.pdf
+servation and
+Natural Resources,
+----
+Source: 2.pdf
+ervation and
+Natural Resources,
+----
+Source: 2.pdf
+rvation and
+Natural Resources,
+----
+Source: 2.pdf
+vation and
+Natural Resources,
+----
+Source: 2.pdf
+ation and
+Natural Resources,
+----
+Source: 2.pdf
+tion and
+Natural Resources,
+----
+Source: 2.pdf
+ion and
+Natural Resources,
+----
+Source: 2.pdf
+on and
+Natural Resources,
+----
+Source: 2.pdf
+n and
+Natural Resources,
+----
+Source: 2.pdf
+and
+Natural Resources,
+----
+Source: 2.pdf
+and
+Natural Resources,
+----
+Source: 2.pdf
+nd
+Natural Resources,
+----
+Source: 2.pdf
+d
+Natural Resources,
+----
+Source: 2.pdf
+Natural Resources,
+----
+Source: 2.pdf
+Natural Resources,
+----
+Source: 2.pdf
+atural Resources,
+----
+Source: 2.pdf
+tural Resources,
+----
+Source: 2.pdf
+ural Resources,
+----
+Source: 2.pdf
+ral Resources,
+----
+Source: 2.pdf
+al Resources,
+----
+Source: 2.pdf
+l Resources,
+----
+Source: 2.pdf
+Resources,
+----
+Source: 2.pdf
+Resources,
+----
+Source: 2.pdf
+esources,
+----
+Source: 2.pdf
+sources,
+----
+Source: 2.pdf
+ources,
+----
+Source: 2.pdf
+urces,
+----
+Source: 2.pdf
+rces,
+----
+Source: 2.pdf
+ces,
+----
+Source: 2.pdf
+es,
+----
+Source: 2.pdf
+s,
+----
+Source: 2.pdf
+,
+----
+Source: 2.pdf
+Victoria.
+----
+Source: 2.pdf
+Victoria.
+----
+Source: 2.pdf
+ictoria.
+----
+Source: 2.pdf
+ctoria.
+----
+Source: 2.pdf
+toria.
+----
+Source: 2.pdf
+oria.
+----
+Source: 2.pdf
+ria.
+----
+Source: 2.pdf
+ia.
+----
+Source: 2.pdf
+a.
+----
+Source: 2.pdf
+.
+----

@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Project Sprout</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Avenir', sans-serif;
+      background-color: #f4f4f4;
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    #character-panel {
+      width: 250px;
+      background: linear-gradient(to top, #b8d8b0, #e8f6e0);
+      padding: 40px 20px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #choose-text {
+      font-size: 20px;
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+
+    .character-button {
+      width: 100%;
+      padding: 12px 0;
+      margin-bottom: 15px;
+      background-color: #e0f2df;
+      border: 2px solid transparent;
+      border-radius: 12px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-weight: 500;
+    }
+
+    .character-button:hover {
+      background-color: #cfe9cc;
+    }
+
+    .character-button.selected {
+      border: 2px solid #4caf50;
+      background-color: #d0eed0;
+      box-shadow: 0 0 8px rgba(76, 175, 80, 0.6);
+      font-weight: 700;
+    }
+
+    #chat-container {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 30px;
+      box-sizing: border-box;
+      position: relative;
+    }
+
+    #chat-box {
+      flex: 1;
+      overflow-y: auto;
+      background-color: #f0f0f0;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 15px;
+    }
+
+    .message {
+      max-width: 75%;
+      margin: 10px 0;
+      padding: 10px 15px;
+      border-radius: 12px;
+      line-height: 1.5;
+      word-wrap: break-word;
+    }
+
+    .user-message {
+      align-self: flex-end;
+      background-color: #d7f4d2;
+      text-align: right;
+    }
+
+    .bot-message {
+      align-self: flex-start;
+      background-color: #e0e0e0;
+      text-align: left;
+    }
+
+    #user-input {
+      width: 100%;
+      padding: 10px 15px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      margin-bottom: 10px;
+    }
+
+    #send-btn {
+      padding: 10px 20px;
+      background-color: #4caf50;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    #send-btn:hover {
+      background-color: #45a049;
+    }
+
+    #talking-to {
+      font-size: 15px;
+      margin-bottom: 8px;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="character-panel">
+    <p id="choose-text">Who do you want to chat with?</p>
+    <div class="character-button" onclick="selectCharacter('Sonny')">Sonny</div>
+    <div class="character-button" onclick="selectCharacter('Chill')">Chill</div>
+    <div class="character-button" onclick="selectCharacter('Dixie')">Dixie</div>
+  </div>
+
+  <div id="chat-container">
+    <div id="talking-to" style="display:none;"></div>
+    <div id="chat-box"></div>
+    <input type="text" id="user-input" placeholder="Type your message here..." onkeydown="if(event.key==='Enter') sendMessage()" />
+    <button id="send-btn" onclick="sendMessage()">Send</button>
+  </div>
+
+  <script>
+    let chatHistory = [];
+    let selectedCharacter = null;
+
+    function selectCharacter(name) {
+      selectedCharacter = name;
+
+      document.querySelectorAll('.character-button').forEach(btn => {
+        btn.classList.remove('selected');
+        if (btn.textContent === name) btn.classList.add('selected');
+      });
+
+      const talkingTo = document.getElementById('talking-to');
+      talkingTo.style.display = 'block';
+      talkingTo.textContent = `You are talking to ${name}`;
+    }
+
+    function sendMessage() {
+      const input = document.getElementById('user-input');
+      const chatBox = document.getElementById('chat-box');
+      const message = input.value.trim();
+
+      if (message === '') return;
+
+      // If no character selected yet, default to Sonny
+      if (!selectedCharacter) {
+        selectCharacter('Sonny');
+      }
+
+      const userMsg = document.createElement('div');
+      userMsg.className = 'message user-message';
+      userMsg.textContent = message;
+      chatBox.appendChild(userMsg);
+      chatBox.scrollTop = chatBox.scrollHeight;
+
+      chatHistory.push({ role: 'user', content: message });
+
+      input.value = '';
+
+      const loadingMsg = document.createElement('div');
+      loadingMsg.className = 'message bot-message';
+      loadingMsg.textContent = 'Loading...';
+      chatBox.appendChild(loadingMsg);
+      chatBox.scrollTop = chatBox.scrollHeight;
+
+      // Replace with your real backend endpoint
+      fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          history: chatHistory,
+          message: message,
+          species: 'Dicksonia antarctica',
+          character: selectedCharacter
+        })
+      })
+      .then(response => response.json())
+      .then(data => {
+        chatBox.removeChild(loadingMsg);
+        const botMsg = document.createElement('div');
+        botMsg.className = 'message bot-message';
+        botMsg.textContent = data.response;
+        chatBox.appendChild(botMsg);
+        chatHistory.push({ role: 'assistant', content: data.response });
+        chatBox.scrollTop = chatBox.scrollHeight;
+      })
+      .catch(error => {
+        chatBox.removeChild(loadingMsg);
+        const errMsg = document.createElement('div');
+        errMsg.className = 'message bot-message';
+        errMsg.textContent = 'An error occurred. Please try again.';
+        chatBox.appendChild(errMsg);
+        chatBox.scrollTop = chatBox.scrollHeight;
+        console.error(error);
+      });
+    }
+  </script>
+</body>
+</html>

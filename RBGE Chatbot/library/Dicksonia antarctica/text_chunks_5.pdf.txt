@@ -1,0 +1,4828 @@
+Source: 5.pdf
+RESEARCH ARTICLE
+
+Non-linear growth in tree ferns, Dicksonia
+antarctica and Cyathea australis
+
+David P. Blair1,2*, Wade Blanchard1,2, Sam C. Banks1,2, David B. Lindenmayer1,2
+
+1 Fenner School of Environment and Society, The Australian National University, Canberra, Australian
+Capital Territory, Australia, 2 Long-term Ecological Research Network, Fenner School of Environment and
+Society, The Australian National University, Canberra, Australian Capital Territory, Australia
+
+*
+----
+Source: 5.pdf
+ralian National University, Canberra, Australian
+Capital Territory, Australia, 2 Long-term Ecological Research Network, Fenner School of Environment and
+Society, The Australian National University, Canberra, Australian Capital Territory, Australia
+
+* david.blair@anu.edu.au
+
+Abstract
+
+Tree ferns are an important structural component of forests in many countries. However,
+because their regeneration is often unrelated to major disturbances, their age is often diffi-
+cult to determine. In addition,
+----
+Source: 5.pdf
+* david.blair@anu.edu.au
+
+Abstract
+
+Tree ferns are an important structural component of forests in many countries. However,
+because their regeneration is often unrelated to major disturbances, their age is often diffi-
+cult to determine. In addition, rates of growth may not be uniform, which further complicates
+attempts to determine their age. In this study, we measured 5 years of growth of Cyathea
+australis and Dicksonia antarctica after a large wildfire in 2009 in south-eastern Australia.
+We
+----
+Source: 5.pdf
+n, rates of growth may not be uniform, which further complicates
+attempts to determine their age. In this study, we measured 5 years of growth of Cyathea
+australis and Dicksonia antarctica after a large wildfire in 2009 in south-eastern Australia.
+We found growth rates of these two species were unaffected by aspect and elevation but
+slope had a minor effect with D. antarctica growing 0.3mm faster for each additional degree
+of slope. Geographic location influenced growth in both species by up to
+----
+Source: 5.pdf
+e found growth rates of these two species were unaffected by aspect and elevation but
+slope had a minor effect with D. antarctica growing 0.3mm faster for each additional degree
+of slope. Geographic location influenced growth in both species by up to 12 – 14mm/yr. The
+most consistent factor influencing growth rate, however, was initial height at the time of the
+2009 fire; a finding consistent in both species and all geographic locations. For both tree
+fern species, individuals that were taller
+----
+Source: 5.pdf
+to 12 – 14mm/yr. The
+most consistent factor influencing growth rate, however, was initial height at the time of the
+2009 fire; a finding consistent in both species and all geographic locations. For both tree
+fern species, individuals that were taller at the commencement of the study had greater
+overall growth for the duration of the study. This effect did not decrease even among the
+tallest tree ferns in our study (up to 6 metres tall). Overall, Cyathea australis averaged 73
+(± 22)mm/year of
+----
+Source: 5.pdf
+ller at the commencement of the study had greater
+overall growth for the duration of the study. This effect did not decrease even among the
+tallest tree ferns in our study (up to 6 metres tall). Overall, Cyathea australis averaged 73
+(± 22)mm/year of growth (± 1SD), with the rate increasing 5mm/yr per metre of additional
+height. Dicksonia antarctica averaged 33 (± 13)mm/year, increasing by 6mm/yr/m. Growth
+rates dependent on initial height were unexpected and we discuss possible reasons for
+----
+Source: 5.pdf
+ar of growth (± 1SD), with the rate increasing 5mm/yr per metre of additional
+height. Dicksonia antarctica averaged 33 (± 13)mm/year, increasing by 6mm/yr/m. Growth
+rates dependent on initial height were unexpected and we discuss possible reasons for this
+finding. Variable growth rates also suggest that common age estimation methods of dividing
+height by average growth rate are likely to underestimate the age of short tree ferns, while
+overestimating the age of tall tree ferns, particularly if
+----
+Source: 5.pdf
+or this
+finding. Variable growth rates also suggest that common age estimation methods of dividing
+height by average growth rate are likely to underestimate the age of short tree ferns, while
+overestimating the age of tall tree ferns, particularly if they have been subject to a fire.
+
+Introduction
+
+Tree ferns are found in wet forests worldwide, from tropical regions to cool temperate forests
+[1, 2]. Tree ferns are generally considered to be slow-growing, long-lived plants that do not
+require
+----
+Source: 5.pdf
+y if they have been subject to a fire.
+
+Introduction
+
+Tree ferns are found in wet forests worldwide, from tropical regions to cool temperate forests
+[1, 2]. Tree ferns are generally considered to be slow-growing, long-lived plants that do not
+require disturbance for reproduction, and as such, become increasingly common in the late
+successional stage of older forests [3, 4]. Tree ferns often fill important physical and ecological
+roles. In many forests, including those in Costa Rica, New Zealand
+----
+Source: 5.pdf
+e disturbance for reproduction, and as such, become increasingly common in the late
+successional stage of older forests [3, 4]. Tree ferns often fill important physical and ecological
+roles. In many forests, including those in Costa Rica, New Zealand and Australia, tree fern
+trunks host a wide range of epiphytic ferns and bryophytes [5–7], often supporting a greater
+diversity of such kinds of plants than the other trees in the same forest [8]. Tree ferns
+----
+Source: 5.pdf
+including those in Costa Rica, New Zealand and Australia, tree fern
+trunks host a wide range of epiphytic ferns and bryophytes [5–7], often supporting a greater
+diversity of such kinds of plants than the other trees in the same forest [8]. Tree ferns influence
+
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+
+OPEN ACCESS
+
+Citation: Blair DP, Blanchard W, Banks SC,
+Lindenmayer DB (2017) Non-linear growth in tree
+ferns, Dicksonia antarctica and Cyathea australis.
+PLoS ONE 12(5):
+----
+Source: 5.pdf
+e ferns influence
+
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+
+OPEN ACCESS
+
+Citation: Blair DP, Blanchard W, Banks SC,
+Lindenmayer DB (2017) Non-linear growth in tree
+ferns, Dicksonia antarctica and Cyathea australis.
+PLoS ONE 12(5): e0176908. https://doi.org/
+10.1371/journal.pone.0176908
+
+Editor: Sergio Rossi, Universite du Quebec a
+Chicoutimi, CANADA
+
+Received: August 9, 2016
+
+Accepted: April 19, 2017
+
+Published: May 11, 2017
+
+Copyright: © 2017 Blair et al. This is an
+----
+Source: 5.pdf
+NE 12(5): e0176908. https://doi.org/
+10.1371/journal.pone.0176908
+
+Editor: Sergio Rossi, Universite du Quebec a
+Chicoutimi, CANADA
+
+Received: August 9, 2016
+
+Accepted: April 19, 2017
+
+Published: May 11, 2017
+
+Copyright: © 2017 Blair et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+
+Data Availability
+----
+Source: 5.pdf
+is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+
+Data Availability Statement: Data are available
+through the Terrestrial Ecosystem Research
+Network at http://www.ltern.org.au/knb/metacat/
+ltern4.42/html.
+
+Funding: This work was funded by the Australian
+Research Council, Victorian Government
+(Department of
+----
+Source: 5.pdf
+ailability Statement: Data are available
+through the Terrestrial Ecosystem Research
+Network at http://www.ltern.org.au/knb/metacat/
+ltern4.42/html.
+
+Funding: This work was funded by the Australian
+Research Council, Victorian Government
+(Department of Environment, Land, Water and
+Planning and Parks Victoria), Wood Foundation.
+The funders had no role in the study design, data
+collection and analysis, decision to publish, or
+preparation of the manuscript.
+
+PLOS ONE |
+----
+Source: 5.pdf
+torian Government
+(Department of Environment, Land, Water and
+Planning and Parks Victoria), Wood Foundation.
+The funders had no role in the study design, data
+collection and analysis, decision to publish, or
+preparation of the manuscript.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+1 / 15
+
+Competing interests: The authors have declared
+that no competing interests exist.
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+the presence of
+----
+Source: 5.pdf
+ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+1 / 15
+
+Competing interests: The authors have declared
+that no competing interests exist.
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+the presence of other species both positively and negatively, for example, in the forests of
+south-eastern Australia there are positive relationships between the abundance of tree ferns
+and the occurrence of arboreal mammals such as the Mountain Brushtail Possum
+----
+Source: 5.pdf
+of other species both positively and negatively, for example, in the forests of
+south-eastern Australia there are positive relationships between the abundance of tree ferns
+and the occurrence of arboreal mammals such as the Mountain Brushtail Possum Trichosurus
+cunninghami [9] with these plant species providing both habitat structure and a food source
+[10], while in southern New Zealand, tree ferns have been found to negatively influence the
+regeneration success of other trees [11].
+
+In the
+----
+Source: 5.pdf
+ssum Trichosurus
+cunninghami [9] with these plant species providing both habitat structure and a food source
+[10], while in southern New Zealand, tree ferns have been found to negatively influence the
+regeneration success of other trees [11].
+
+In the cool temperate forests of south-eastern Australia where we completed this study, tree
+ferns are well adapted to the prevailing regime of infrequent but high severity fire [12], result-
+ing in these midstorey species often being older than the
+----
+Source: 5.pdf
+In the cool temperate forests of south-eastern Australia where we completed this study, tree
+ferns are well adapted to the prevailing regime of infrequent but high severity fire [12], result-
+ing in these midstorey species often being older than the overstorey eucalypts, the majority of
+which are obligate seeders in this investigation [13, 14]. The tree fern species in this study can
+grow to over ten metres in height [15] and have been estimated to live more than 500 years
+[13], while other
+----
+Source: 5.pdf
+the overstorey eucalypts, the majority of
+which are obligate seeders in this investigation [13, 14]. The tree fern species in this study can
+grow to over ten metres in height [15] and have been estimated to live more than 500 years
+[13], while other species in Australia have been recorded growing in excess of 15m, including
+the Norfolk Tree Fern, Cyathea brownii, which can grow to 20m [16]. Tree ferns also may be
+an indicator of past disturbance history given their ability to survive fire, but
+----
+Source: 5.pdf
+r species in Australia have been recorded growing in excess of 15m, including
+the Norfolk Tree Fern, Cyathea brownii, which can grow to 20m [16]. Tree ferns also may be
+an indicator of past disturbance history given their ability to survive fire, but susceptibility to
+logging [17–19]. Because tree ferns regularly survive fire but do not require fire to regenerate,
+their age is not easily determined from the dates of previous major fires. While there have been
+several studies examining the
+----
+Source: 5.pdf
+re, but susceptibility to
+logging [17–19]. Because tree ferns regularly survive fire but do not require fire to regenerate,
+their age is not easily determined from the dates of previous major fires. While there have been
+several studies examining the conditions required for tree ferns to persist, there have been rela-
+tively few investigations of the effects of tree fern age, growth rates, or the environmental fac-
+tors on growth rates, particularly in Australia [12, 13, 20–22].
+
+We studied the
+----
+Source: 5.pdf
+e conditions required for tree ferns to persist, there have been rela-
+tively few investigations of the effects of tree fern age, growth rates, or the environmental fac-
+tors on growth rates, particularly in Australia [12, 13, 20–22].
+
+We studied the short-term growth rates of the two most common species of tree fern
+occurring in south-eastern Australia, the Rough Tree Fern (Cyathea australis) (R. Br.), family
+Cyatheaceae and Soft Tree Fern (Dicksonia antarctica) (Labill), family Dicksoniaceae.
+----
+Source: 5.pdf
+e short-term growth rates of the two most common species of tree fern
+occurring in south-eastern Australia, the Rough Tree Fern (Cyathea australis) (R. Br.), family
+Cyatheaceae and Soft Tree Fern (Dicksonia antarctica) (Labill), family Dicksoniaceae. The
+genus Cyathea has Pan-Tropical origins [23] with approximately 700 species globally [15] in
+the tropics, subtropics, and southern temperate zones [2] and includes 11 species in Austra-
+lia. The genus Dicksonia is of Gondwanan origin [23] with
+----
+Source: 5.pdf
+ae. The
+genus Cyathea has Pan-Tropical origins [23] with approximately 700 species globally [15] in
+the tropics, subtropics, and southern temperate zones [2] and includes 11 species in Austra-
+lia. The genus Dicksonia is of Gondwanan origin [23] with 50 species found in south-eastern
+Australia, New Zealand, south-east Asia and Central and South America. There are three
+species of Dicksonia in Australia [15]. In our study region, the distributions of D. antarctica
+and C. australis overlap, with
+----
+Source: 5.pdf
+th 50 species found in south-eastern
+Australia, New Zealand, south-east Asia and Central and South America. There are three
+species of Dicksonia in Australia [15]. In our study region, the distributions of D. antarctica
+and C. australis overlap, with both found predominantly in cool, wet gullies. Cyathea austra-
+lis is more tolerant of drier micro-climates, and commonly found in the mid to lower eleva-
+tions where it is warmer and drier and away from streams; D. antarctica is most often
+----
+Source: 5.pdf
+lap, with both found predominantly in cool, wet gullies. Cyathea austra-
+lis is more tolerant of drier micro-climates, and commonly found in the mid to lower eleva-
+tions where it is warmer and drier and away from streams; D. antarctica is most often found
+at mid to higher elevations where annual rainfall is greater, particularly at cold, wet sites
+close to streams [24].
+
+Tree ferns grow by producing new fronds which extend from the centre of the apical trunk,
+
+extending and growing to the
+----
+Source: 5.pdf
+often found
+at mid to higher elevations where annual rainfall is greater, particularly at cold, wet sites
+close to streams [24].
+
+Tree ferns grow by producing new fronds which extend from the centre of the apical trunk,
+
+extending and growing to the outside edge of the trunk. Over a period of 6–12 months, the
+older fronds gradually deteriorate and die, to be replaced by new layers of fronds with each
+new layer adding to the overall height of the fern’s trunk. The older fronds eventually drop
+----
+Source: 5.pdf
+the outside edge of the trunk. Over a period of 6–12 months, the
+older fronds gradually deteriorate and die, to be replaced by new layers of fronds with each
+new layer adding to the overall height of the fern’s trunk. The older fronds eventually drop off
+and leave the base of the stipe on the trunk. In the study reported here, we quantified the
+short-term growth rates of D. antarctica and C. australis immediately following the Black Sat-
+urday wildfires in 2009 in Victoria. Thus, all tree ferns
+----
+Source: 5.pdf
+p off
+and leave the base of the stipe on the trunk. In the study reported here, we quantified the
+short-term growth rates of D. antarctica and C. australis immediately following the Black Sat-
+urday wildfires in 2009 in Victoria. Thus, all tree ferns were burnt (with all fronds removed)
+with trunks of tree ferns blackened to the height they were at the time of the fire. New growth
+was easily distinguishable in the subsequent years and it was the height of this new growth that
+we subsequently
+----
+Source: 5.pdf
+erns were burnt (with all fronds removed)
+with trunks of tree ferns blackened to the height they were at the time of the fire. New growth
+was easily distinguishable in the subsequent years and it was the height of this new growth that
+we subsequently measured. Previous investigations have measured fern growth following fire
+[22] and made estimates of maximum age [13] by focussing on the largest individuals, while
+other studies examined the physiological effects of different temperatures and
+----
+Source: 5.pdf
+ently measured. Previous investigations have measured fern growth following fire
+[22] and made estimates of maximum age [13] by focussing on the largest individuals, while
+other studies examined the physiological effects of different temperatures and amounts of light
+on the photosynthetic abilities of tree ferns [21, 25], although these factors were not then
+related to resulting changes in growth rate. No previous studies in the wet forests of Victoria,
+and few investigations internationally
+----
+Source: 5.pdf
+and amounts of light
+on the photosynthetic abilities of tree ferns [21, 25], although these factors were not then
+related to resulting changes in growth rate. No previous studies in the wet forests of Victoria,
+and few investigations internationally [26–29], have measured the growth of tree fern trunks
+in field conditions, spanning a wide range of heights (and therefore ages) to determine if
+growth rates of overall trunk height vary with age.
+
+PLOS ONE |
+----
+Source: 5.pdf
+a,
+and few investigations internationally [26–29], have measured the growth of tree fern trunks
+in field conditions, spanning a wide range of heights (and therefore ages) to determine if
+growth rates of overall trunk height vary with age.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+2 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+We posed three key questions with related hypotheses: What are the rates of growth of D.
+antarctica and
+----
+Source: 5.pdf
+| https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+2 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+We posed three key questions with related hypotheses: What are the rates of growth of D.
+antarctica and C. australis and do rates of growth vary between these two species? What fac-
+tors, including environmental variables, influence the rate of growth of D. antarctica and C.
+australis? Finally, from our results: Are we able to devise a simple
+----
+Source: 5.pdf
+ctica and C. australis and do rates of growth vary between these two species? What fac-
+tors, including environmental variables, influence the rate of growth of D. antarctica and C.
+australis? Finally, from our results: Are we able to devise a simple equation of dividing height
+by annual growth rate to estimate tree fern age? Given there is no clear consensus within the
+literature on which species grows faster, and at the leaf scale both have equivalent photosyn-
+thetic capabilities [20], we
+----
+Source: 5.pdf
+mple equation of dividing height
+by annual growth rate to estimate tree fern age? Given there is no clear consensus within the
+literature on which species grows faster, and at the leaf scale both have equivalent photosyn-
+thetic capabilities [20], we hypothesised that C. australis would have similar growth rates to D.
+antarctica and that growth of both species of tree ferns will be affected by environmental vari-
+ables. We postulated both species of tree ferns will grow most rapidly at higher
+----
+Source: 5.pdf
+we hypothesised that C. australis would have similar growth rates to D.
+antarctica and that growth of both species of tree ferns will be affected by environmental vari-
+ables. We postulated both species of tree ferns will grow most rapidly at higher elevations. In
+our study area, elevation is strongly positively correlated with rainfall and temperature. Previ-
+ous field studies of these two species revealed a lack of effect of seasonal water use efficiency
+[20], leading us to postulate that
+----
+Source: 5.pdf
+gher elevations. In
+our study area, elevation is strongly positively correlated with rainfall and temperature. Previ-
+ous field studies of these two species revealed a lack of effect of seasonal water use efficiency
+[20], leading us to postulate that rainfall would not be a determining factor for growth in this
+area (which receives some of the highest and most consistent rainfall in mainland Australia
+[30, 31]). Temperature has been found to affect tree fern growth in these two species.
+----
+Source: 5.pdf
+late that rainfall would not be a determining factor for growth in this
+area (which receives some of the highest and most consistent rainfall in mainland Australia
+[30, 31]). Temperature has been found to affect tree fern growth in these two species. Lower
+elevations (our lowest sites were 275m ASL) are subject to periodic very high temperatures
+during summer, with temperatures in excess of 40˚C. While Volkova et al [25] found no
+change in photosynthetic capacity in D. antartica with high
+----
+Source: 5.pdf
+pecies. Lower
+elevations (our lowest sites were 275m ASL) are subject to periodic very high temperatures
+during summer, with temperatures in excess of 40˚C. While Volkova et al [25] found no
+change in photosynthetic capacity in D. antartica with high temperatures (35˚C) under shade,
+when combined with high irradiance, severe photoinhibition was witnessed. On our burned
+sites, high irradiance was common, thus the higher temperatures at these lower altitudinal
+sites were expected to reduce
+----
+Source: 5.pdf
+ith high temperatures (35˚C) under shade,
+when combined with high irradiance, severe photoinhibition was witnessed. On our burned
+sites, high irradiance was common, thus the higher temperatures at these lower altitudinal
+sites were expected to reduce growth. Conversely, the lowest temperatures in winter are
+recorded on our highest sites (up to 985m ASL), with snow falling most winters. Such low tem-
+peratures were also found to inhibit photosynthesis [20]. Snow could potentially retard
+----
+Source: 5.pdf
+to reduce growth. Conversely, the lowest temperatures in winter are
+recorded on our highest sites (up to 985m ASL), with snow falling most winters. Such low tem-
+peratures were also found to inhibit photosynthesis [20]. Snow could potentially retard growth
+by reducing solar interception, however snow does not persist for long periods (usually days at
+most, not weeks). On balance, we postulated it was most likely the greater reduction in quan-
+tum yield, leading to overall lower trunk height
+----
+Source: 5.pdf
+tard growth
+by reducing solar interception, however snow does not persist for long periods (usually days at
+most, not weeks). On balance, we postulated it was most likely the greater reduction in quan-
+tum yield, leading to overall lower trunk height growth, would come from the higher tempera-
+tures in summer when photosynthetic activity is greatest and is the time of year when the tree
+ferns have their greatest period of growth [20, 32]. We further postulated tree ferns growing
+on sites on
+----
+Source: 5.pdf
+eight growth, would come from the higher tempera-
+tures in summer when photosynthetic activity is greatest and is the time of year when the tree
+ferns have their greatest period of growth [20, 32]. We further postulated tree ferns growing
+on sites on hotter and drier northerly aspects were likely to grow more slowly than on sites on
+cooler aspects due to slower growth associated with hotter temperatures [25]. We did not
+expect geographic location to affect growth. Given most studies on tree
+----
+Source: 5.pdf
+es on hotter and drier northerly aspects were likely to grow more slowly than on sites on
+cooler aspects due to slower growth associated with hotter temperatures [25]. We did not
+expect geographic location to affect growth. Given most studies on tree ferns in Australia
+assume a constant growth rate through time [13, 22], we expected to be able to develop a rela-
+tively simple growth equation based on annual growth increments, however several interna-
+tional studies on other tree fern species
+----
+Source: 5.pdf
+tree ferns in Australia
+assume a constant growth rate through time [13, 22], we expected to be able to develop a rela-
+tively simple growth equation based on annual growth increments, however several interna-
+tional studies on other tree fern species suggest this may not be possible due to variable growth
+over the life of the tree ferns [26–29].
+
+Methods
+
+Our study focused on the forests of the Central Highlands of Victoria, 60-120km east of Mel-
+bourne in south eastern Australia (Fig
+----
+Source: 5.pdf
+ern species suggest this may not be possible due to variable growth
+over the life of the tree ferns [26–29].
+
+Methods
+
+Our study focused on the forests of the Central Highlands of Victoria, 60-120km east of Mel-
+bourne in south eastern Australia (Fig 1).
+
+Sample areas and fern selection
+
+We measured tree ferns at 25 sites within four separate geographic locations: Marysville State
+Forest, O’Shannassy water catchment, Toolangi State Forest, and Wallaby Creek water catch-
+ment (see Fig 1). At
+----
+Source: 5.pdf
+(Fig 1).
+
+Sample areas and fern selection
+
+We measured tree ferns at 25 sites within four separate geographic locations: Marysville State
+Forest, O’Shannassy water catchment, Toolangi State Forest, and Wallaby Creek water catch-
+ment (see Fig 1). At each geographic location, we selected 5–8 sites, and then measured up to
+ten tree ferns of each species at each site. In total, we measured 163 stems of Cyathea australis
+ranging in pre-fire height from 0.37m to 6.20m and 172 stems of Dicksonia
+----
+Source: 5.pdf
+). At each geographic location, we selected 5–8 sites, and then measured up to
+ten tree ferns of each species at each site. In total, we measured 163 stems of Cyathea australis
+ranging in pre-fire height from 0.37m to 6.20m and 172 stems of Dicksonia antarctica, with
+heights between 0.28m to 5.03m (Table 1). Each site was selected to allow 10 tree ferns to be
+measured close to each other (each site having a maximum 25m radius) and with limited varia-
+tion in slope, aspect and elevation. While
+----
+Source: 5.pdf
+nia antarctica, with
+heights between 0.28m to 5.03m (Table 1). Each site was selected to allow 10 tree ferns to be
+measured close to each other (each site having a maximum 25m radius) and with limited varia-
+tion in slope, aspect and elevation. While there was uniformity of environmental variables
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+3 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+Fig 1. Map of study region showing location
+----
+Source: 5.pdf
+e there was uniformity of environmental variables
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+3 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+Fig 1. Map of study region showing location of sites.
+
+https://doi.org/10.1371/journal.pone.0176908.g001
+
+within sites, we specifically chose sites around each geographic location that would cover a
+wide range of environmental variables (aspect, slope and altitude) between sites. Each site
+----
+Source: 5.pdf
+ion of sites.
+
+https://doi.org/10.1371/journal.pone.0176908.g001
+
+within sites, we specifically chose sites around each geographic location that would cover a
+wide range of environmental variables (aspect, slope and altitude) between sites. Each site was
+a minimum of 1 km apart to minimise the potential for spatial depencence to influence our
+results.
+
+The dominant forest types where our sites were located included mixed (eucalypt) species
+foothill forest dominated by Messmate (Eucalyptus
+----
+Source: 5.pdf
+ch site was
+a minimum of 1 km apart to minimise the potential for spatial depencence to influence our
+results.
+
+The dominant forest types where our sites were located included mixed (eucalypt) species
+foothill forest dominated by Messmate (Eucalyptus obliqua), Peppermints (E. radiata and E.
+dives) and Stringybarks (predominantly E. macrorhyncha), and at higher elevations, forests
+dominated by Mountain Ash (E. regnans) and Alpine Ash (E. delegatensis). The majority of
+our sites (21 of our 25
+----
+Source: 5.pdf
+yptus obliqua), Peppermints (E. radiata and E.
+dives) and Stringybarks (predominantly E. macrorhyncha), and at higher elevations, forests
+dominated by Mountain Ash (E. regnans) and Alpine Ash (E. delegatensis). The majority of
+our sites (21 of our 25 sites), were in the ash forests. Large wildfires dominate the ecology of
+these forests with intense, stand replacing fires historically occurring on average every 75–150
+years [33].
+
+Table 1. Summary of attributes for C. australis and D. antarctica
+----
+Source: 5.pdf
+5 sites), were in the ash forests. Large wildfires dominate the ecology of
+these forests with intense, stand replacing fires historically occurring on average every 75–150
+years [33].
+
+Table 1. Summary of attributes for C. australis and D. antarctica at geographic area and site level.
+
+Number of geographic areas
+
+Number of sites
+
+Number of ferns measured
+
+Height range (time of ﬁre)
+
+Altitude range
+
+Slope range
+
+https://doi.org/10.1371/journal.pone.0176908.t001
+
+C. australis
+
+D.
+----
+Source: 5.pdf
+and D. antarctica at geographic area and site level.
+
+Number of geographic areas
+
+Number of sites
+
+Number of ferns measured
+
+Height range (time of ﬁre)
+
+Altitude range
+
+Slope range
+
+https://doi.org/10.1371/journal.pone.0176908.t001
+
+C. australis
+
+D. antarctica
+
+Total for study
+
+3
+
+16
+
+163
+
+0.37 – 6.20m
+
+275m – 975m
+
+0˚ – 32˚
+
+4
+
+17
+
+172
+
+0.28 – 5.03m
+
+395m – 985m
+
+1˚ – 28˚
+
+4
+
+25
+
+335
+
+0.28 – 6.20m
+
+275m – 985m
+
+0˚ – 32˚
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+4
+----
+Source: 5.pdf
+D. antarctica
+
+Total for study
+
+3
+
+16
+
+163
+
+0.37 – 6.20m
+
+275m – 975m
+
+0˚ – 32˚
+
+4
+
+17
+
+172
+
+0.28 – 5.03m
+
+395m – 985m
+
+1˚ – 28˚
+
+4
+
+25
+
+335
+
+0.28 – 6.20m
+
+275m – 985m
+
+0˚ – 32˚
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+4 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+To ensure all tree ferns had had their trunks burnt at the same time (February 2009) and
+physically blackened uniformly up the trunk (up to 6m tall), we selected
+----
+Source: 5.pdf
+7
+
+4 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+To ensure all tree ferns had had their trunks burnt at the same time (February 2009) and
+physically blackened uniformly up the trunk (up to 6m tall), we selected sites that had burned
+at moderate to high severity in the 2009 wildfires. We used fire severity maps from the Victo-
+rian Government GIS layer and local knowledge to identify suitable locations. On the Victo-
+rian Government fire severity scale,
+----
+Source: 5.pdf
+cted sites that had burned
+at moderate to high severity in the 2009 wildfires. We used fire severity maps from the Victo-
+rian Government GIS layer and local knowledge to identify suitable locations. On the Victo-
+rian Government fire severity scale, this included areas burned at severity 1–3 (on a scale of
+1–6, where 1 is highest severity) and in which the midstorey was fully scorched [34, 35].
+
+At each site, we measured 10 tree ferns of each species unless insufficent tree ferns of
+----
+Source: 5.pdf
+erity scale, this included areas burned at severity 1–3 (on a scale of
+1–6, where 1 is highest severity) and in which the midstorey was fully scorched [34, 35].
+
+At each site, we measured 10 tree ferns of each species unless insufficent tree ferns of either
+
+species were able to be found. Eight of the 25 sites supported 10 individuals of both tree fern
+species. We measured 10 of the tree ferns nearest to the centroid of each site, ensuring that
+ferns of differing heights were measured. We
+----
+Source: 5.pdf
+erns of either
+
+species were able to be found. Eight of the 25 sites supported 10 individuals of both tree fern
+species. We measured 10 of the tree ferns nearest to the centroid of each site, ensuring that
+ferns of differing heights were measured. We elected not to measure ferns with multiple
+trunks, tree ferns with any section of the trunk leaning at an angle of 30˚ or greater, or ferns
+that had fallen over and continued to grow. We located the centre of each site away from road
+edges to
+----
+Source: 5.pdf
+red. We elected not to measure ferns with multiple
+trunks, tree ferns with any section of the trunk leaning at an angle of 30˚ or greater, or ferns
+that had fallen over and continued to grow. We located the centre of each site away from road
+edges to reduce potential effects of additional light, temperature differences or water run off.
+
+Determining growth rates
+
+To determine the growth rates of tree ferns, we located tree ferns with trunks that showed
+clear delineation between the lower part
+----
+Source: 5.pdf
+to reduce potential effects of additional light, temperature differences or water run off.
+
+Determining growth rates
+
+To determine the growth rates of tree ferns, we located tree ferns with trunks that showed
+clear delineation between the lower part of the trunk which had been burnt by the February
+2009 wildfires and the unburnt upper section of trunk resulting from subsequent growth in
+the following 5 years, when the ferns were measured between February and April 2014. We
+measured the overall
+----
+Source: 5.pdf
+t of the trunk which had been burnt by the February
+2009 wildfires and the unburnt upper section of trunk resulting from subsequent growth in
+the following 5 years, when the ferns were measured between February and April 2014. We
+measured the overall height of each tree fern using a tape measure, while the new growth was
+measured using callipers. We then divided the new growth from the last five years (post fire
+growth) by five to give an overall annual average rate of growth for each
+----
+Source: 5.pdf
+the overall height of each tree fern using a tape measure, while the new growth was
+measured using callipers. We then divided the new growth from the last five years (post fire
+growth) by five to give an overall annual average rate of growth for each individual tree fern.
+
+We took more than two thousand photographs of the study region progressively over the 5
+
+years between the time of the fires to the time of measurement and by looking at these and
+through field observations, we were able to
+----
+Source: 5.pdf
+ach individual tree fern.
+
+We took more than two thousand photographs of the study region progressively over the 5
+
+years between the time of the fires to the time of measurement and by looking at these and
+through field observations, we were able to determine the majority of tree ferns had visible
+new fronds within 1–4 months of the 2009 fire, indicating growth typically did not appear to
+have paused due to the fires, despite rare occurrences where some individuals took up to a year
+after fire
+----
+Source: 5.pdf
+o determine the majority of tree ferns had visible
+new fronds within 1–4 months of the 2009 fire, indicating growth typically did not appear to
+have paused due to the fires, despite rare occurrences where some individuals took up to a year
+after fire to re-sprout.
+
+Statistical analyses
+
+We used a linear random effects model to explore relationships between annual growth rate
+and geographic region, elevation, slope, aspect and initial height of the tree fern post 2009
+wildfire. Aspect of each
+----
+Source: 5.pdf
+fire to re-sprout.
+
+Statistical analyses
+
+We used a linear random effects model to explore relationships between annual growth rate
+and geographic region, elevation, slope, aspect and initial height of the tree fern post 2009
+wildfire. Aspect of each site was allocated to the nearest of the eight major compass points
+(north, north east, east etc.). North, north-west and north-east were collated as ‘northerly
+aspects’ and analysed against all other aspects combined. This was done to ascertain
+----
+Source: 5.pdf
+each site was allocated to the nearest of the eight major compass points
+(north, north east, east etc.). North, north-west and north-east were collated as ‘northerly
+aspects’ and analysed against all other aspects combined. This was done to ascertain whether
+the hotter, drier conditions of the northerly aspects effected tree fern growth. Rainfall within
+the study area is highly positively correlated with elevation with the summer (November-
+March) rainfall correlation being 0.910 and winter
+----
+Source: 5.pdf
+rtain whether
+the hotter, drier conditions of the northerly aspects effected tree fern growth. Rainfall within
+the study area is highly positively correlated with elevation with the summer (November-
+March) rainfall correlation being 0.910 and winter (April–October) being 0.717. The analysis
+for both altitude and rainfall resulted in similar findings, therefore we excluded rainfall from
+subsequent analyses. Site was treated as a random effect to account for potential correlation
+among the tree
+----
+Source: 5.pdf
+er (April–October) being 0.717. The analysis
+for both altitude and rainfall resulted in similar findings, therefore we excluded rainfall from
+subsequent analyses. Site was treated as a random effect to account for potential correlation
+among the tree ferns at the same site. We used the MCMCglmm package [36] to fit the models
+in R 3.2.1 [37]. The model parameters are summarized by the posterior mean, 95% credible
+intervals and Btail, which gives the fraction of the posterior distribution that is
+----
+Source: 5.pdf
+e ferns at the same site. We used the MCMCglmm package [36] to fit the models
+in R 3.2.1 [37]. The model parameters are summarized by the posterior mean, 95% credible
+intervals and Btail, which gives the fraction of the posterior distribution that is to the left or
+right of zero conditional on whether the posterior mean was greater or less than zero, respec-
+tively. Small values of Btail indicated support for non-zero parameter values, that is, posterior
+distributions that are shifted away from
+----
+Source: 5.pdf
+s to the left or
+right of zero conditional on whether the posterior mean was greater or less than zero, respec-
+tively. Small values of Btail indicated support for non-zero parameter values, that is, posterior
+distributions that are shifted away from zero.
+
+We did not perform model selection, but rather chose to interpret the full model for each
+tree fern species. We also performed a diagnostic analysis to assess the underlying assumption
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908
+----
+Source: 5.pdf
+m zero.
+
+We did not perform model selection, but rather chose to interpret the full model for each
+tree fern species. We also performed a diagnostic analysis to assess the underlying assumption
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+5 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+of normality and to assess the need to include a site-level random effect. There was very little
+support for the inclusion of the site-level random
+----
+Source: 5.pdf
+08 May 11, 2017
+
+5 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+of normality and to assess the need to include a site-level random effect. There was very little
+support for the inclusion of the site-level random effect, and hence our results show the models
+without this term.
+
+Ethics statement
+
+Our research required no ethics approvals as we were undertaking non-destructive vegetation
+measuring without collection of any vegetation samples and we were not
+----
+Source: 5.pdf
+dom effect, and hence our results show the models
+without this term.
+
+Ethics statement
+
+Our research required no ethics approvals as we were undertaking non-destructive vegetation
+measuring without collection of any vegetation samples and we were not studying fauna. Our
+sites were all in publicly accessible locations on public land controlled by the Victorian Gov-
+ernment, and therefore no special permission was required.
+
+Results
+
+Overall tree fern growth rates
+
+From our field data, we
+----
+Source: 5.pdf
+were not studying fauna. Our
+sites were all in publicly accessible locations on public land controlled by the Victorian Gov-
+ernment, and therefore no special permission was required.
+
+Results
+
+Overall tree fern growth rates
+
+From our field data, we calculated the overall average growth of C. australis to be 73 (+/- 22)
+mm/year of growth (+/- 1 SD) and 33 (+/- 13)mm/year for D. antarctica (Table 2).
+
+Growth rates and initial height
+
+For both C. australis and D. antarctica, initial height in
+----
+Source: 5.pdf
+, we calculated the overall average growth of C. australis to be 73 (+/- 22)
+mm/year of growth (+/- 1 SD) and 33 (+/- 13)mm/year for D. antarctica (Table 2).
+
+Growth rates and initial height
+
+For both C. australis and D. antarctica, initial height in 2009 was the most significant (Btail
+<0.001) determinant of growth rates. Cyathea australis grew an additional 5mm each year for
+every additional meter in height the tree fern was at the time of the fire. For D. antarctica, the
+increase in growth
+----
+Source: 5.pdf
+in 2009 was the most significant (Btail
+<0.001) determinant of growth rates. Cyathea australis grew an additional 5mm each year for
+every additional meter in height the tree fern was at the time of the fire. For D. antarctica, the
+increase in growth for taller ferns was even greater with an additional 6mm of additional
+growth measured each year for each meter taller the ferns were at the time of the fire (Table 2).
+
+Growth rates and environmental variables
+
+Environmental variables had limited
+----
+Source: 5.pdf
+th for taller ferns was even greater with an additional 6mm of additional
+growth measured each year for each meter taller the ferns were at the time of the fire (Table 2).
+
+Growth rates and environmental variables
+
+Environmental variables had limited influence on growth rates in C. australis with no signifi-
+cant effect identified for slope, elevation or aspect. In contrast, D. antarctica grew more rapidly
+on steeper slopes at a rate of 0.3mm/year for each additional degree in slope (Btail =
+----
+Source: 5.pdf
+ited influence on growth rates in C. australis with no signifi-
+cant effect identified for slope, elevation or aspect. In contrast, D. antarctica grew more rapidly
+on steeper slopes at a rate of 0.3mm/year for each additional degree in slope (Btail = 0.010).
+Elevation and aspect had no influence on the growth rate of D. antarctica and C. australis.
+
+Growth rates and geographic location
+
+Other than initial height in 2009, geographic location had the largest effect on growth rates.
+Cyathea
+----
+Source: 5.pdf
+(Btail = 0.010).
+Elevation and aspect had no influence on the growth rate of D. antarctica and C. australis.
+
+Growth rates and geographic location
+
+Other than initial height in 2009, geographic location had the largest effect on growth rates.
+Cyathea australis grew most rapidly in the Toolangi region, with the growth rate being 13.8mm/
+yr faster than tree ferns in Marysville (Btail = 0.002). Tree ferns in Wallaby Creek grew 11.7mm/
+yr faster than in Marysville (Btail = 0.009) (Fig 2). There
+----
+Source: 5.pdf
+athea australis grew most rapidly in the Toolangi region, with the growth rate being 13.8mm/
+yr faster than tree ferns in Marysville (Btail = 0.002). Tree ferns in Wallaby Creek grew 11.7mm/
+yr faster than in Marysville (Btail = 0.009) (Fig 2). There were insufficient numbers of C. austra-
+lis in the O’Shannassy water catchment for statistical analyses of geographic location effects.
+Dicksonia antarctica grew most rapidly in the Wallaby Creek water catchment and was
+12.5mm/yr faster than in
+----
+Source: 5.pdf
+There were insufficient numbers of C. austra-
+lis in the O’Shannassy water catchment for statistical analyses of geographic location effects.
+Dicksonia antarctica grew most rapidly in the Wallaby Creek water catchment and was
+12.5mm/yr faster than in Marysville State Forest (Btail = 0.002), 10.2mm/yr faster than in Too-
+langi State Forest (Btail = 0.002), and 8.8mm/yr faster than in O’Shannassy water catchment
+
+Table 2. Summary of growth rates of C. australis and D. antarctica, for all ferns
+----
+Source: 5.pdf
+n in Marysville State Forest (Btail = 0.002), 10.2mm/yr faster than in Too-
+langi State Forest (Btail = 0.002), and 8.8mm/yr faster than in O’Shannassy water catchment
+
+Table 2. Summary of growth rates of C. australis and D. antarctica, for all ferns measured on all sites.
+
+C. australis
+
+D. antactica
+
+Number of tree ferns measured (n)
+
+Average growth (mm/yr)
+
+Standard Deviation (mm/yr)
+
+Maximum growth of an individual fern (mm/yr)
+
+Minimum growth of an individual fern (mm/yr)
+
+Additional growth
+----
+Source: 5.pdf
+s measured on all sites.
+
+C. australis
+
+D. antactica
+
+Number of tree ferns measured (n)
+
+Average growth (mm/yr)
+
+Standard Deviation (mm/yr)
+
+Maximum growth of an individual fern (mm/yr)
+
+Minimum growth of an individual fern (mm/yr)
+
+Additional growth per m of height (mm)
+
+https://doi.org/10.1371/journal.pone.0176908.t002
+
+163
+
+73
+
+22
+
+135
+
+19
+
+5
+
+172
+
+33
+
+13
+
+75
+
+7
+
+6
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+6 / 15
+
+Non-linear growth in tree ferns, Dicksonia
+----
+Source: 5.pdf
+growth per m of height (mm)
+
+https://doi.org/10.1371/journal.pone.0176908.t002
+
+163
+
+73
+
+22
+
+135
+
+19
+
+5
+
+172
+
+33
+
+13
+
+75
+
+7
+
+6
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+6 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+Fig 2. Annual growth of C. australis by initial height and geographic area (note that height has been
+slightly offset for each geographic region to improve readability), based on modelled data.
+m = Marysville State
+----
+Source: 5.pdf
+a antarctica and Cyathea australis
+
+Fig 2. Annual growth of C. australis by initial height and geographic area (note that height has been
+slightly offset for each geographic region to improve readability), based on modelled data.
+m = Marysville State Forest, t = Toolangi State Forest, w = Wallaby Creek water catchment.
+
+https://doi.org/10.1371/journal.pone.0176908.g002
+
+(Btail = 0.004). There was no significant difference in growth rates between the other three
+geographic locations for this
+----
+Source: 5.pdf
+State Forest, t = Toolangi State Forest, w = Wallaby Creek water catchment.
+
+https://doi.org/10.1371/journal.pone.0176908.g002
+
+(Btail = 0.004). There was no significant difference in growth rates between the other three
+geographic locations for this species (Fig 3).
+
+Discussion
+
+We posed a series of questions relating to the growth of the two most common tree fern species
+in south-eastern Australia, D. antarctica and C. australis, and the factors that influenced their
+growth. We expected that
+----
+Source: 5.pdf
+is species (Fig 3).
+
+Discussion
+
+We posed a series of questions relating to the growth of the two most common tree fern species
+in south-eastern Australia, D. antarctica and C. australis, and the factors that influenced their
+growth. We expected that the environmental variables we measured would influence growth
+with the more favourable conditions being in areas at higher elevation, where temperatures are
+lower. Snow falls are common in winter at sites at higher elevation but this was thought
+----
+Source: 5.pdf
+hat the environmental variables we measured would influence growth
+with the more favourable conditions being in areas at higher elevation, where temperatures are
+lower. Snow falls are common in winter at sites at higher elevation but this was thought to be
+of little consequence due to its limited persistence and occurrence at the time of year when
+tree ferns grow the least [32]. At lower elevations, high temperatures and drier conditions
+throughout the summer are common which are likely to
+----
+Source: 5.pdf
+hought to be
+of little consequence due to its limited persistence and occurrence at the time of year when
+tree ferns grow the least [32]. At lower elevations, high temperatures and drier conditions
+throughout the summer are common which are likely to affect growth rates, especially when
+combined with high irradiance [25]. At the outset of this investigation, we expected growth of
+both species to be lower on the hotter and drier northern and western aspects compared to
+cooler southern and
+----
+Source: 5.pdf
+ikely to affect growth rates, especially when
+combined with high irradiance [25]. At the outset of this investigation, we expected growth of
+both species to be lower on the hotter and drier northern and western aspects compared to
+cooler southern and eastern aspects. With the forests of the four geographic areas having
+broadly similar rainfall (long term average between 1194-1393mm per annum for the 4 areas,
+[38]), we expected similar growth rates across the different geographic locations where
+----
+Source: 5.pdf
+d eastern aspects. With the forests of the four geographic areas having
+broadly similar rainfall (long term average between 1194-1393mm per annum for the 4 areas,
+[38]), we expected similar growth rates across the different geographic locations where other
+environmental variables such as aspect, elevation and slope were the same.
+
+We found growth rates varied in unexpected ways with initial height at the time of the fire
+being the strongest determinant of growth rate. In the following sections,
+----
+Source: 5.pdf
+e other
+environmental variables such as aspect, elevation and slope were the same.
+
+We found growth rates varied in unexpected ways with initial height at the time of the fire
+being the strongest determinant of growth rate. In the following sections, we discuss possible
+explanations for our findings.
+
+Comparison of tree fern growth rates
+
+Values for the average growth rate of C. australis and D. antarctica were broadly within the
+range of two other earlier studies in south-eastern Australia
+----
+Source: 5.pdf
+ions, we discuss possible
+explanations for our findings.
+
+Comparison of tree fern growth rates
+
+Values for the average growth rate of C. australis and D. antarctica were broadly within the
+range of two other earlier studies in south-eastern Australia [13, 22] (Table 3). Mueck et al [13]
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+7 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+Fig 3. Annual growth of D. antarctica by initial
+----
+Source: 5.pdf
+stralia [13, 22] (Table 3). Mueck et al [13]
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+7 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+Fig 3. Annual growth of D. antarctica by initial height and geographic area (note that height has been
+slightly offset for each geographic region to improve readability), based on modelled data.
+m = Marysville State Forest, o = O’Shannassy water catchment, t = Toolangi State Forest, w = Wallaby
+----
+Source: 5.pdf
+ial height and geographic area (note that height has been
+slightly offset for each geographic region to improve readability), based on modelled data.
+m = Marysville State Forest, o = O’Shannassy water catchment, t = Toolangi State Forest, w = Wallaby Creek
+water catchment.
+
+https://doi.org/10.1371/journal.pone.0176908.g003
+
+used radiocarbon dating from the base of tall specimens of C. australis and D. antarctica, divid-
+ing height by age to give an average growth rate. Their findings were
+----
+Source: 5.pdf
+Wallaby Creek
+water catchment.
+
+https://doi.org/10.1371/journal.pone.0176908.g003
+
+used radiocarbon dating from the base of tall specimens of C. australis and D. antarctica, divid-
+ing height by age to give an average growth rate. Their findings were highly variable for D. ant-
+arctica with both the highest and lowest growth rates outside 2 standard deviations of our
+result. Mueck et al [13] concluded the higher end of their results for D. antarctica were probably
+overestimates. Ferwerda [22]
+----
+Source: 5.pdf
+ere highly variable for D. ant-
+arctica with both the highest and lowest growth rates outside 2 standard deviations of our
+result. Mueck et al [13] concluded the higher end of their results for D. antarctica were probably
+overestimates. Ferwerda [22] measured tree fern frond spacing on coastal bluffs and new
+growth after fire in forests similar to our study. Despite the results of Ferwerda [22] being 1.8
+standard deviations higher than our own, all of the post-fire measurements from that
+----
+Source: 5.pdf
+rda [22] measured tree fern frond spacing on coastal bluffs and new
+growth after fire in forests similar to our study. Despite the results of Ferwerda [22] being 1.8
+standard deviations higher than our own, all of the post-fire measurements from that study
+were taken from tall specimens, for which our study indicates growth rates to be above average.
+
+Environmental variables
+
+We found only limited effects of environmental variables on growth rates, despite at the outset
+of the study predicting
+----
+Source: 5.pdf
+at study
+were taken from tall specimens, for which our study indicates growth rates to be above average.
+
+Environmental variables
+
+We found only limited effects of environmental variables on growth rates, despite at the outset
+of the study predicting all three variables (elevation, slope and aspect) would be important
+based on results from other studies [6, 39]. Our analyses revealed that elevation had a very lim-
+ited effect, with growth rates increasing marginally with increased elevation.
+----
+Source: 5.pdf
+ting all three variables (elevation, slope and aspect) would be important
+based on results from other studies [6, 39]. Our analyses revealed that elevation had a very lim-
+ited effect, with growth rates increasing marginally with increased elevation. This may indicate
+
+Table 3. Summary of tree fern growth studies in Victoria, south-eastern Australia.
+
+Study
+
+Ferwerda (1981)
+
+Ferwerda (1981)
+
+Mueck et al (1996)
+
+Mueck et al (1996)
+
+This study
+
+This study
+
+Location
+
+Western Port
+
+Method
+
+Frond
+----
+Source: 5.pdf
+ion. This may indicate
+
+Table 3. Summary of tree fern growth studies in Victoria, south-eastern Australia.
+
+Study
+
+Ferwerda (1981)
+
+Ferwerda (1981)
+
+Mueck et al (1996)
+
+Mueck et al (1996)
+
+This study
+
+This study
+
+Location
+
+Western Port
+
+Method
+
+Frond spacing
+
+Ferntree Gully NP
+
+Regrowth after ﬁre
+
+Toolangi
+
+Toolangi
+
+Central Highlands
+
+Central Highlands
+
+Radio carbon dating
+
+Radio carbon dating
+
+Regrowth after ﬁre
+
+Regrowth after
+----
+Source: 5.pdf
+996)
+
+This study
+
+This study
+
+Location
+
+Western Port
+
+Method
+
+Frond spacing
+
+Ferntree Gully NP
+
+Regrowth after ﬁre
+
+Toolangi
+
+Toolangi
+
+Central Highlands
+
+Central Highlands
+
+Radio carbon dating
+
+Radio carbon dating
+
+Regrowth after ﬁre
+
+Regrowth after ﬁre
+
+https://doi.org/10.1371/journal.pone.0176908.t003
+
+Species
+
+C. australis
+
+C. australis
+
+C. australis
+
+D. antarctica
+
+C. australis
+
+D. antarctica
+
+Growth rate
+
+105 mm/yr (n = 5)
+
+113 mm/yr (n = 6)
+
+22–38 mm/yr (n = 2)
+
+5–88 mm/yr (n =
+----
+Source: 5.pdf
+rowth after ﬁre
+
+https://doi.org/10.1371/journal.pone.0176908.t003
+
+Species
+
+C. australis
+
+C. australis
+
+C. australis
+
+D. antarctica
+
+C. australis
+
+D. antarctica
+
+Growth rate
+
+105 mm/yr (n = 5)
+
+113 mm/yr (n = 6)
+
+22–38 mm/yr (n = 2)
+
+5–88 mm/yr (n = 6)
+
+73(+/-22) mm/yr (n = 163)
+
+33(+/-13) mm/yr (n = 172)
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+8 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+that temperature and rainfall,
+----
+Source: 5.pdf
+(n = 6)
+
+73(+/-22) mm/yr (n = 163)
+
+33(+/-13) mm/yr (n = 172)
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+8 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+that temperature and rainfall, both of which are highly correlated with elevation in our study
+area, did not have an effect, or that there were additional factors that masked these effects. A
+lack of effect was unexpected due to temperature, in particular, having been shown to
+----
+Source: 5.pdf
+ll, both of which are highly correlated with elevation in our study
+area, did not have an effect, or that there were additional factors that masked these effects. A
+lack of effect was unexpected due to temperature, in particular, having been shown to alter
+quantum yield [20, 25]. In addition, both variables have been identified as important determi-
+nants of the distribution of C. australis and D. antarctica [6, 40, 41]. It therefore appears that
+what affects the distribution of tree ferns may
+----
+Source: 5.pdf
+to alter
+quantum yield [20, 25]. In addition, both variables have been identified as important determi-
+nants of the distribution of C. australis and D. antarctica [6, 40, 41]. It therefore appears that
+what affects the distribution of tree ferns may not influence growth rate.
+
+Geographic location
+
+We did not measure sufficient or appropriate additional variables to determine why the
+growth rate of tree ferns would vary between different geographic locations. Different local fac-
+tors are
+----
+Source: 5.pdf
+rns may not influence growth rate.
+
+Geographic location
+
+We did not measure sufficient or appropriate additional variables to determine why the
+growth rate of tree ferns would vary between different geographic locations. Different local fac-
+tors are important as Toolangi State Forest was the area of fastest growth for C. australis, but
+slowest growth for D. antarctica. Wallaby Creek water catchment seemed very favourable to
+both species with D. antarctica growing significantly more rapidly
+----
+Source: 5.pdf
+s are important as Toolangi State Forest was the area of fastest growth for C. australis, but
+slowest growth for D. antarctica. Wallaby Creek water catchment seemed very favourable to
+both species with D. antarctica growing significantly more rapidly relative to other locations.
+In New Zealand, Brock et al [6] found tree fern growth increased with decreasing latitude. In
+contrast, the geographic range of our study was far more restricted, but also spread more east-
+west with minimal difference
+----
+Source: 5.pdf
+ly relative to other locations.
+In New Zealand, Brock et al [6] found tree fern growth increased with decreasing latitude. In
+contrast, the geographic range of our study was far more restricted, but also spread more east-
+west with minimal difference in latitude. As such, latitude was unlikely to be a factor affecting
+our results.
+
+Cyathea grow faster than Dicksonia
+
+We confirmed that C. australis grows faster than D. antarctica. This is perhaps not surprising
+given Cyathea as a genus has many
+----
+Source: 5.pdf
+ce in latitude. As such, latitude was unlikely to be a factor affecting
+our results.
+
+Cyathea grow faster than Dicksonia
+
+We confirmed that C. australis grows faster than D. antarctica. This is perhaps not surprising
+given Cyathea as a genus has many very fast growing species and, on average, have larger
+crown spread than Dicksonia [16].This may in part be due to C. australis having a greater spe-
+cific leaf area of 10.4m2/kg compared to 8.6m2/kg for D. antarctica [20] which provides
+----
+Source: 5.pdf
+nus has many very fast growing species and, on average, have larger
+crown spread than Dicksonia [16].This may in part be due to C. australis having a greater spe-
+cific leaf area of 10.4m2/kg compared to 8.6m2/kg for D. antarctica [20] which provides for
+greater photosynthetic capability. Physiologically, Cyathea australis also has leaf hairs that may
+reduce UV-B exposure in the post-fire high growth irradiance environment. It is thought these
+leaf hairs also may explain why C. australis has a
+----
+Source: 5.pdf
+es for
+greater photosynthetic capability. Physiologically, Cyathea australis also has leaf hairs that may
+reduce UV-B exposure in the post-fire high growth irradiance environment. It is thought these
+leaf hairs also may explain why C. australis has a broader climatic niche that D. antarctica [20,
+24]. Interspecific differences in growth rates also may be due to differences in rooting structure
+or due to resources extracted by bryophytes and epiphytes, which are in greater numbers on
+the moister
+----
+Source: 5.pdf
+a broader climatic niche that D. antarctica [20,
+24]. Interspecific differences in growth rates also may be due to differences in rooting structure
+or due to resources extracted by bryophytes and epiphytes, which are in greater numbers on
+the moister fibrous trunks of D. antarctica than on the drier stipe shielded trunks of C. australis
+[42]. The difference in microclimatic conditions of locations where these tree fern species are
+found also may effect growth rates.
+
+Taller ferns grew
+----
+Source: 5.pdf
+the moister fibrous trunks of D. antarctica than on the drier stipe shielded trunks of C. australis
+[42]. The difference in microclimatic conditions of locations where these tree fern species are
+found also may effect growth rates.
+
+Taller ferns grew more
+
+Contrary to our expectations at the outset of this investigation of uniform growth rates for
+ferns of different height, we found that taller C. australis and D. antarctica had grown more
+than shorter individuals during the 5 year period of
+----
+Source: 5.pdf
+grew more
+
+Contrary to our expectations at the outset of this investigation of uniform growth rates for
+ferns of different height, we found that taller C. australis and D. antarctica had grown more
+than shorter individuals during the 5 year period of measurement. We considered four possi-
+ble reasons for this: 1) The size and spread of the rosette of fronds, which increase in diameter
+as ferns become established; 2) shorter ferns being more negatively affected by the fire and
+being less capable
+----
+Source: 5.pdf
+f measurement. We considered four possi-
+ble reasons for this: 1) The size and spread of the rosette of fronds, which increase in diameter
+as ferns become established; 2) shorter ferns being more negatively affected by the fire and
+being less capable of using fire released nutrients; 3) growth rates for these species were expo-
+nential; and 4) following increases in light availability due to overstorey canopy removal by
+fire, taller ferns being exposed to these increased light levels for longer
+----
+Source: 5.pdf
+e of using fire released nutrients; 3) growth rates for these species were expo-
+nential; and 4) following increases in light availability due to overstorey canopy removal by
+fire, taller ferns being exposed to these increased light levels for longer as shorter ferns are over
+taken and shaded by regrowing tree species for a greater proportion of the study period. We
+examine these four explanations in detail below.
+
+Our first proposition suggested the larger rosettes of older ferns may allow for
+----
+Source: 5.pdf
+r as shorter ferns are over
+taken and shaded by regrowing tree species for a greater proportion of the study period. We
+examine these four explanations in detail below.
+
+Our first proposition suggested the larger rosettes of older ferns may allow for greater
+growth due to increased capture of light (and therefore photosynthetic capacity) and re-
+direction of rainfall compared to shorter ferns with smaller crowns. Interception of rainfall
+by tall tree ferns may further limit rainfall reaching
+----
+Source: 5.pdf
+for greater
+growth due to increased capture of light (and therefore photosynthetic capacity) and re-
+direction of rainfall compared to shorter ferns with smaller crowns. Interception of rainfall
+by tall tree ferns may further limit rainfall reaching short individuals when they are situated
+beneath taller ones. New fronds pointing upwards funnel water into the top of the trunk
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+9 / 15
+
+Non-linear growth in tree ferns,
+----
+Source: 5.pdf
+reaching short individuals when they are situated
+beneath taller ones. New fronds pointing upwards funnel water into the top of the trunk
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+9 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+where aerial roots surround the fronds, as well as fronds themselves being capable of direct
+uptake of moisture [12]. However, higher growth rates achieved through the effect of greater
+interception of
+----
+Source: 5.pdf
+rns, Dicksonia antarctica and Cyathea australis
+
+where aerial roots surround the fronds, as well as fronds themselves being capable of direct
+uptake of moisture [12]. However, higher growth rates achieved through the effect of greater
+interception of both light and rainfall should taper once maximum crown diameter is
+reached, which from our observations, occurs when ferns are approximately one metre in
+height.
+
+Given we measured growth following a major wildfire, the second possible explanation
+----
+Source: 5.pdf
+f both light and rainfall should taper once maximum crown diameter is
+reached, which from our observations, occurs when ferns are approximately one metre in
+height.
+
+Given we measured growth following a major wildfire, the second possible explanation for
+our observation of taller ferns growing faster than short tree ferns, was the change in photosyn-
+thetic capability due to loss of fronds, potentially counter-balanced by a positive effect of
+increased growth due to increased availability of
+----
+Source: 5.pdf
+tion for
+our observation of taller ferns growing faster than short tree ferns, was the change in photosyn-
+thetic capability due to loss of fronds, potentially counter-balanced by a positive effect of
+increased growth due to increased availability of nutrients in the ash bed following fire [43].
+Physical damage from fire could have greater effects on short ferns which have their crown
+closer to ground level and where fuel loads are generally highest. If fire damage was a factor
+affecting growth
+----
+Source: 5.pdf
+f nutrients in the ash bed following fire [43].
+Physical damage from fire could have greater effects on short ferns which have their crown
+closer to ground level and where fuel loads are generally highest. If fire damage was a factor
+affecting growth rates, we would expect aspect and slope to have been important covariates in
+our models because they have a strong influence on fire severity [44]. It also seems unlikely
+such effects would be influential beyond the first year unless the fire
+----
+Source: 5.pdf
+growth rates, we would expect aspect and slope to have been important covariates in
+our models because they have a strong influence on fire severity [44]. It also seems unlikely
+such effects would be influential beyond the first year unless the fire delayed post-fire re-
+sprouting in shorter ferns. We checked for such effects by viewing several hundred post-fire
+photographs of burned stands but found no evidence of retarded resprouting of short ferns
+compared to tall ones. Increased nutrients
+----
+Source: 5.pdf
+re delayed post-fire re-
+sprouting in shorter ferns. We checked for such effects by viewing several hundred post-fire
+photographs of burned stands but found no evidence of retarded resprouting of short ferns
+compared to tall ones. Increased nutrients may be a factor underpinning changes in growth
+rates pre and post fire. However, as all our measurements were post-fire, this does not explain
+the greater rates of growth among taller ferns, unless dominant individuals were able to
+monopolize
+----
+Source: 5.pdf
+trients may be a factor underpinning changes in growth
+rates pre and post fire. However, as all our measurements were post-fire, this does not explain
+the greater rates of growth among taller ferns, unless dominant individuals were able to
+monopolize resources, which seems unlikely.
+
+A third possible explanation for our results was that we had measured exponential growth,
+
+or that taller tree ferns inherently grew faster. Given that initial height of the tree ferns at the
+time of the 2009 fire
+----
+Source: 5.pdf
+ze resources, which seems unlikely.
+
+A third possible explanation for our results was that we had measured exponential growth,
+
+or that taller tree ferns inherently grew faster. Given that initial height of the tree ferns at the
+time of the 2009 fire determined how much they grew, and that this apparent increased growth
+rate did not seem to taper over the duration of our investigation (Figs 2 and 3), a possible con-
+clusion was that we had discovered exponential growth throughout a plant’s
+----
+Source: 5.pdf
+9 fire determined how much they grew, and that this apparent increased growth
+rate did not seem to taper over the duration of our investigation (Figs 2 and 3), a possible con-
+clusion was that we had discovered exponential growth throughout a plant’s life, a very
+unusual pattern for any plant species. The only example in the literature for tree ferns that sug-
+gested this may be possible was a Jamaican study on Cyathea pubscens that found stipe interval
+increased with trunk height, indicating
+----
+Source: 5.pdf
+t’s life, a very
+unusual pattern for any plant species. The only example in the literature for tree ferns that sug-
+gested this may be possible was a Jamaican study on Cyathea pubscens that found stipe interval
+increased with trunk height, indicating possible growth acceleration with time [26], although
+this was not directly measured. To test this explanation, we modelled exponential equations
+from our data. However, given the longevity of these two species, our equations provided
+highly
+----
+Source: 5.pdf
+dicating possible growth acceleration with time [26], although
+this was not directly measured. To test this explanation, we modelled exponential equations
+from our data. However, given the longevity of these two species, our equations provided
+highly unrealistic results for old tree ferns with heights over 50 metres tall, suggesting another
+explanation was needed.
+
+A fourth possible explanation for our results was canopy removal by fire of the surrounding
+
+trees and shrubs and subsequent
+----
+Source: 5.pdf
+d
+highly unrealistic results for old tree ferns with heights over 50 metres tall, suggesting another
+explanation was needed.
+
+A fourth possible explanation for our results was canopy removal by fire of the surrounding
+
+trees and shrubs and subsequent sequential shading by dense regeneration. In the forests of
+the Central Highlands, following a high severity fire such as the one at the start of our study
+period, all strata have foliage removed [45] leading to greatly increased light
+----
+Source: 5.pdf
+and subsequent sequential shading by dense regeneration. In the forests of
+the Central Highlands, following a high severity fire such as the one at the start of our study
+period, all strata have foliage removed [45] leading to greatly increased light availability. This
+is followed by a pulse of vigorous regrowth of eucalypts and Acacia germinating from seed.
+From other unpublished vegetation data we collected on post fire regrowth, measured across
+the same period as our study, we know the
+----
+Source: 5.pdf
+d light availability. This
+is followed by a pulse of vigorous regrowth of eucalypts and Acacia germinating from seed.
+From other unpublished vegetation data we collected on post fire regrowth, measured across
+the same period as our study, we know the growth rate of this dense cohort of trees is rapid but
+is relatively uniform [46]. After a year to establish, the regrowth grows at approximately
+1–1.5m/year. The regrowth is very dense and provides almost complete shade to plants
+beneath the
+----
+Source: 5.pdf
+now the growth rate of this dense cohort of trees is rapid but
+is relatively uniform [46]. After a year to establish, the regrowth grows at approximately
+1–1.5m/year. The regrowth is very dense and provides almost complete shade to plants
+beneath the canopy. The loss of overstorey canopy shading due to the fires created a period of
+greatly increased light penetration reaching the tree ferns, which may have led to an acceler-
+ated growth rate [6, 47]. For the shortest ferns in our study, the
+----
+Source: 5.pdf
+h the canopy. The loss of overstorey canopy shading due to the fires created a period of
+greatly increased light penetration reaching the tree ferns, which may have led to an acceler-
+ated growth rate [6, 47]. For the shortest ferns in our study, the period of increased light avail-
+ability due to absence of overstorey canopy may have lasted less than 12 months, while the
+tallest ferns studied would have had such conditions for three to five years, giving them more
+favourable growing conditions
+----
+Source: 5.pdf
+e period of increased light avail-
+ability due to absence of overstorey canopy may have lasted less than 12 months, while the
+tallest ferns studied would have had such conditions for three to five years, giving them more
+favourable growing conditions for longer.
+
+Differential growth of individuals in sun, compared to those located in shade, has been
+
+observed in tree fern studies in Columbia [48]. Observations from New Zealand found
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May
+----
+Source: 5.pdf
+ons for longer.
+
+Differential growth of individuals in sun, compared to those located in shade, has been
+
+observed in tree fern studies in Columbia [48]. Observations from New Zealand found
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+10 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+different tree fern species occupy niches along a shade-light spectrum where growth varied,
+but importantly, where recruitment was also effected by
+----
+Source: 5.pdf
+8 May 11, 2017
+
+10 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+different tree fern species occupy niches along a shade-light spectrum where growth varied,
+but importantly, where recruitment was also effected by shade levels [49]. A series of studies
+on the physiology of both D. antarctica and C. australis, in greenhouse and field conditions,
+showed high irradiance caused decreases in photosynthetic capacity [20, 21, 25]. However,
+these same studies also
+----
+Source: 5.pdf
+by shade levels [49]. A series of studies
+on the physiology of both D. antarctica and C. australis, in greenhouse and field conditions,
+showed high irradiance caused decreases in photosynthetic capacity [20, 21, 25]. However,
+these same studies also showed varying ability of these species to acclimatise to such changes
+in irradiance over periods up to 3 months. The one field-based study of the three, which was
+the only one studying tree ferns more than a year old, found the ability for
+----
+Source: 5.pdf
+dies also showed varying ability of these species to acclimatise to such changes
+in irradiance over periods up to 3 months. The one field-based study of the three, which was
+the only one studying tree ferns more than a year old, found the ability for seasonal acclima-
+tion [20]. Lower temperatures in winter were shown to reduce photosynthetic capacity, so it
+may be that the additional warmth of full sun exposure during winter allowed additional
+growth in our study despite our study finding
+----
+Source: 5.pdf
+ty for seasonal acclima-
+tion [20]. Lower temperatures in winter were shown to reduce photosynthetic capacity, so it
+may be that the additional warmth of full sun exposure during winter allowed additional
+growth in our study despite our study finding temperature not to be influential. Actual
+growth rates were not measured in these studies. The results from Ferwerda [22] would sup-
+port our concept of variable growth rates in tree ferns as it was the tallest ferns burnt by fire
+(and therefore
+----
+Source: 5.pdf
+ding temperature not to be influential. Actual
+growth rates were not measured in these studies. The results from Ferwerda [22] would sup-
+port our concept of variable growth rates in tree ferns as it was the tallest ferns burnt by fire
+(and therefore exposed to more light for longer) that had the greatest growth rates in that
+study.
+
+If tree ferns grow faster with increased available light, this may assist interpretation of the
+results of other studies. For example, a study in Costa Rica which
+----
+Source: 5.pdf
+re exposed to more light for longer) that had the greatest growth rates in that
+study.
+
+If tree ferns grow faster with increased available light, this may assist interpretation of the
+results of other studies. For example, a study in Costa Rica which concluded growth rates were
+related to whether the surrounding habitat was primary or secondary forest [50], only briefly
+mentioned light levels. Our study would suggest that increased light levels may have been
+important, with tree fern growth in
+----
+Source: 5.pdf
+ch concluded growth rates were
+related to whether the surrounding habitat was primary or secondary forest [50], only briefly
+mentioned light levels. Our study would suggest that increased light levels may have been
+important, with tree fern growth in open secondary forest being up to three times that of
+closed primary forest. The concept of greater growth rates in sun compared to shade was
+found to hold true in a study from the Andes, where Cyathea caracasana grew more rapidly
+when exposed to
+----
+Source: 5.pdf
+in open secondary forest being up to three times that of
+closed primary forest. The concept of greater growth rates in sun compared to shade was
+found to hold true in a study from the Andes, where Cyathea caracasana grew more rapidly
+when exposed to full sun compared to closed forest [27]. The conclusion was that C. caraca-
+sana was a species that was able to take advantage of gaps in the forest to grow rapidly and pro-
+duce large volumes of spores, then slow down again but persist as shading
+----
+Source: 5.pdf
+to full sun compared to closed forest [27]. The conclusion was that C. caraca-
+sana was a species that was able to take advantage of gaps in the forest to grow rapidly and pro-
+duce large volumes of spores, then slow down again but persist as shading increased. It would
+appear that tree ferns in Australia may follow a similar ‘sit and wait’ life strategy. However, our
+findings showing an increase in growth rate as ferns became taller was in contrast to a study of
+five Cyathea species in Costa
+----
+Source: 5.pdf
+ing increased. It would
+appear that tree ferns in Australia may follow a similar ‘sit and wait’ life strategy. However, our
+findings showing an increase in growth rate as ferns became taller was in contrast to a study of
+five Cyathea species in Costa Rica where growth remained constant over time [50], or in Japan
+where growth of Cyathea spinulosa slowed gradually over time [29]. It was also counter to the
+assumption (without evidence) made by Ferwerda [22] that growth rates of C. australis
+----
+Source: 5.pdf
+Costa Rica where growth remained constant over time [50], or in Japan
+where growth of Cyathea spinulosa slowed gradually over time [29]. It was also counter to the
+assumption (without evidence) made by Ferwerda [22] that growth rates of C. australis would
+slow as the ferns increased in height.
+
+We do not know if tree ferns in Australia produce additional spores during times of
+
+increased light exposure and accelerated growth, but if this is the case, it could have significant
+implications for
+----
+Source: 5.pdf
+is would
+slow as the ferns increased in height.
+
+We do not know if tree ferns in Australia produce additional spores during times of
+
+increased light exposure and accelerated growth, but if this is the case, it could have significant
+implications for forest management if an aim is to encourage tree fern recruitment in areas
+where they have been reduced in number (such as logged stands or areas where tree fern har-
+vesting occurs). In New Zealand, tree ferns rapidly colonise open areas with
+----
+Source: 5.pdf
+ns for forest management if an aim is to encourage tree fern recruitment in areas
+where they have been reduced in number (such as logged stands or areas where tree fern har-
+vesting occurs). In New Zealand, tree ferns rapidly colonise open areas with suitable condi-
+tions, however this does not appear to be the case in Australia [6, 51]. Improved recruitment
+of tree ferns across logged areas may be possible by retaining them around the edge of cut-
+blocks, in undisturbed islands of forest
+----
+Source: 5.pdf
+as with suitable condi-
+tions, however this does not appear to be the case in Australia [6, 51]. Improved recruitment
+of tree ferns across logged areas may be possible by retaining them around the edge of cut-
+blocks, in undisturbed islands of forest retained across harvested areas where they are more
+likely to survive and where possible, within the cut area. By retaining tree ferns in multiple
+directions, this is likely to enhance post-disturbance recruitment because the tree fern’s spores
+are
+----
+Source: 5.pdf
+t retained across harvested areas where they are more
+likely to survive and where possible, within the cut area. By retaining tree ferns in multiple
+directions, this is likely to enhance post-disturbance recruitment because the tree fern’s spores
+are wind dispersed.
+
+We did not specifically measure light interception, canopy cover or spore production by
+tree ferns. Further research measuring tree ferns in areas subject to different light regimes is
+required. Given D. antarctica tends to grow to
+----
+Source: 5.pdf
+e wind dispersed.
+
+We did not specifically measure light interception, canopy cover or spore production by
+tree ferns. Further research measuring tree ferns in areas subject to different light regimes is
+required. Given D. antarctica tends to grow to a height of ~ 5-6m before collapsing, it should
+be possible to test whether it is age or height (and therefore access to light) that most strongly
+influences growth rate. If old fallen tree ferns grow at the same rate as much younger ferns
+which
+----
+Source: 5.pdf
+w to a height of ~ 5-6m before collapsing, it should
+be possible to test whether it is age or height (and therefore access to light) that most strongly
+influences growth rate. If old fallen tree ferns grow at the same rate as much younger ferns
+which are the same height, this would lend weight to light being significant driver of growth
+rates. If however, they continue to grow at similar rates to those of the same age, it would indi-
+cate age is a more important driver of growth rates.
+
+PLOS
+----
+Source: 5.pdf
+hich are the same height, this would lend weight to light being significant driver of growth
+rates. If however, they continue to grow at similar rates to those of the same age, it would indi-
+cate age is a more important driver of growth rates.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+11 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+Conclusions
+
+Tree ferns are an important element of stand structure and species composition of
+----
+Source: 5.pdf
+LOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+11 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+Conclusions
+
+Tree ferns are an important element of stand structure and species composition of many for-
+ests worldwide. They have numerous key ecological roles such as providing food, nesting sites
+and movement pathways for animals and being host sites for a wide diversity of epiphytic
+plants. Tree ferns are long lived and are commonly
+----
+Source: 5.pdf
+ion of many for-
+ests worldwide. They have numerous key ecological roles such as providing food, nesting sites
+and movement pathways for animals and being host sites for a wide diversity of epiphytic
+plants. Tree ferns are long lived and are commonly found in old growth forests. The factors
+that determine where tree ferns persist appear to be different from those that determine
+growth rates. Accurate estimation of their age remains difficult due to growth rates varying
+through a plant’s life,
+----
+Source: 5.pdf
+nly found in old growth forests. The factors
+that determine where tree ferns persist appear to be different from those that determine
+growth rates. Accurate estimation of their age remains difficult due to growth rates varying
+through a plant’s life, preventing the development of simple equations such as those that divide
+height by growth rate. Given our measurements were taken across a period when increased
+growth rates due to the increased light availability seems likely, the average growth
+----
+Source: 5.pdf
+fe, preventing the development of simple equations such as those that divide
+height by growth rate. Given our measurements were taken across a period when increased
+growth rates due to the increased light availability seems likely, the average growth rate for the
+two species of tree ferns are likely to be above longer term averages when greater shading is the
+norm. Despite being well adapted to fire, tree ferns are highly susceptible to logging [17, 18]
+and if spore production in these species
+----
+Source: 5.pdf
+th rate for the
+two species of tree ferns are likely to be above longer term averages when greater shading is the
+norm. Despite being well adapted to fire, tree ferns are highly susceptible to logging [17, 18]
+and if spore production in these species is found to increase with increases in available light,
+this may have important implications for forest management. Our research, while a relatively
+short term cross-sectional study of these long-lived organisms, increases our understanding
+----
+Source: 5.pdf
+e species is found to increase with increases in available light,
+this may have important implications for forest management. Our research, while a relatively
+short term cross-sectional study of these long-lived organisms, increases our understanding of
+their ability to grow rapidly following fire and may assist with the management of these impor-
+tant species.
+
+Supporting information
+
+S1 Table. Summary of locations, number of ferns and variables measured.
+(DOCX)
+
+S2 Table. Modelling results
+----
+Source: 5.pdf
+ding of
+their ability to grow rapidly following fire and may assist with the management of these impor-
+tant species.
+
+Supporting information
+
+S1 Table. Summary of locations, number of ferns and variables measured.
+(DOCX)
+
+S2 Table. Modelling results for the two fern species. Where L-95% CI and U-95% CI are the
+lower and upper end points of the 95% credible interval and Btail is a measure of support (see
+Methods for more detail).
+(DOCX)
+
+Acknowledgments
+
+We thank the Academic Editor of PLOS
+----
+Source: 5.pdf
+sults for the two fern species. Where L-95% CI and U-95% CI are the
+lower and upper end points of the 95% credible interval and Btail is a measure of support (see
+Methods for more detail).
+(DOCX)
+
+Acknowledgments
+
+We thank the Academic Editor of PLOS ONE, Sergio Rossi and the four anonymous reviewers
+for their thoughtful comments which improved the manuscript. We also thank the Long Term
+Ecological Research Network (LTERN) and the Terrestrial Ecosystem Research Network
+(TERN) for their support
+----
+Source: 5.pdf
+OS ONE, Sergio Rossi and the four anonymous reviewers
+for their thoughtful comments which improved the manuscript. We also thank the Long Term
+Ecological Research Network (LTERN) and the Terrestrial Ecosystem Research Network
+(TERN) for their support of our research.
+
+Author Contributions
+
+Conceptualization: DPB WB DBL SCB.
+
+Data curation: DPB.
+
+Formal analysis: WB DPB.
+
+Funding acquisition: DBL.
+
+Investigation: DPB.
+
+Methodology: DPB WB DBL.
+
+Writing – original draft: DPB DBL.
+
+Writing –
+----
+Source: 5.pdf
+support of our research.
+
+Author Contributions
+
+Conceptualization: DPB WB DBL SCB.
+
+Data curation: DPB.
+
+Formal analysis: WB DPB.
+
+Funding acquisition: DBL.
+
+Investigation: DPB.
+
+Methodology: DPB WB DBL.
+
+Writing – original draft: DPB DBL.
+
+Writing – review & editing: DBL DPB SCB WB.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+12 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+References
+1. Conant DS, Raubeson LA, Attwood DK, Stein
+----
+Source: 5.pdf
+– review & editing: DBL DPB SCB WB.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+12 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+References
+1. Conant DS, Raubeson LA, Attwood DK, Stein DB. The relationships of Papuasian Cyatheaceae to new
+
+world tree ferns. American Fern Journal. 1995; 85(4):328–40.
+
+2. Korall P, Pryer KM. Global biogeography of scaly tree ferns (Cyatheaceae): evidence for Gondwanan
+
+vicariance and limited
+----
+Source: 5.pdf
+K, Stein DB. The relationships of Papuasian Cyatheaceae to new
+
+world tree ferns. American Fern Journal. 1995; 85(4):328–40.
+
+2. Korall P, Pryer KM. Global biogeography of scaly tree ferns (Cyatheaceae): evidence for Gondwanan
+
+vicariance and limited transoceanic dispersal. Journal of biogeography. 2014; 41(2):402–13. https://doi.
+org/10.1111/jbi.12222 PMID: 25435648
+
+3. Ashton D, Willis E. Antagonisms in the regeneration of Eucalyptus regnans in the mature forest. Special
+
+publications series
+----
+Source: 5.pdf
+ed transoceanic dispersal. Journal of biogeography. 2014; 41(2):402–13. https://doi.
+org/10.1111/jbi.12222 PMID: 25435648
+
+3. Ashton D, Willis E. Antagonisms in the regeneration of Eucalyptus regnans in the mature forest. Special
+
+publications series of the British Ecological Society. 1982.
+
+4.
+
+Lindenmayer D, Cunningham R, Donnelly C, Franklin J. Structural features of old-growth Australian
+montane ash forests. Forest Ecology and Management. 2000; 134(1):189–204.
+
+5. Roberts NR, Dalton PJ,
+----
+Source: 5.pdf
+eries of the British Ecological Society. 1982.
+
+4.
+
+Lindenmayer D, Cunningham R, Donnelly C, Franklin J. Structural features of old-growth Australian
+montane ash forests. Forest Ecology and Management. 2000; 134(1):189–204.
+
+5. Roberts NR, Dalton PJ, Jordan GJ. Epiphytic ferns and bryophytes of Tasmanian tree-ferns: A compari-
+son of diversity and composition between two host species. Austral Ecology. 2005; 30(2):146–54.
+
+6. Brock JM, Perry GL, Lee WG, Burns BR. Tree fern ecology in New
+----
+Source: 5.pdf
+alton PJ, Jordan GJ. Epiphytic ferns and bryophytes of Tasmanian tree-ferns: A compari-
+son of diversity and composition between two host species. Austral Ecology. 2005; 30(2):146–54.
+
+6. Brock JM, Perry GL, Lee WG, Burns BR. Tree fern ecology in New Zealand: A model for southern tem-
+
+perate rainforests. Forest Ecology and Management. 2016; 375:112–26.
+
+7. Pharo EJ, Meagher DA, Lindenmayer DB. Bryophyte persistence following major fire in eucalypt forest
+
+of southern Australia. Forest Ecology
+----
+Source: 5.pdf
+ew Zealand: A model for southern tem-
+
+perate rainforests. Forest Ecology and Management. 2016; 375:112–26.
+
+7. Pharo EJ, Meagher DA, Lindenmayer DB. Bryophyte persistence following major fire in eucalypt forest
+
+of southern Australia. Forest Ecology and Management. 2013; 296:24–32.
+
+8. Moran RC, Klimas S, Carlsen M. Low-Trunk Epiphytic Ferns on Tree Ferns Versus Angiosperms in
+
+Costa Rica. Biotropica. 2003; 35(1):48–56.
+
+9.
+
+Lindenmayer D, Cunningham R, Donnelly C, Triggs B, Belvedere M. The
+----
+Source: 5.pdf
+ogy and Management. 2013; 296:24–32.
+
+8. Moran RC, Klimas S, Carlsen M. Low-Trunk Epiphytic Ferns on Tree Ferns Versus Angiosperms in
+
+Costa Rica. Biotropica. 2003; 35(1):48–56.
+
+9.
+
+Lindenmayer D, Cunningham R, Donnelly C, Triggs B, Belvedere M. The conservation of arboreal mar-
+supials in the montane ash forests of the central highlands of Victoria, south-eastern Australia V. Pat-
+terns of use and the microhabitat requirements of the mountain brushtail possum Trichosurus caninus
+(Ogilby) in
+----
+Source: 5.pdf
+The conservation of arboreal mar-
+supials in the montane ash forests of the central highlands of Victoria, south-eastern Australia V. Pat-
+terns of use and the microhabitat requirements of the mountain brushtail possum Trichosurus caninus
+(Ogilby) in retained linear habitats (wildlife corridors). Biological Conservation. 1993; 68(1):43–51.
+
+10. Seebeck J, Warneke R, Baxter B. Diet of the bobuck, Trichosurus caninus (Ogilby)(Marsupialia: Pha-
+
+langeridae) in a mountain forest in Victoria. In
+----
+Source: 5.pdf
+y) in retained linear habitats (wildlife corridors). Biological Conservation. 1993; 68(1):43–51.
+
+10. Seebeck J, Warneke R, Baxter B. Diet of the bobuck, Trichosurus caninus (Ogilby)(Marsupialia: Pha-
+
+langeridae) in a mountain forest in Victoria. In ‘Possums and Gliders’.(Eds Smith AP and Hume ID.) pp.
+145–154: Australian Mammal Society: Sydney; 1984. 145–54 p.
+
+11. Coomes DA, Allen RB, Bentley WA, Burrows LE, Canham CD, Fagan L, et al. The hare, the tortoise
+
+and the crocodile: the ecology of
+----
+Source: 5.pdf
+n ‘Possums and Gliders’.(Eds Smith AP and Hume ID.) pp.
+145–154: Australian Mammal Society: Sydney; 1984. 145–54 p.
+
+11. Coomes DA, Allen RB, Bentley WA, Burrows LE, Canham CD, Fagan L, et al. The hare, the tortoise
+
+and the crocodile: the ecology of angiosperm dominance, conifer persistence and fern filtering. Journal
+of Ecology. 2005; 93(5):918–35.
+
+12. Hunt MA, Davidson NJ, Unwin GL, Close DC. Ecophysiology of the Soft Tree Fern, Dicksonia antarctica
+
+Labill. Austral Ecology. 2002;
+----
+Source: 5.pdf
+ecology of angiosperm dominance, conifer persistence and fern filtering. Journal
+of Ecology. 2005; 93(5):918–35.
+
+12. Hunt MA, Davidson NJ, Unwin GL, Close DC. Ecophysiology of the Soft Tree Fern, Dicksonia antarctica
+
+Labill. Austral Ecology. 2002; 27(4):360–8.
+
+13. Mueck SG, Ough K, Banks JCG. How old are Wet Forest understories? Australian Journal of Ecology.
+
+1996; 21(3):345–8.
+
+14.
+
+Lindenmayer DB, Ough K. Salvage logging in the montane ash eucalypt forests of the Central High-
+lands of
+----
+Source: 5.pdf
+02; 27(4):360–8.
+
+13. Mueck SG, Ough K, Banks JCG. How old are Wet Forest understories? Australian Journal of Ecology.
+
+1996; 21(3):345–8.
+
+14.
+
+Lindenmayer DB, Ough K. Salvage logging in the montane ash eucalypt forests of the Central High-
+lands of Victoria and its potential impacts on biodiversity. Conservation Biology. 2006; 20(4):1005–15.
+PMID: 16922217
+
+15. Walsh NG, Entwisle TJ. Flora of Victoria: Volume 2 Ferns and allied plants, conifers and monocotyle-
+
+dons. Melbourne, Australia:
+----
+Source: 5.pdf
+ds of Victoria and its potential impacts on biodiversity. Conservation Biology. 2006; 20(4):1005–15.
+PMID: 16922217
+
+15. Walsh NG, Entwisle TJ. Flora of Victoria: Volume 2 Ferns and allied plants, conifers and monocotyle-
+
+dons. Melbourne, Australia: Inkata Press; 1994.
+
+16.
+
+Large MF, Braggins JE. Tree ferns: CSIRO publishing; 2004.
+
+17. Blair DP, McBurney LM, Blanchard W, Banks SC, Lindenmayer DB. Disturbance gradient shows log-
+
+ging affects plant functional groups more than fire. Ecological
+----
+Source: 5.pdf
+: Inkata Press; 1994.
+
+16.
+
+Large MF, Braggins JE. Tree ferns: CSIRO publishing; 2004.
+
+17. Blair DP, McBurney LM, Blanchard W, Banks SC, Lindenmayer DB. Disturbance gradient shows log-
+
+ging affects plant functional groups more than fire. Ecological Applications. 2016; 26(3):2280–301.
+
+18. Ough K, Murphy A. Decline in tree-fern abundance after clearfell harvesting. Forest Ecology and Man-
+
+agement. 2004; 199(1):153–63.
+
+19. Peacock R, Duncan F. Effects of logging on manferns (Dicksonia
+----
+Source: 5.pdf
+cological Applications. 2016; 26(3):2280–301.
+
+18. Ough K, Murphy A. Decline in tree-fern abundance after clearfell harvesting. Forest Ecology and Man-
+
+agement. 2004; 199(1):153–63.
+
+19. Peacock R, Duncan F. Effects of logging on manferns (Dicksonia antarctica) and epiphytes, Division of
+Silviculture Research and Development Annual Report 1994–95. Forestry Tasmania, Tasmania. 1995.
+
+20. Volkova L, Bennett LT, Tausz M. Diurnal and seasonal variations in photosynthetic and morphological
+
+traits
+----
+Source: 5.pdf
+ia antarctica) and epiphytes, Division of
+Silviculture Research and Development Annual Report 1994–95. Forestry Tasmania, Tasmania. 1995.
+
+20. Volkova L, Bennett LT, Tausz M. Diurnal and seasonal variations in photosynthetic and morphological
+
+traits of the tree ferns Dicksonia antarctica (Dicksoniaceae) and Cyathea australis (Cyatheaceae) in wet
+sclerophyll forests of Australia. Environmental and experimental botany. 2011; 70(1):11–9.
+
+21. Volkova L, Bennett LT, Tausz M. Effects of sudden
+----
+Source: 5.pdf
+traits of the tree ferns Dicksonia antarctica (Dicksoniaceae) and Cyathea australis (Cyatheaceae) in wet
+sclerophyll forests of Australia. Environmental and experimental botany. 2011; 70(1):11–9.
+
+21. Volkova L, Bennett LT, Tausz M. Effects of sudden exposure to high light levels on two tree fern species
+Dicksonia antarctica (Dicksoniaceae) and Cyathea australis (Cyatheaceae) acclimated to different light
+intensities. Australian Journal of Botany. 2010; 57(7):562–71.
+
+22.
+
+Ferwerda FW, R.J.;
+----
+Source: 5.pdf
+dden exposure to high light levels on two tree fern species
+Dicksonia antarctica (Dicksoniaceae) and Cyathea australis (Cyatheaceae) acclimated to different light
+intensities. Australian Journal of Botany. 2010; 57(7):562–71.
+
+22.
+
+Ferwerda FW, R.J.; Ashton, D.H. Coastal Tree Fern communities at Western Port, Victoria. Proceed-
+ings of the Royal Society of Victoria. 1981;93(1–2):1–13.
+
+23. Page C, Clifford H. Ecological biogeography of Australian conifers and ferns. Keast A, editor. The
+
+Hague:
+----
+Source: 5.pdf
+; Ashton, D.H. Coastal Tree Fern communities at Western Port, Victoria. Proceed-
+ings of the Royal Society of Victoria. 1981;93(1–2):1–13.
+
+23. Page C, Clifford H. Ecological biogeography of Australian conifers and ferns. Keast A, editor. The
+
+Hague: Dr. W. Junk bv Publishers; 1981. 471–98 p.
+
+24. Dignan P, Bren L. A study of the effect of logging on the understorey light environment in riparian buffer
+strips in a south-east Australian forest. Forest Ecology and Management. 2003;
+----
+Source: 5.pdf
+tor. The
+
+Hague: Dr. W. Junk bv Publishers; 1981. 471–98 p.
+
+24. Dignan P, Bren L. A study of the effect of logging on the understorey light environment in riparian buffer
+strips in a south-east Australian forest. Forest Ecology and Management. 2003; 172(2):161–72.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+13 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+25. Volkova L, Tausz M, Bennett LT, Dreyer E. Interactive effects of high
+----
+Source: 5.pdf
+03; 172(2):161–72.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+13 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+25. Volkova L, Tausz M, Bennett LT, Dreyer E. Interactive effects of high irradiance and moderate heat on
+photosynthesis, pigments, and tocopherol in the tree-fern Dicksonia antarctica. Functional Plant Biol-
+ogy. 2009; 36(12):1046–56.
+
+26.
+
+Tanner E. Leaf demography and growth of the tree-fern Cyathea pubescens Mett. ex
+----
+Source: 5.pdf
+h irradiance and moderate heat on
+photosynthesis, pigments, and tocopherol in the tree-fern Dicksonia antarctica. Functional Plant Biol-
+ogy. 2009; 36(12):1046–56.
+
+26.
+
+Tanner E. Leaf demography and growth of the tree-fern Cyathea pubescens Mett. ex Kuhn in Jamaica.
+Botanical Journal of the Linnean Society. 1983; 87(3):213–27.
+
+27. Arens NC. Variation in performance of the tree fern Cyathea caracasana (Cyatheaceae) across a suc-
+cessional mosaic in an Andean cloud forest. American Journal of
+----
+Source: 5.pdf
+ex Kuhn in Jamaica.
+Botanical Journal of the Linnean Society. 1983; 87(3):213–27.
+
+27. Arens NC. Variation in performance of the tree fern Cyathea caracasana (Cyatheaceae) across a suc-
+cessional mosaic in an Andean cloud forest. American Journal of Botany. 2001; 88(3):545–51. PMID:
+11250831
+
+28. Schmitt JL, Windisch PG. Growth rates and age estimates of Alsophila setosa Kaulf. in southern Brazil.
+
+American Fern Journal. 2006; 96(4):103–11.
+
+29. Nagano T, Suzuki E. Leaf demography and growth
+----
+Source: 5.pdf
+of Botany. 2001; 88(3):545–51. PMID:
+11250831
+
+28. Schmitt JL, Windisch PG. Growth rates and age estimates of Alsophila setosa Kaulf. in southern Brazil.
+
+American Fern Journal. 2006; 96(4):103–11.
+
+29. Nagano T, Suzuki E. Leaf demography and growth pattern of the tree fern Cyathea spinulosa in
+
+Yakushima Island. Tropics. 2007; 16(1):47–57.
+
+30. Australian Bureau of Meteorology. Annual average and montly days of rain: Autralian Government;
+
+2017 [2 April 2017].
+----
+Source: 5.pdf
+zuki E. Leaf demography and growth pattern of the tree fern Cyathea spinulosa in
+
+Yakushima Island. Tropics. 2007; 16(1):47–57.
+
+30. Australian Bureau of Meteorology. Annual average and montly days of rain: Autralian Government;
+
+2017 [2 April 2017]. http://www.bom.gov.au/jsp/ncc/climate_averages/raindays/index.jsp
+
+31. Australian Bureau of Meteorology. Annual average, seasonal and monthly rainfall: Australian Govern-
+ment; 2017 [2 April 2017].
+----
+Source: 5.pdf
+of rain: Autralian Government;
+
+2017 [2 April 2017]. http://www.bom.gov.au/jsp/ncc/climate_averages/raindays/index.jsp
+
+31. Australian Bureau of Meteorology. Annual average, seasonal and monthly rainfall: Australian Govern-
+ment; 2017 [2 April 2017]. http://www.bom.gov.au/jsp/ncc/climate_averages/rainfall/index.jsp.
+
+32.
+
+Lee P-H, Lin T-T, Chiou W-L. Phenology of 16 species of ferns in a subtropical forest of northeastern
+Taiwan. Journal of plant research. 2009; 122(1):61.
+----
+Source: 5.pdf
+t; 2017 [2 April 2017]. http://www.bom.gov.au/jsp/ncc/climate_averages/rainfall/index.jsp.
+
+32.
+
+Lee P-H, Lin T-T, Chiou W-L. Phenology of 16 species of ferns in a subtropical forest of northeastern
+Taiwan. Journal of plant research. 2009; 122(1):61. https://doi.org/10.1007/s10265-008-0191-7 PMID:
+19002750
+
+33. McCarthy MA, Gill AM, Lindenmayer DB. Fire regimes in mountain ash forest: evidence from forest age
+
+structure, extinction models and wildlife habitat. Forest Ecology and Management.
+----
+Source: 5.pdf
+):61. https://doi.org/10.1007/s10265-008-0191-7 PMID:
+19002750
+
+33. McCarthy MA, Gill AM, Lindenmayer DB. Fire regimes in mountain ash forest: evidence from forest age
+
+structure, extinction models and wildlife habitat. Forest Ecology and Management. 1999; 124(2):193–
+203.
+
+34. Benyon RG, Lane PN. Ground and satellite-based assessments of wet eucalypt forest survival and
+regeneration for predicting long-term hydrological responses to a large wildfire. Forest Ecology and
+Management. 2013;
+----
+Source: 5.pdf
+agement. 1999; 124(2):193–
+203.
+
+34. Benyon RG, Lane PN. Ground and satellite-based assessments of wet eucalypt forest survival and
+regeneration for predicting long-term hydrological responses to a large wildfire. Forest Ecology and
+Management. 2013; 294:197–207.
+
+35.
+
+Jemison ML, Lumsden L.F., Nelson J.L., Scroggie M.P. and Chick R.R. Assessing the impact of the
+2009 Kilmore East-Murrindindi complex fire on microbats. In: Department of Sustainability and Environ-
+ment, editor. Heidelberg,
+----
+Source: 5.pdf
+2013; 294:197–207.
+
+35.
+
+Jemison ML, Lumsden L.F., Nelson J.L., Scroggie M.P. and Chick R.R. Assessing the impact of the
+2009 Kilmore East-Murrindindi complex fire on microbats. In: Department of Sustainability and Environ-
+ment, editor. Heidelberg, Victoria, Australia: Victorian Government 2012.
+
+36. Hadfield JD. MCMC methods for multi-response generalized linear mixed models: the MCMCglmm R
+
+package. Journal of Statistical Software. 2010; 33(2):1–22.
+
+37. R Core Team. R: A language and
+----
+Source: 5.pdf
+elberg, Victoria, Australia: Victorian Government 2012.
+
+36. Hadfield JD. MCMC methods for multi-response generalized linear mixed models: the MCMCglmm R
+
+package. Journal of Statistical Software. 2010; 33(2):1–22.
+
+37. R Core Team. R: A language and environment for statistical computing [Internet]. Vienna, Austria: R
+
+Foundation for Statistical Computing; 2013 2015 [22/09/2015]. http://www.r-project.org.
+
+38. Australian Bureau of Meteorology. Climate and past weather: Australian Government;
+----
+Source: 5.pdf
+and environment for statistical computing [Internet]. Vienna, Austria: R
+
+Foundation for Statistical Computing; 2013 2015 [22/09/2015]. http://www.r-project.org.
+
+38. Australian Bureau of Meteorology. Climate and past weather: Australian Government; 2016 [14 Novem-
+
+ber 2016]. http://www.bom.gov.au/climate/.
+
+39.
+
+Jones MM, Olivas Rojas P, Tuomisto H, Clark DB, Franklin J. Environmental and neighbourhood effects
+on tree fern distributions in a neotropical lowland rain forest. Journal of
+----
+Source: 5.pdf
+ernment; 2016 [14 Novem-
+
+ber 2016]. http://www.bom.gov.au/climate/.
+
+39.
+
+Jones MM, Olivas Rojas P, Tuomisto H, Clark DB, Franklin J. Environmental and neighbourhood effects
+on tree fern distributions in a neotropical lowland rain forest. Journal of Vegetation Science. 2007; 18
+(1):13–24.
+
+40. Neyland M. Conservation and management of tree ferns in Tasmania. Hobart, Tasmania: National
+
+Parks and Wildlife Service Tasmania; 1986.
+
+41.
+
+Fedrigo M, Kasel S, Bennett LT, Roxburgh SH, Nitschke CR.
+----
+Source: 5.pdf
+l of Vegetation Science. 2007; 18
+(1):13–24.
+
+40. Neyland M. Conservation and management of tree ferns in Tasmania. Hobart, Tasmania: National
+
+Parks and Wildlife Service Tasmania; 1986.
+
+41.
+
+Fedrigo M, Kasel S, Bennett LT, Roxburgh SH, Nitschke CR. Carbon stocks in temperate forests of
+south-eastern Australia reflect large tree distribution and edaphic conditions. Forest Ecology and Man-
+agement. 2014; 334:129–43.
+
+42. Ashton D. Ecology of Bryophytic Communities in Mature Eucalyptus regnans F
+----
+Source: 5.pdf
+. Carbon stocks in temperate forests of
+south-eastern Australia reflect large tree distribution and edaphic conditions. Forest Ecology and Man-
+agement. 2014; 334:129–43.
+
+42. Ashton D. Ecology of Bryophytic Communities in Mature Eucalyptus regnans F Muell Forest at Wallaby
+
+Creek, Victoria. Australian Journal of Botany. 1986; 34(2):107–29.
+
+43. Attiwill PM, Leeper GW. Forest soils and nutrient cycles. Melbourne, Australia: Melbourne University
+
+Press; 1987.
+
+44. Berry LE, Driscoll DA, Stein
+----
+Source: 5.pdf
+ns F Muell Forest at Wallaby
+
+Creek, Victoria. Australian Journal of Botany. 1986; 34(2):107–29.
+
+43. Attiwill PM, Leeper GW. Forest soils and nutrient cycles. Melbourne, Australia: Melbourne University
+
+Press; 1987.
+
+44. Berry LE, Driscoll DA, Stein JA, Blanchard W, Banks SC, Bradstock RA, et al. Identifying the location of
+fire refuges in wet forest ecosystems. Ecological Applications. 2015; 25(8):2337–48. PMID: 26910959
+
+45.
+
+Lindenmayer DB, Blair DP, McBurney L, Banks SC. Mountain Ash:
+----
+Source: 5.pdf
+Stein JA, Blanchard W, Banks SC, Bradstock RA, et al. Identifying the location of
+fire refuges in wet forest ecosystems. Ecological Applications. 2015; 25(8):2337–48. PMID: 26910959
+
+45.
+
+Lindenmayer DB, Blair DP, McBurney L, Banks SC. Mountain Ash: Fire, logging and the future of Victor-
+ia’s giant forests. Melbourne, Australia: CSIRO Publishing; 2015.
+
+46. Blair D, McBurney L, Lindenmayer DB. Unpublished vegetation data. 2016.
+
+47. Ash J. Demography of Cyathea hornei (Cyatheaceae), a
+----
+Source: 5.pdf
+tain Ash: Fire, logging and the future of Victor-
+ia’s giant forests. Melbourne, Australia: CSIRO Publishing; 2015.
+
+46. Blair D, McBurney L, Lindenmayer DB. Unpublished vegetation data. 2016.
+
+47. Ash J. Demography of Cyathea hornei (Cyatheaceae), a tropical tree-fern in Fiji. Australian Journal of
+
+Botany. 1987; 35(3):331–42.
+
+48. Arens NC, Baracaldo PS. Variation in tree fern stipe length with canopy height: tracking preferred habi-
+
+tat through morphological change. American Fern Journal.
+----
+Source: 5.pdf
+, a tropical tree-fern in Fiji. Australian Journal of
+
+Botany. 1987; 35(3):331–42.
+
+48. Arens NC, Baracaldo PS. Variation in tree fern stipe length with canopy height: tracking preferred habi-
+
+tat through morphological change. American Fern Journal. 2000; 90(1):1–15.
+
+49. Bystriakova N, Bader M, Coomes DA. Long-term tree fern dynamics linked to disturbance and shade
+
+tolerance. Journal of Vegetation Science. 2011; 22(1):72–84.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11,
+----
+Source: 5.pdf
+nal. 2000; 90(1):1–15.
+
+49. Bystriakova N, Bader M, Coomes DA. Long-term tree fern dynamics linked to disturbance and shade
+
+tolerance. Journal of Vegetation Science. 2011; 22(1):72–84.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+14 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+50. Bittner J, Breckle S-W. The growth rate and age of tree fern trunks in relation to habitats. American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A.
+----
+Source: 5.pdf
+11, 2017
+
+14 / 15
+
+Non-linear growth in tree ferns, Dicksonia antarctica and Cyathea australis
+
+50. Bittner J, Breckle S-W. The growth rate and age of tree fern trunks in relation to habitats. American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+itats. American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+tats. American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ats. American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ts. American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+s. American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+. American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+American Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+merican Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+erican Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+rican Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ican Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+can Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+an Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+n Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Fern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ern
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+rn
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+n
+
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Journal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ournal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+urnal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+rnal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+nal. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+al. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+l. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+. 1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+1995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+995; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+95; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+5; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+; 85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+85(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+5(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+(2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+2):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+):37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+:37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+37–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+7–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+–42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+42.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+2.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+.
+
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+51. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+1. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+. Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Pope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ope A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+pe A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+e A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+A. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+. The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+The role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+he role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+e role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+role of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ole of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+le of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+e of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+of tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+f tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+tree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ree-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ee-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+e-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+-fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+fern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ern in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+rn in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+n in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+in the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+n the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+the New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+he New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+e New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+New Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ew Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+w Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Zealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ealand bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+aland bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+land bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+and bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+nd bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+d bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+bush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ush. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+sh. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+h. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+. New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+New Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ew Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+w Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Zealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ealand Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+aland Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+land Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+and Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+nd Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+d Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Journal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ournal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+urnal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+rnal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+nal of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+al of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+l of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+of Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+f Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Science and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+cience and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ience and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ence and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+nce and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ce and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+e and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+and Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+nd Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+d Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+Technol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+echnol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+chnol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+hnol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+nol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ol-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+l-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+-
+
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ogy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+gy. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+y. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+. 1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+1926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+926; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+26; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+6; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+; 8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+8:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+:85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+85–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+5–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+–93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+93.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+3.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+PLOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+LOS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+OS ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+S ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ONE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+NE | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+E | https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+| https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+| https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+https://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ttps://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+tps://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ps://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+s://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+://doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+//doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+/doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+doi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+oi.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+i.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+.org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+org/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+rg/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+g/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+/10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+10.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+0.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+.1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+1371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+371/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+71/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+1/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+/journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+journal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ournal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+urnal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+rnal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+nal.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+al.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+l.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+.pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+pone.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+one.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ne.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+e.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+.0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+0176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+176908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+76908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+6908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+908 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+08 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+8 May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+May 11, 2017
+
+15 /
+----
+Source: 5.pdf
+ay 11, 2017
+
+15 /
+----
+Source: 5.pdf
+y 11, 2017
+
+15 /
+----
+Source: 5.pdf
+11, 2017
+
+15 /
+----
+Source: 5.pdf
+11, 2017
+
+15 /
+----
+Source: 5.pdf
+1, 2017
+
+15 /
+----
+Source: 5.pdf
+, 2017
+
+15 /
+----
+Source: 5.pdf
+2017
+
+15 /
+----
+Source: 5.pdf
+2017
+
+15 /
+----
+Source: 5.pdf
+017
+
+15 /
+----
+Source: 5.pdf
+17
+
+15 /
+----
+Source: 5.pdf
+7
+
+15 /
+----
+Source: 5.pdf
+15 /
+----
+Source: 5.pdf
+15 /
+----
+Source: 5.pdf
+15 /
+----
+Source: 5.pdf
+5 /
+----
+Source: 5.pdf
+/
+----
+Source: 5.pdf
+/
+----
+Source: 5.pdf
+15
+----
+Source: 5.pdf
+15
+----
+Source: 5.pdf
+5
+----
